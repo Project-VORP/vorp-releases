@@ -1,11 +1,11 @@
 {
-    "version":  "0.2.6",
-    "notes":  "Real-time notifications: inbox, friend requests, file received. Files under 5MB now use S3 directly (faster for small files).",
-    "pub_date":  "2026-04-05T16:26:29Z",
-    "platforms":  {
-                      "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTZOSjIvamhIOUhhRkc3V2E4Q3RhU1dCL0duZjlWN0praUZHN0NqTkQ2bENOK1RqMU9Jb3hpTzErUGRkTzRDTmh0Tk80TDBkYTNtdU1kRmRhS3dRdXdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1Mzg2NTI5CWZpbGU6Vk9SUF8wLjIuNl94NjQtc2V0dXAuZXhlCjZTM0dSV2NQZ0pFY2p2bDkybE9lSGNVSDh3aDg4NXVsS3ZWTHc1WFdldUNwVk9rVitIYk9LLzkwV3VoMDlnaXZNTkFWMVpvTU9YTi9QQjVkUVFUY0NRPT0K",
-                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.2.6/VORP_0.2.6_x64-setup.exe"
-                                         }
-                  }
+  "version": "0.2.7",
+  "notes": "Removed sidebar active indicator dot, fixed share page mobile layout, added drag-and-drop from file explorer into vault",
+  "pub_date": "2026-04-05T17:14:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dXdDeGFFNW85T3VGdEgzcHk0MEthcTMrTWNMRUtBV09iN0hBbGxsRmQ5ZlpNemg3WjJ1VkZCdlNmeDNncTBLRUltZ2lZTkk0eVpLTUNybThiUitMbEEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1Mzg5NDcyCWZpbGU6Vk9SUF8wLjIuN194NjQtc2V0dXAuZXhlCjRLUmFVazRsNGZxNk1hK0NFS2IwV3hmR0RMK2tNL2JKTW5zZWErVmlOQVVxL0w5S1VuV01ETzBEM1ZmZitlRytYeWt1anRpdUVvRkc1c1VrbXVNWkRRPT0K",
+      "url": "https://github.com/Project-VORP/vorp-releases/releases/download/v0.2.7/VORP_0.2.7_x64-setup.exe"
+    }
+  }
 }
