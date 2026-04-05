@@ -1,11 +1,11 @@
 {
-  "version": "0.2.9",
-  "notes": "Version display in Settings, check for updates button",
-  "pub_date": "2026-04-05T19:00:00Z",
+  "version": "0.2.10",
+  "notes": "Fixed stuck Connecting when sender falls back to S3 for large files",
+  "pub_date": "2026-04-05T19:30:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dXduNU9MMDBOeFV0L3VSdzBobStqcW1OaWx0T2NDSElWSmhFTXRSNjJvM0F0Y2xaMXd3eU5wZjViSFFXMGRoanV1S2xuY0RnY012N1lIeGU5c0RNRndjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1MzkzMjQxCWZpbGU6Vk9SUF8wLjIuOV94NjQtc2V0dXAuZXhlCjQwcWZ6SytETTEyWnZJN2dMY3dTOWZtVFdFWldQdDcycldNdFl6MU00NmpVUkxLZ3FacW5RMldVendNNFkyLzBpSVBicGlnZkQxM0kzVVlSWkJHdERBPT0K",
-      "url": "https://github.com/Project-VORP/vorp-releases/releases/download/v0.2.9/VORP_0.2.9_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dStjTUFtZU90dnpiTEtBdlhlUXBhZzFpbVMwcFdCN1B1UUFiMGVrbWdNMkRxRnhaTmVIV1NleFpIQWhmQVpPTzUrV0ZIK3BVWkpzL08vMkVxZzFiVWdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1Mzk0ODI5CWZpbGU6Vk9SUF8wLjIuMTBfeDY0LXNldHVwLmV4ZQorNmRaaGw4T1RBeWNyWk8vSHFSZHVjdTk1YmdSRFFqakNMTm1FZEdWbk5uWFdoc1BISXYyL0xoVFA0bk9BcUVCMERxWmdmTThxOGNaN29iNlJ4ak1CQT09Cg==",
+      "url": "https://github.com/Project-VORP/vorp-releases/releases/download/v0.2.10/VORP_0.2.10_x64-setup.exe"
     }
   }
 }
