@@ -1,11 +1,11 @@
 {
-  "version": "0.2.7",
-  "notes": "Removed sidebar active indicator dot, fixed share page mobile layout, added drag-and-drop from file explorer into vault",
-  "pub_date": "2026-04-05T17:14:00Z",
+  "version": "0.2.8",
+  "notes": "Fixed PDF preview, fullscreen preview overlay, arrow key navigation, print button, drag files from vault to desktop",
+  "pub_date": "2026-04-05T18:20:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dXdDeGFFNW85T3VGdEgzcHk0MEthcTMrTWNMRUtBV09iN0hBbGxsRmQ5ZlpNemg3WjJ1VkZCdlNmeDNncTBLRUltZ2lZTkk0eVpLTUNybThiUitMbEEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1Mzg5NDcyCWZpbGU6Vk9SUF8wLjIuN194NjQtc2V0dXAuZXhlCjRLUmFVazRsNGZxNk1hK0NFS2IwV3hmR0RMK2tNL2JKTW5zZWErVmlOQVVxL0w5S1VuV01ETzBEM1ZmZitlRytYeWt1anRpdUVvRkc1c1VrbXVNWkRRPT0K",
-      "url": "https://github.com/Project-VORP/vorp-releases/releases/download/v0.2.7/VORP_0.2.7_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTlCNjdZSTA3bVlHUHptK2M2UzlRMG1tOXR1UmQ1b0J5Z1dkZkJOYkdmeDhjOVRsOHJvV0NIc3VmUHE4M3ZHa29CRWVvWFcxejVqOXl0K29scE1tK3dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1MzkyMDM4CWZpbGU6Vk9SUF8wLjIuOF94NjQtc2V0dXAuZXhlCmJwUFdNOGxWbjd3b05wSDVJbEhpaVcwelI1YnY4bzBMOWVZK3JTcjFMcEw3cFhlY2Ywd1VCc0EyQk1xT3E1ZmhZZzVzSGZOajRNbUlDREVmTmVCZkRRPT0K",
+      "url": "https://github.com/Project-VORP/vorp-releases/releases/download/v0.2.8/VORP_0.2.8_x64-setup.exe"
     }
   }
 }
