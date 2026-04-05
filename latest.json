@@ -1,11 +1,11 @@
 {
     "version":  "0.2.2",
-    "notes":  "Bug fixes and improvements",
-    "pub_date":  "2026-04-05T11:38:33Z",
+    "notes":  "Fix stuck Receiving bar when sender disconnects mid-transfer",
+    "pub_date":  "2026-04-05T11:56:15Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dS95YmJoaXFuWHNjSnFZbUk0OXovTkVNWWl4M1BmazJTNVhhM3FtTFhQZ3VoMzBBQjcwUFFVVWtJRUJrdTdyTXovNWpKUnM3RmxmRzhhVFp6aWppcmdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1MzYyNzg1CWZpbGU6Vk9SUF8wLjIuMV94NjQtc2V0dXAuZXhlCndBZHMwUzhOalpDTkdHTTI4UzNLbkNCMlBCNURUeFNjNzE5dFFnQlM4ZEJsSTVHbjN3d2Jwa3l1VzZpMzI0UW1tM0JBdzJHb3YxbmM1d1IyUkg1cERRPT0K",
-                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.2.2/VORP_0.2.1_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dS8yODhlQkU3OENvVGlGTFZrb09PNTRWZFFGUXVhZ3VzTGlQYkpWam55WUlrYk1UZUdmSStmdm9RVFM3UDVCVTlxYVNadzJwLzcwYmxpQjVvMU45K1FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1MzcwMzI5CWZpbGU6Vk9SUF8wLjIuMl94NjQtc2V0dXAuZXhlCi9BRVRTR1l2Z3Y4YmJ0SFdiWnFDanFwclRQZk44TXY2bkZFcHFyQVNuOFFPZk1TMGE1SjhnNS9aekUwajM0REx5UndpTlk4TjhSUTh1SzBvZkxHQkRBPT0K",
+                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.2.2/VORP_0.2.2_x64-setup.exe"
                                          }
                   }
 }
