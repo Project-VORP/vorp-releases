@@ -1,11 +1,11 @@
 {
-  "version": "0.2.10",
-  "notes": "Fixed stuck Connecting when sender falls back to S3 for large files",
-  "pub_date": "2026-04-05T19:30:00Z",
+  "version": "0.2.11",
+  "notes": "Fixed PDF preview hanging in desktop app",
+  "pub_date": "2026-04-05T20:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dStjTUFtZU90dnpiTEtBdlhlUXBhZzFpbVMwcFdCN1B1UUFiMGVrbWdNMkRxRnhaTmVIV1NleFpIQWhmQVpPTzUrV0ZIK3BVWkpzL08vMkVxZzFiVWdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1Mzk0ODI5CWZpbGU6Vk9SUF8wLjIuMTBfeDY0LXNldHVwLmV4ZQorNmRaaGw4T1RBeWNyWk8vSHFSZHVjdTk1YmdSRFFqakNMTm1FZEdWbk5uWFdoc1BISXYyL0xoVFA0bk9BcUVCMERxWmdmTThxOGNaN29iNlJ4ak1CQT09Cg==",
-      "url": "https://github.com/Project-VORP/vorp-releases/releases/download/v0.2.10/VORP_0.2.10_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dXdwYkxRYThDbGh6VFFqTTlKcjkxM29GZFBneExXWFUyeHZxTG8xWCtFNzdSVlhnQVFEYU9icVJVdjZRMGxBbnZmSlpBWXRub1Q4cjVOMU9BUGthMUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NDAxNzU5CWZpbGU6Vk9SUF8wLjIuMTFfeDY0LXNldHVwLmV4ZQpRNWVxUjVXWXlla1VnWC85N3VWWXU3Wjk3UFk3ekY3ZFZPUStvWDFVMFl0SDB0SFZ2UnRKY2F0TzdXWXJuTmw4V2wzTlBDaUlLYU5SKzlRZnBXbkJEdz09Cg==",
+      "url": "https://github.com/Project-VORP/vorp-releases/releases/download/v0.2.11/VORP_0.2.11_x64-setup.exe"
     }
   }
 }
