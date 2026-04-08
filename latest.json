@@ -1,11 +1,11 @@
 {
-  "version": "0.2.14",
-  "notes": "UI lightening, drop link fix, share modal redesign, unlimited P2P",
-  "pub_date": "2026-04-08T04:13:25Z",
+  "version": "0.2.15",
+  "notes": "All uppercase removed, lighter UI, drop link fix, share links use projectvorp.com",
+  "pub_date": "2026-04-08T04:34:57Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dSt6K0prWXVsSVR3eWVrWDRJRHB4Yko1SXhFV3hrM0Z2RkVxQjdpTDc2VjV6ZlVLVlA0eHdWSUFQMFpMT0JFNm5heEJSWVpsbXkveW4wTytZZ3RpQWc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NjIxNTUxCWZpbGU6Vk9SUF8wLjIuMTRfeDY0LXNldHVwLmV4ZQpvK1E4TE0rZkJmNjc4UlJ5RDJBUXpuSW1OcHN1S2RMTTNMSjUvT3RrOEVXY0dNRHpkVktBcDhla3ptUERSVUMyNCtYQ0E4NXN4NlE3N2F1elBzdkhEUT09Cg==",
-      "url": "https://github.com/Project-VORP/vorp-releases/releases/download/v0.2.14/VORP_0.2.14_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTF3NUlTNUJwa0s3UkxUQk1QQXZ1ejJJeUpSOStrbFR2TTZzRGFvbytpb1lHaUhMTTh1bUdaMWNvdm1jekc3R2pxQWx6bENEUVRNeWZlR1pWOUVyVEFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NjIyODY3CWZpbGU6Vk9SUF8wLjIuMTVfeDY0LXNldHVwLmV4ZQpJT2ovWUNsSzlLUmR6VTN4cXE1aXpsRWR5UE1QMDdLQ1BNR0x4ZmpuSTVVU2ZQeVZmMnpMY0F5Q3FWR3FLSldqYjdWUjVxNnFTbXpTWGJiY1VhWVBEQT09Cg==",
+      "url": "https://github.com/Project-VORP/vorp-releases/releases/download/v0.2.15/VORP_0.2.15_x64-setup.exe"
     }
   }
 }
