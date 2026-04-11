@@ -1,11 +1,11 @@
 {
-  "version": "0.2.15",
-  "notes": "All uppercase removed, lighter UI, drop link fix, share links use projectvorp.com",
-  "pub_date": "2026-04-08T04:34:57Z",
+  "version": "0.2.16",
+  "notes": "P2P-first transfers, Cloudflare TURN, startup fix",
+  "pub_date": "2026-04-11T06:02:27Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTF3NUlTNUJwa0s3UkxUQk1QQXZ1ejJJeUpSOStrbFR2TTZzRGFvbytpb1lHaUhMTTh1bUdaMWNvdm1jekc3R2pxQWx6bENEUVRNeWZlR1pWOUVyVEFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NjIyODY3CWZpbGU6Vk9SUF8wLjIuMTVfeDY0LXNldHVwLmV4ZQpJT2ovWUNsSzlLUmR6VTN4cXE1aXpsRWR5UE1QMDdLQ1BNR0x4ZmpuSTVVU2ZQeVZmMnpMY0F5Q3FWR3FLSldqYjdWUjVxNnFTbXpTWGJiY1VhWVBEQT09Cg==",
-      "url": "https://github.com/Project-VORP/vorp-releases/releases/download/v0.2.15/VORP_0.2.15_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dSs0NndjMmNZeXd0Sy85VXE3MXNZSS8wZmdYTS90a1hGR1pYMUxMWDRwa3VYZVVIdVZQcURSNDFEK2Z5aGthc1R1QkFXY0F1cW1BSmhEWjFDUmM0aFFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1ODg3MzEyCWZpbGU6Vk9SUF8wLjIuMTZfeDY0LXNldHVwLmV4ZQpiTlNZYmZXZCtvUmlYaHhuZ3Z0Wjh5RG1IWlk1S1pVR3FWdzM1dGRLNHFxeW5ydmx5UDNYTktzazJFMjFWRVVRakNIYnJnMzNud3dyNmNkQlRuL3pDZz09Cg==",
+      "url": "https://github.com/Project-VORP/vorp-releases/releases/download/v0.2.16/VORP_0.2.16_x64-setup.exe"
     }
   }
 }
