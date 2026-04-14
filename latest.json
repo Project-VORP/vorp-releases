@@ -1,11 +1,11 @@
 {
-  "version": "0.2.16",
-  "notes": "P2P-first transfers, Cloudflare TURN, startup fix",
-  "pub_date": "2026-04-11T06:02:27Z",
+  "version": "0.2.17",
+  "notes": "VORP Drive — vault in Windows File Explorer. Cloudflare Workers signaling. Security + stability audit.",
+  "pub_date": "2026-04-14T08:55:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dSs0NndjMmNZeXd0Sy85VXE3MXNZSS8wZmdYTS90a1hGR1pYMUxMWDRwa3VYZVVIdVZQcURSNDFEK2Z5aGthc1R1QkFXY0F1cW1BSmhEWjFDUmM0aFFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1ODg3MzEyCWZpbGU6Vk9SUF8wLjIuMTZfeDY0LXNldHVwLmV4ZQpiTlNZYmZXZCtvUmlYaHhuZ3Z0Wjh5RG1IWlk1S1pVR3FWdzM1dGRLNHFxeW5ydmx5UDNYTktzazJFMjFWRVVRakNIYnJnMzNud3dyNmNkQlRuL3pDZz09Cg==",
-      "url": "https://github.com/Project-VORP/vorp-releases/releases/download/v0.2.16/VORP_0.2.16_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTc4NTVYTTJ4ZVltVHRSV29pOHh5M0RrMFZUUllXWDBzQXJuRGZ1cktsRmlZNkVrSXVsZ3NPdkEreDlpYnVscFVmUlJ4OHVRVE9GZTRXUGI0OEV2MkFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MTM2OTMyCWZpbGU6Vk9SUF8wLjIuMTdfeDY0LXNldHVwLmV4ZQpkd2hLRWh2dkpzUzZpMk5iV2ZueTArR050KzBiYjZjMzFxWXpZUTFFN05lR0tXRzVTaVJ1ZHNheWVrK3dzL2wrNU1TUlN2ZnZ2UXZLTUxhT042eWZCZz09Cg==",
+      "url": "https://github.com/Project-VORP/vorp-releases/releases/download/v0.2.17/VORP_0.2.17_x64-setup.exe"
     }
   }
 }
