@@ -1,11 +1,11 @@
 {
-  "version": "0.2.17",
-  "notes": "VORP Drive — vault in Windows File Explorer. Cloudflare Workers signaling. Security + stability audit.",
-  "pub_date": "2026-04-14T08:55:00Z",
+  "version": "0.2.18",
+  "notes": "VORP Drive: delete-while-closed + rename fixes, Explorer sidebar entry, vault preview-on-click + save-to-vault prompt.",
+  "pub_date": "2026-04-14T10:25:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTc4NTVYTTJ4ZVltVHRSV29pOHh5M0RrMFZUUllXWDBzQXJuRGZ1cktsRmlZNkVrSXVsZ3NPdkEreDlpYnVscFVmUlJ4OHVRVE9GZTRXUGI0OEV2MkFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MTM2OTMyCWZpbGU6Vk9SUF8wLjIuMTdfeDY0LXNldHVwLmV4ZQpkd2hLRWh2dkpzUzZpMk5iV2ZueTArR050KzBiYjZjMzFxWXpZUTFFN05lR0tXRzVTaVJ1ZHNheWVrK3dzL2wrNU1TUlN2ZnZ2UXZLTUxhT042eWZCZz09Cg==",
-      "url": "https://github.com/Project-VORP/vorp-releases/releases/download/v0.2.17/VORP_0.2.17_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTJNQnd2aHQrRmZNMWgxdE9XMnZRNmE0TGxHc2dRZ2V0aXhvaHhqaHVuUzNvdkk1MThid1p4cGJoYVdTWUZ6QTAwRWsycU5nY1RDUDVYS3Bya29mYWdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MTQyNDU1CWZpbGU6Vk9SUF8wLjIuMThfeDY0LXNldHVwLmV4ZQpiVzlnR0xHU25BN0dMVUdoSVF0ZWY1a3RMWEovVEJ2dTF6T1JUOWhmVUVPbkFiYnFQci8va05hREtrYi8wT093eER6TnVsaC96Z2wvUG1nK0hvSk5CZz09Cg==",
+      "url": "https://github.com/Project-VORP/vorp-releases/releases/download/v0.2.18/VORP_0.2.18_x64-setup.exe"
     }
   }
 }
