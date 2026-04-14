@@ -1,11 +1,11 @@
 {
-  "version": "0.2.18",
-  "notes": "VORP Drive: delete-while-closed + rename fixes, Explorer sidebar entry, vault preview-on-click + save-to-vault prompt.",
-  "pub_date": "2026-04-14T10:25:00Z",
+  "version": "0.2.19",
+  "notes": "Flow P2P fixes: 5% stall fix (READY handshake), 4-channel parallel DataChannels, auto-accept + inbox progress panel, devtools enabled.",
+  "pub_date": "2026-04-14T11:14:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTJNQnd2aHQrRmZNMWgxdE9XMnZRNmE0TGxHc2dRZ2V0aXhvaHhqaHVuUzNvdkk1MThid1p4cGJoYVdTWUZ6QTAwRWsycU5nY1RDUDVYS3Bya29mYWdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MTQyNDU1CWZpbGU6Vk9SUF8wLjIuMThfeDY0LXNldHVwLmV4ZQpiVzlnR0xHU25BN0dMVUdoSVF0ZWY1a3RMWEovVEJ2dTF6T1JUOWhmVUVPbkFiYnFQci8va05hREtrYi8wT093eER6TnVsaC96Z2wvUG1nK0hvSk5CZz09Cg==",
-      "url": "https://github.com/Project-VORP/vorp-releases/releases/download/v0.2.18/VORP_0.2.18_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dS9saHJjbzFsM2JscHo3WkdlbXd4TXBYanZCa0dmQ0JENlFkLzJ4QUs3UHpXdG0xak8yeENpQ0NyZm9mWUZ5c0o5eG9FRXpqY0Z1aUVna05tUWJ0YXdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MTQ1NDI5CWZpbGU6Vk9SUF8wLjIuMTlfeDY0LXNldHVwLmV4ZQo1MW9jM1lia0hNWElzRlVqZ1lpVWY0RWNFcjQxVTBwT1prRkVMZ2cwcXFjNGk3RmdzenlFVGI3UmNqZGNkN0U4UTJYN3JlV1hpMjlMUU9vc1owcVZBUT09Cg==",
+      "url": "https://github.com/Project-VORP/vorp-releases/releases/download/v0.2.19/VORP_0.2.19_x64-setup.exe"
     }
   }
 }
