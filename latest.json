@@ -1,11 +1,11 @@
 {
-  "version": "0.2.22",
-  "notes": "New: open VORP folder button in sidebar. Upload progress bar for drop links. SEO blog post.",
-  "pub_date": "2026-04-22T07:30:11Z",
+  "version": "0.2.23",
+  "notes": "Fix OOM crash on large uploads (streams from disk now). Upload ceiling raised from 50 GB to 5 TB.",
+  "pub_date": "2026-04-22T09:54:53Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUM0NBd1dVelpJMjZnV1RPc2JtZ21GYUtCT3RyQTFReG5YdTY1MmovQXFrS3I4SVJjNGF1U0duRnZrQ0tGUHVDSi9Ba0dQMTRzY0pDRGVNZ2pScTVsTW1ZelNRYmlpQUFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2ODQyMjQ2CWZpbGU6Vk9SUF8wLjIuMjJfeDY0LXNldHVwLmV4ZQoxYnQ5SGF2cUd1aWMxU3BwQm1OamNqY0FBcXVXOVJacHpDbkRSNmZDaHkyWi9lVERiMkg5eDFCem9GMXIwQXQyc0tRY1g0UU1WaCthbDdweVhycm5Ddz09Cg==",
-      "url": "https://github.com/Project-VORP/vorp-releases/releases/download/v0.2.22/VORP_0.2.22_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUM0NBd1dVelpJMnl5dnBQcHh4SU5xNFhxSlF4WWtkakUvdjVWTlFTdHFldTUwQmI1TjRXNEhmeVlYNG9vbXhoVk1qWUV6aysraUVQMWpWUngxRmRYeC9kWHQzcEFqNHdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2ODUwNjQ2CWZpbGU6Vk9SUF8wLjIuMjNfeDY0LXNldHVwLmV4ZQpNU2pXOStmZ3BmWmdyR3FDMHJtMXJXc0JsVWFRd2NXdVZuakVmSDd0YjNWYzhFUFh6cExNMU1TSDNVeHliZ25iTlVGV3pNc2wzeTNWZHVybE0wbldEUT09Cg==",
+      "url": "https://github.com/Project-VORP/vorp-releases/releases/download/v0.2.23/VORP_0.2.23_x64-setup.exe"
     }
   }
 }
