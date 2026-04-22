@@ -1,11 +1,11 @@
 {
-  "version": "0.2.21",
-  "notes": "Native notifications, TURN relay, onboarding, offline resilience, drop-link fixes, B&W polish, receive popup, taskbar-icon fix.",
-  "pub_date": "2026-04-22T07:06:25Z",
+  "version": "0.2.22",
+  "notes": "New: open VORP folder button in sidebar. Upload progress bar for drop links. SEO blog post.",
+  "pub_date": "2026-04-22T07:30:11Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUM0NBd1dVelpJMjd4VmhIa3BSaXhHZmJwc0IzekREQ0c2U3JMZFpRcmVMVFF6N1RPME1RUTlBR3o1UFFmUFBpOTFwM3dmWTArZWQwQXpvbFhQd1BVcUJlM3p1MFJ6OVFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2ODM0Nzk4CWZpbGU6Vk9SUF8wLjIuMjFfeDY0LXNldHVwLmV4ZQpHakFuaG45UUhvVi9HTERMRGlTck5EVDFFRjBNbGVpbmpiNGpnWTNOQnd5STdiSzlzSXhxTWhNbE5FOXNWUXRNcVZ5TXB5T0FOUDlKVUFsUnNNcndDdz09Cg==",
-      "url": "https://github.com/Project-VORP/vorp-releases/releases/download/v0.2.21/VORP_0.2.21_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUM0NBd1dVelpJMjZnV1RPc2JtZ21GYUtCT3RyQTFReG5YdTY1MmovQXFrS3I4SVJjNGF1U0duRnZrQ0tGUHVDSi9Ba0dQMTRzY0pDRGVNZ2pScTVsTW1ZelNRYmlpQUFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2ODQyMjQ2CWZpbGU6Vk9SUF8wLjIuMjJfeDY0LXNldHVwLmV4ZQoxYnQ5SGF2cUd1aWMxU3BwQm1OamNqY0FBcXVXOVJacHpDbkRSNmZDaHkyWi9lVERiMkg5eDFCem9GMXIwQXQyc0tRY1g0UU1WaCthbDdweVhycm5Ddz09Cg==",
+      "url": "https://github.com/Project-VORP/vorp-releases/releases/download/v0.2.22/VORP_0.2.22_x64-setup.exe"
     }
   }
 }
