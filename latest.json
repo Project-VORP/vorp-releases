@@ -1,11 +1,11 @@
 {
-  "version": "0.2.19",
-  "notes": "Flow P2P fixes: 5% stall fix (READY handshake), 4-channel parallel DataChannels, auto-accept + inbox progress panel, devtools enabled.",
-  "pub_date": "2026-04-14T11:14:00Z",
+  "version": "0.2.21",
+  "notes": "Native notifications, TURN relay, onboarding, offline resilience, drop-link fixes, B&W polish, receive popup, taskbar-icon fix.",
+  "pub_date": "2026-04-22T07:06:25Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dS9saHJjbzFsM2JscHo3WkdlbXd4TXBYanZCa0dmQ0JENlFkLzJ4QUs3UHpXdG0xak8yeENpQ0NyZm9mWUZ5c0o5eG9FRXpqY0Z1aUVna05tUWJ0YXdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MTQ1NDI5CWZpbGU6Vk9SUF8wLjIuMTlfeDY0LXNldHVwLmV4ZQo1MW9jM1lia0hNWElzRlVqZ1lpVWY0RWNFcjQxVTBwT1prRkVMZ2cwcXFjNGk3RmdzenlFVGI3UmNqZGNkN0U4UTJYN3JlV1hpMjlMUU9vc1owcVZBUT09Cg==",
-      "url": "https://github.com/Project-VORP/vorp-releases/releases/download/v0.2.19/VORP_0.2.19_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUM0NBd1dVelpJMjd4VmhIa3BSaXhHZmJwc0IzekREQ0c2U3JMZFpRcmVMVFF6N1RPME1RUTlBR3o1UFFmUFBpOTFwM3dmWTArZWQwQXpvbFhQd1BVcUJlM3p1MFJ6OVFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2ODM0Nzk4CWZpbGU6Vk9SUF8wLjIuMjFfeDY0LXNldHVwLmV4ZQpHakFuaG45UUhvVi9HTERMRGlTck5EVDFFRjBNbGVpbmpiNGpnWTNOQnd5STdiSzlzSXhxTWhNbE5FOXNWUXRNcVZ5TXB5T0FOUDlKVUFsUnNNcndDdz09Cg==",
+      "url": "https://github.com/Project-VORP/vorp-releases/releases/download/v0.2.21/VORP_0.2.21_x64-setup.exe"
     }
   }
 }
