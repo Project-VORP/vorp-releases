@@ -1,11 +1,11 @@
 {
-  "version": "0.3.0",
-  "notes": "Activity page works, new ToggleSwitch, MAX badges removed.",
-  "pub_date": "2026-04-24T13:51:47Z",
+  "version": "0.3.1",
+  "notes": "Settings → Software → Check for updates button.",
+  "pub_date": "2026-04-24T14:05:21Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUM0NBd1dVelpJMjhZcHpaNnBjcmlnbkhGSU9NZjM1cXJTbFFKNFcwVUE3YmhZcDdpWGRaTExqZ2dWMEJBWW16SzBJdjd0QS9WNlZUUk1yNjZ3RHh3TTFiSE9qdDc0clFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MDM4MjMzCWZpbGU6Vk9SUF8wLjMuMF94NjQtc2V0dXAuZXhlCjJUSWFFUTlIdTJRMUd1Y3Z6ckFmc04zZmJJcUFEaDd0enNlMW5sV0JDd1FwQUJuc0RHdDlZYW9PMDFCYVBsY0xZM3NZbVh0WWxsZmZsU29Bdm1qTkFnPT0K",
-      "url": "https://github.com/Project-VORP/vorp-releases/releases/download/v0.3.0/VORP_0.3.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUM0NBd1dVelpJMitHd0pEZEkzcmJDYUdrVGlacDBoNzR1bGhWeDdramd2amJuS2pkYnZuOVg0b09LOEhtYW9Banh5d2l0blVLMjhGZ2l5dTJYOUhmZm5ManBNOS9haHdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MDM5NDUzCWZpbGU6Vk9SUF8wLjMuMV94NjQtc2V0dXAuZXhlCjNkYkhtSEZiejIwNWkrK2xab0twN3ppUFBibmJqM2pzS3M5TTJCb2VVai9tazdodDJqMXZFY2lsWXhOVm15ZFMyc3R6WWxDQXlkNzRVdk9VNG05VENnPT0K",
+      "url": "https://github.com/Project-VORP/vorp-releases/releases/download/v0.3.1/VORP_0.3.1_x64-setup.exe"
     }
   }
 }
