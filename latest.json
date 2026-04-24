@@ -1,11 +1,11 @@
 {
-  "version": "0.2.29",
-  "notes": "Search padding + version tooltip.",
-  "pub_date": "2026-04-24T13:06:27Z",
+  "version": "0.3.0",
+  "notes": "Activity page works, new ToggleSwitch, MAX badges removed.",
+  "pub_date": "2026-04-24T13:51:47Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUM0NBd1dVelpJMndCcXhUSHpOZisrVmpHYUJRTjFQNXpyUlZmcjMvSnd1U200MUQwTkQveWRlZXlWNWpGU0FGa3JWUCtJVjVVWVNyZkx2MFpXSzN4czZ4eFFuNS82Y2dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MDM1ODI2CWZpbGU6Vk9SUF8wLjIuMjlfeDY0LXNldHVwLmV4ZQpaN0J3QUFVMnhGcUoxMkFzdW5WZFE1ZFF6emhpbG9vWHFCR0J3RnJ1OVR4dTcwMlJKUGJhSlVOT0FsNExkWWI3NUxMczZGai9qcElXUDZiWllGMU1BZz09Cg==",
-      "url": "https://github.com/Project-VORP/vorp-releases/releases/download/v0.2.29/VORP_0.2.29_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUM0NBd1dVelpJMjhZcHpaNnBjcmlnbkhGSU9NZjM1cXJTbFFKNFcwVUE3YmhZcDdpWGRaTExqZ2dWMEJBWW16SzBJdjd0QS9WNlZUUk1yNjZ3RHh3TTFiSE9qdDc0clFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MDM4MjMzCWZpbGU6Vk9SUF8wLjMuMF94NjQtc2V0dXAuZXhlCjJUSWFFUTlIdTJRMUd1Y3Z6ckFmc04zZmJJcUFEaDd0enNlMW5sV0JDd1FwQUJuc0RHdDlZYW9PMDFCYVBsY0xZM3NZbVh0WWxsZmZsU29Bdm1qTkFnPT0K",
+      "url": "https://github.com/Project-VORP/vorp-releases/releases/download/v0.3.0/VORP_0.3.0_x64-setup.exe"
     }
   }
 }
