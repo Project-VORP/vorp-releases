@@ -1,11 +1,11 @@
 {
-  "version": "0.3.1",
-  "notes": "Settings → Software → Check for updates button.",
-  "pub_date": "2026-04-24T14:05:21Z",
+  "version": "0.3.2",
+  "notes": "Empty-state redesign, sidebar logo, landing mockup icons.",
+  "pub_date": "2026-04-24T14:32:29Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUM0NBd1dVelpJMitHd0pEZEkzcmJDYUdrVGlacDBoNzR1bGhWeDdramd2amJuS2pkYnZuOVg0b09LOEhtYW9Banh5d2l0blVLMjhGZ2l5dTJYOUhmZm5ManBNOS9haHdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MDM5NDUzCWZpbGU6Vk9SUF8wLjMuMV94NjQtc2V0dXAuZXhlCjNkYkhtSEZiejIwNWkrK2xab0twN3ppUFBibmJqM2pzS3M5TTJCb2VVai9tazdodDJqMXZFY2lsWXhOVm15ZFMyc3R6WWxDQXlkNzRVdk9VNG05VENnPT0K",
-      "url": "https://github.com/Project-VORP/vorp-releases/releases/download/v0.3.1/VORP_0.3.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUM0NBd1dVelpJMitSaEhKOU1mWTFZbmZzZ2NyNlF3Y1E1WlRwdFdtQWpJM2l2S08vWjI2QjZGR0MvVit0V3FZcDM5R2R5WHcrbkJqNmpaaGdLRkhodndDWFJna1hVbndZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MDQwOTk5CWZpbGU6Vk9SUF8wLjMuMl94NjQtc2V0dXAuZXhlCm0weDIzU01SODFHbDF6cHpQSTZBcHNPTkJxQXpPeExVblJITTRLbVFvOVAyM01kTTd2T3dKRkloWmZPNnNpRlNSc1padXd1MVJvUG5oSklHWHVNdkFBPT0K",
+      "url": "https://github.com/Project-VORP/vorp-releases/releases/download/v0.3.2/VORP_0.3.2_x64-setup.exe"
     }
   }
 }
