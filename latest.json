@@ -1,11 +1,11 @@
 {
-  "version": "0.2.28",
-  "notes": "Version subscript next to VORP wordmark in sidebar.",
-  "pub_date": "2026-04-24T02:53:08Z",
+  "version": "0.2.29",
+  "notes": "Search padding + version tooltip.",
+  "pub_date": "2026-04-24T13:06:27Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUM0NBd1dVelpJMjRaaDhEWGxVa2lDdG9pUEVqeWxOVUhDc3pRaEw4c3F2VTBnRjBYQ2ZBQ05tNGJSV2oxMUZ0REkyaXdyaVpOVG9hamZLVVRjZ2g1L3kyOEErRmVpWWdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2OTk4NzU5CWZpbGU6Vk9SUF8wLjIuMjhfeDY0LXNldHVwLmV4ZQpMU0tQcDBkdytNRXpDRUNaTGFPU3VDWktPUldyUzc4RzhwZW1vdjRmK2dSV3U1c3JVek1ERlZjcmtEU2lqTnc4NEFJNFNUWVcwaC94NSs0amlaNG1EUT09Cg==",
-      "url": "https://github.com/Project-VORP/vorp-releases/releases/download/v0.2.28/VORP_0.2.28_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUM0NBd1dVelpJMndCcXhUSHpOZisrVmpHYUJRTjFQNXpyUlZmcjMvSnd1U200MUQwTkQveWRlZXlWNWpGU0FGa3JWUCtJVjVVWVNyZkx2MFpXSzN4czZ4eFFuNS82Y2dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MDM1ODI2CWZpbGU6Vk9SUF8wLjIuMjlfeDY0LXNldHVwLmV4ZQpaN0J3QUFVMnhGcUoxMkFzdW5WZFE1ZFF6emhpbG9vWHFCR0J3RnJ1OVR4dTcwMlJKUGJhSlVOT0FsNExkWWI3NUxMczZGai9qcElXUDZiWllGMU1BZz09Cg==",
+      "url": "https://github.com/Project-VORP/vorp-releases/releases/download/v0.2.29/VORP_0.2.29_x64-setup.exe"
     }
   }
 }
