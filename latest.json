@@ -1,11 +1,11 @@
 {
-  "version": "0.2.27",
-  "notes": "Received files now save to ~/VORP/ instead of Downloads.",
-  "pub_date": "2026-04-24T02:35:20Z",
+  "version": "0.2.28",
+  "notes": "Version subscript next to VORP wordmark in sidebar.",
+  "pub_date": "2026-04-24T02:53:08Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUM0NBd1dVelpJMnloYy8zU1lsSjU2Y1VCMjhVci9JdFNHazczRVA5L09ZSmJkcVo3VXpjZFBKZ2M0MEllbzNmNytiWXhITmV6d3dONnUvSUdBUnNvZlhKQlNDWjZZQXdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2OTk4MDUyCWZpbGU6Vk9SUF8wLjIuMjdfeDY0LXNldHVwLmV4ZQprWE1IalZLcGRhLyttTlZYTmd3Yk9SUWJjUU5wNzF6UDFib2pmVGVXUmRUZTRiVVpjM3laMWlXc2l6NmxLYWZ3RGNHbTVmU2dEM0xoR0oyd2J5NW1DQT09Cg==",
-      "url": "https://github.com/Project-VORP/vorp-releases/releases/download/v0.2.27/VORP_0.2.27_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUM0NBd1dVelpJMjRaaDhEWGxVa2lDdG9pUEVqeWxOVUhDc3pRaEw4c3F2VTBnRjBYQ2ZBQ05tNGJSV2oxMUZ0REkyaXdyaVpOVG9hamZLVVRjZ2g1L3kyOEErRmVpWWdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2OTk4NzU5CWZpbGU6Vk9SUF8wLjIuMjhfeDY0LXNldHVwLmV4ZQpMU0tQcDBkdytNRXpDRUNaTGFPU3VDWktPUldyUzc4RzhwZW1vdjRmK2dSV3U1c3JVek1ERlZjcmtEU2lqTnc4NEFJNFNUWVcwaC94NSs0amlaNG1EUT09Cg==",
+      "url": "https://github.com/Project-VORP/vorp-releases/releases/download/v0.2.28/VORP_0.2.28_x64-setup.exe"
     }
   }
 }
