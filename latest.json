@@ -1,11 +1,11 @@
 {
-  "version": "0.2.24",
-  "notes": "New VORP icon across all surfaces — installer, taskbar, tray, notifications, favicon.",
-  "pub_date": "2026-04-23T03:12:02Z",
+  "version": "0.2.25",
+  "notes": "Bigger VORP wordmark in sidebar + auth screen.",
+  "pub_date": "2026-04-24T02:14:47Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUM0NBd1dVelpJMjVtcjAzeE9UazRKNURIL2tsRVFTUHpaaUlmUy92djFBQVNYZUd1dVBSNm5xS0IxWkNMTGdWbktpWTM5ZnBIWmpndWdyQ05EeFFGMnF2OE5sOEdFVFFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2OTEzNjMxCWZpbGU6Vk9SUF8wLjIuMjRfeDY0LXNldHVwLmV4ZQozeGp4S2k1RDFIR3dtQ3RuSWhKeVR1a1NoM3FnTnR0RVg4MG01bWpHTnZxT1Zidko1THpKMGhjRHNpQmFYcmljQjVYR1NuQlZBWEcxeWdTRnhtWGFCdz09Cg==",
-      "url": "https://github.com/Project-VORP/vorp-releases/releases/download/v0.2.24/VORP_0.2.24_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUM0NBd1dVelpJMnpsTVkwa3FXeUoxN2UxVWJNYk9YYktDVEE3SVpVMTJNWi8vZ01WNHRaZy9tTi9UMkZabW43Zml2SEVmRGdBN1BreG80dlVzUUN4R1ZsZVlYMGN3Z2dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2OTk2Nzk0CWZpbGU6Vk9SUF8wLjIuMjVfeDY0LXNldHVwLmV4ZQpIcDc2bWNhWEJjVzRibENaQU9vREcrV1BUMlBGNi9vMlNHVDRta1JWbExmV1pZTFpFYmxrdGYzM1VnT0R6ZkhzSTVId3F5emRJZEE3MjQzQ3RhR3FCdz09Cg==",
+      "url": "https://github.com/Project-VORP/vorp-releases/releases/download/v0.2.25/VORP_0.2.25_x64-setup.exe"
     }
   }
 }
