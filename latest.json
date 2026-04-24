@@ -1,11 +1,11 @@
 {
-  "version": "0.3.3",
-  "notes": "Reclaim top whitespace — sidebar logo sits in the titlebar row.",
-  "pub_date": "2026-04-24T15:05:49Z",
+  "version": "0.3.4",
+  "notes": "Send folder + signaling queue hardened (persist, dedup, alarm, cap).",
+  "pub_date": "2026-04-24T15:38:54Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUM0NBd1dVelpJMitNSkVyR2FJanp3cHhTZ3ZJL2lKeDg1VlN1MEl4Z0xTeGV2aGozcitEbEJienB6UHl2WFZsSE53eER4TVNUaUNkdmIyWXpNcmd2RlNCRVp4M3daVEEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MDQyMDQ0CWZpbGU6Vk9SUF8wLjMuM194NjQtc2V0dXAuZXhlCkRwREpLNlowRXFzVHdCTDRNVGRvbmRFYS9icWZLWHNjTU9aRVp6VHJBVmVGdkJia0tIclVjYjVwSVZseVBWOVhYNWFzWTlVWkVQbGRtR2xyRkt1dkFRPT0K",
-      "url": "https://github.com/Project-VORP/vorp-releases/releases/download/v0.3.3/VORP_0.3.3_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUM0NBd1dVelpJMjRkdXVRNytnR3E3MmhvSUFaR1RYUG5Fc3pQdHFiOWpWcHFsZFBuY2RqaStST2FNcVM3VkFsRmpLUWdWRExqZ0tTYUs5ZXpVamFFTDhLL01WYUw3MkFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MDQ1MDMzCWZpbGU6Vk9SUF8wLjMuNF94NjQtc2V0dXAuZXhlCjdVcmdkM3lXMG5LZzYwRmJhL0YxUGVFTUVBNlQrR2NEUjVXTnFqV284NWVHUjk4ZmRENmNjcmJLWC9GRVBpZEtpakczeVdmZW92Ry9JQUlaamt1MUFnPT0K",
+      "url": "https://github.com/Project-VORP/vorp-releases/releases/download/v0.3.4/VORP_0.3.4_x64-setup.exe"
     }
   }
 }
