@@ -1,11 +1,11 @@
 {
-  "version": "0.3.2",
-  "notes": "Empty-state redesign, sidebar logo, landing mockup icons.",
-  "pub_date": "2026-04-24T14:32:29Z",
+  "version": "0.3.3",
+  "notes": "Reclaim top whitespace — sidebar logo sits in the titlebar row.",
+  "pub_date": "2026-04-24T15:05:49Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUM0NBd1dVelpJMitSaEhKOU1mWTFZbmZzZ2NyNlF3Y1E1WlRwdFdtQWpJM2l2S08vWjI2QjZGR0MvVit0V3FZcDM5R2R5WHcrbkJqNmpaaGdLRkhodndDWFJna1hVbndZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MDQwOTk5CWZpbGU6Vk9SUF8wLjMuMl94NjQtc2V0dXAuZXhlCm0weDIzU01SODFHbDF6cHpQSTZBcHNPTkJxQXpPeExVblJITTRLbVFvOVAyM01kTTd2T3dKRkloWmZPNnNpRlNSc1padXd1MVJvUG5oSklHWHVNdkFBPT0K",
-      "url": "https://github.com/Project-VORP/vorp-releases/releases/download/v0.3.2/VORP_0.3.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUM0NBd1dVelpJMitNSkVyR2FJanp3cHhTZ3ZJL2lKeDg1VlN1MEl4Z0xTeGV2aGozcitEbEJienB6UHl2WFZsSE53eER4TVNUaUNkdmIyWXpNcmd2RlNCRVp4M3daVEEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MDQyMDQ0CWZpbGU6Vk9SUF8wLjMuM194NjQtc2V0dXAuZXhlCkRwREpLNlowRXFzVHdCTDRNVGRvbmRFYS9icWZLWHNjTU9aRVp6VHJBVmVGdkJia0tIclVjYjVwSVZseVBWOVhYNWFzWTlVWkVQbGRtR2xyRkt1dkFRPT0K",
+      "url": "https://github.com/Project-VORP/vorp-releases/releases/download/v0.3.3/VORP_0.3.3_x64-setup.exe"
     }
   }
 }
