@@ -1,11 +1,11 @@
 {
-  "version": "0.3.5",
-  "notes": "Sender reacts to flow-queued / flow-error; cancels queued request on S3 fallback.",
-  "pub_date": "2026-04-25T04:33:54Z",
+  "version": "0.3.6",
+  "notes": "Start Menu shortcut self-heal + VORP sidebar attributes hardened.",
+  "pub_date": "2026-04-25T04:55:01Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUM0NBd1dVelpJMjdURG5qaHVjY2hGRExkNFN2NWs0RVloeTN0Z0tYbUZHNGUwT3VYcERsWmVPRWwzNk5CWU1BaVQyaDdMZEVjcHpmWWdrYmFMc2VFOWxXMmgxZ3RMa0FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MDkwNzM4CWZpbGU6Vk9SUF8wLjMuNV94NjQtc2V0dXAuZXhlCkZZV1Q2eTJHckJnMHNiY0dvT1dUZWQ1WWZQMGhxcE5JNkxCOVU4d20xdGVuUFlDbi9PZjNWUy9PUU5ZVTVRWTZzLzBtc1FNTWlSa3kvSXJaT3BMQkR3PT0K",
-      "url": "https://github.com/Project-VORP/vorp-releases/releases/download/v0.3.5/VORP_0.3.5_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUM0NBd1dVelpJMjN5RmNrTjF4aDB2eDBFNUNoZjdmblo5b2xUTlhmMy82Z3lZcnlkYVo2S2N6dTNpWFJrc1VLdmpoRmVFZHpIaDVBVzZCTmgvNjdqL0MvaGJpdURjQ3dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MDkyNzUzCWZpbGU6Vk9SUF8wLjMuNl94NjQtc2V0dXAuZXhlClpMNjVEMWdkNnY4MDV4amEyWDh4cVZwdFpxWkFHSmFEcTJBR1FrMG92c0hZbGZwMmMxZ1VxbFY0WmtuZkZxbXJpM2x6eW5VQ1FjQXl2WGtmYmd6aUJRPT0K",
+      "url": "https://github.com/Project-VORP/vorp-releases/releases/download/v0.3.6/VORP_0.3.6_x64-setup.exe"
     }
   }
 }
