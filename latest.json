@@ -1,11 +1,11 @@
 {
-    "version":  "0.3.11",
-    "notes":  "Real-time presence (green dot when friends online), removed Mica acrylic for solid black piano finish, square corners, dead code purge (light mode CSS, flow nearby/discovery, plan gates), p2p sending shows %, S3 fallback uploads don\u0027t, fix release.ps1 latest.json push.",
-    "pub_date":  "2026-04-26T15:40:20Z",
+    "version":  "0.3.12",
+    "notes":  "Native notification + popup on incoming flow-request, notification permission requested at boot, TURN endpoint hardened with 1h cache + public TURN fallback so transient Cloudflare errors no longer break transfers.",
+    "pub_date":  "2026-04-26T16:25:26Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dXp3TFRWSWk0SjFNZWdqOWFib0hmUExRQ2J6NldiUGl3dlRtTUNUemVGdENtRWp5ZlF2ZjFNUFE4K0w2bnlndTE2TlE5TXJWdllUMjBqQTMwVmQvTUFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MTk4MjEwCWZpbGU6Vk9SUF8wLjMuMTFfeDY0LXNldHVwLmV4ZQpvNExBenplRlJ3S2VqOXdwWm1DSWNrNWtER0g0Z3BmVUJvWUNmTHo1eEh1ZDZGRGlVU2crQUVSRS9jZk5QWklodnZWbVptdTdVUTRwZE5HTFY2RXpBQT09Cg==",
-                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.3.11/VORP_0.3.11_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dXpLM1lOcTdtMGIwRE1xdC96eVJOZzJpMnZSTkppSXJhNmZYNHFFazRvclVVU1loaERkWjBlRFczYnIxWkZybjhRWWpJTkFSQjhPYlZ3M3h0Mk9yV1FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MjAwOTE2CWZpbGU6Vk9SUF8wLjMuMTJfeDY0LXNldHVwLmV4ZQozYW9PcnFYL1N1RWJubWQxRnk2djV0ZTF6ZC9adk13bUo1dkVCczhyVm5BM3pwa2xXYUI3T0kvYy8zL1oyWHN0NjFOS2RkankzVmlSdEZwNTg2VDRCZz09Cg==",
+                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.3.12/VORP_0.3.12_x64-setup.exe"
                                          }
                   }
 }
