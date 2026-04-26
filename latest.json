@@ -1,11 +1,1 @@
-{
-  "version": "0.3.6",
-  "notes": "Start Menu shortcut self-heal + VORP sidebar attributes hardened.",
-  "pub_date": "2026-04-25T04:55:01Z",
-  "platforms": {
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUM0NBd1dVelpJMjN5RmNrTjF4aDB2eDBFNUNoZjdmblo5b2xUTlhmMy82Z3lZcnlkYVo2S2N6dTNpWFJrc1VLdmpoRmVFZHpIaDVBVzZCTmgvNjdqL0MvaGJpdURjQ3dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MDkyNzUzCWZpbGU6Vk9SUF8wLjMuNl94NjQtc2V0dXAuZXhlClpMNjVEMWdkNnY4MDV4amEyWDh4cVZwdFpxWkFHSmFEcTJBR1FrMG92c0hZbGZwMmMxZ1VxbFY0WmtuZkZxbXJpM2x6eW5VQ1FjQXl2WGtmYmd6aUJRPT0K",
-      "url": "https://github.com/Project-VORP/vorp-releases/releases/download/v0.3.6/VORP_0.3.6_x64-setup.exe"
-    }
-  }
-}
+{"version":"0.3.7","notes":"Deterministic identicon avatars (jdenticon) + sidebar/search polish: active-item left accent bar, search focus ring. NOTE: signing key rotated — v0.3.6 users must re-download manually.","pub_date":"2026-04-26T04:51:46Z","platforms":{"windows-x86_64":{"signature":"dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dXo4d2FxQUNUWVNqT3FTSTRLVC9pTXo1TVpXZnJib2NQUExHSVR0ZVBkWXc1VUNjT2ZjcjhVV1BkZFN3OU5ZeXpyNVlqS2tKQ2lIblJKaFJNeXNURWdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MTc4OTEyCWZpbGU6Vk9SUF8wLjMuN194NjQtc2V0dXAuZXhlCjNBd2xEMXNmcEUxUnRNWUNPRk1nM216aFRELy9nMmRqUENNZVdUdU9pQjJvRERGSjNNQ1M2VkdQTm1GV2ZwcDA0bXhuMXJsdVdBdjZ0SktTUy8zSkNnPT0K","url":"https://github.com/Project-VORP/vorp-releases/releases/download/v0.3.7/VORP_0.3.7_x64-setup.exe"}}}
