@@ -1,11 +1,11 @@
 {
-    "version":  "0.3.12",
-    "notes":  "Native notification + popup on incoming flow-request, notification permission requested at boot, TURN endpoint hardened with 1h cache + public TURN fallback so transient Cloudflare errors no longer break transfers.",
-    "pub_date":  "2026-04-26T16:25:26Z",
+    "version":  "0.3.13",
+    "notes":  "Disabled the broken receive-popup window (was the empty alwaysOnTop ghost). System toast notification + in-app top-bar incoming card still fire on every flow-request. Added [WS] incoming flow-request console log for debugging.",
+    "pub_date":  "2026-04-26T18:36:07Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dXpLM1lOcTdtMGIwRE1xdC96eVJOZzJpMnZSTkppSXJhNmZYNHFFazRvclVVU1loaERkWjBlRFczYnIxWkZybjhRWWpJTkFSQjhPYlZ3M3h0Mk9yV1FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MjAwOTE2CWZpbGU6Vk9SUF8wLjMuMTJfeDY0LXNldHVwLmV4ZQozYW9PcnFYL1N1RWJubWQxRnk2djV0ZTF6ZC9adk13bUo1dkVCczhyVm5BM3pwa2xXYUI3T0kvYy8zL1oyWHN0NjFOS2RkankzVmlSdEZwNTg2VDRCZz09Cg==",
-                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.3.12/VORP_0.3.12_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTlEUDl3R0tuZFB1NStHQWpGbEJ6NmtlSUVsNFcwNis3Qm9pNC9NY2czTEt5cXRjT0cxRGY3QmlFTU02L2Z0REgrYUJSeE9teWJyVzJnYnlCeVM2N3dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MjA4NzUzCWZpbGU6Vk9SUF8wLjMuMTNfeDY0LXNldHVwLmV4ZQpVUHlJa2pERk5kQlp6MHovczloOHdNTjd2V3hscVRzdHBJc0pQV2FLNXNXT3dWbjhSa21UcmJIVEZJa2pkRVhndVdsdStkNWQ1WlNieStmSTlZa1BDUT09Cg==",
+                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.3.13/VORP_0.3.13_x64-setup.exe"
                                          }
                   }
 }
