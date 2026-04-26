@@ -1,11 +1,11 @@
 {
-    "version":  "0.3.9",
-    "notes":  "Wordmark image (transparent PNG), bigger clickable header buttons (no-drag region + pointer-events on SVG descendants), search icon spacing, contact-detail avatar clip hardened.",
-    "pub_date":  "2026-04-26T11:26:54Z",
+    "version":  "0.3.10",
+    "notes":  "Wordmark in Archivo Black (font now actually loaded), header icon buttons fully clickable (moved row down past the OS resize zone).",
+    "pub_date":  "2026-04-26T12:09:01Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTBqL1UvME5vTVJoZktqanVtNWREcWhQMnlIeGhJUll1V0s5R1NCUGxCODY4K2RJQklUQ0oyaVRic1J6VGhoTFBQZ2U1RCsrWVFINU9qM044blRvREFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MTgzMDA0CWZpbGU6Vk9SUF8wLjMuOV94NjQtc2V0dXAuZXhlCjB6MWUrdTJiZzJmdEgvNkcrc0VkdjhxSDErZnN5QUJYUDFxb2hObkphTkVKN3psSGtMajl5OUpkeFVnNjIrMm9NaFl5VjNOTDVVekxxZi9TVzEra0JBPT0K",
-                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.3.9/VORP_0.3.9_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTVxamhReE5ZbE9Velc5VFRrVGZvekFDcmF5ZlJlMkRFcUUrUzlMMGVwWUFOWTdNWFpCem1VZUxzckJ4MzA1UEpVcVEwWXY0Nmx3ekxKTE5UN2FwN0EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MTg1NTMyCWZpbGU6Vk9SUF8wLjMuMTBfeDY0LXNldHVwLmV4ZQpISCszNkxwdXU4UzI3cFMzMFN0ZlloVnl2QVpPaHZLc01Gc2VNY2lwMWhLSWc3aUlBNG84Sng5Qm4rTG1EdHdiMXUwR0VvNE1TMk1aRHl6Tkd5S2JEdz09Cg==",
+                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.3.10/VORP_0.3.10_x64-setup.exe"
                                          }
                   }
 }
