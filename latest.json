@@ -1,1 +1,11 @@
-{"version":"0.3.8","notes":"Identicon avatars on profile detail + your settings page. Logo+wordmark in titlebar with bigger click target. Removed Light Mode toggle.","pub_date":"2026-04-26T05:33:10Z","platforms":{"windows-x86_64":{"signature":"dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dXcvR1pUWE9oN0Y5TXpIaTZqOFVFbHFPOEtCRXBIVm8zS01zaFRpRjgwaDBzV3VZTzhSbFJkT0tXa2NUOUk3YlJmc3IwdVFobUFzL1lreVBjazZQeUE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MTgxNTQ1CWZpbGU6Vk9SUF8wLjMuOF94NjQtc2V0dXAuZXhlCk9neEpyRTc4TTB5eTc2bC8wd2kzcnZ2MWIxbVVZbU5LSithWmExZnZmRlNtUG5wQmVqbEVCOEhoN0JlU0NibVdpeG5xMzdIZTV6QXg1dUJDZ283QkJnPT0K","url":"https://github.com/Project-VORP/vorp-releases/releases/download/v0.3.8/VORP_0.3.8_x64-setup.exe"}}}
+{
+    "version":  "0.3.9",
+    "notes":  "Wordmark image (transparent PNG), bigger clickable header buttons (no-drag region + pointer-events on SVG descendants), search icon spacing, contact-detail avatar clip hardened.",
+    "pub_date":  "2026-04-26T11:26:54Z",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTBqL1UvME5vTVJoZktqanVtNWREcWhQMnlIeGhJUll1V0s5R1NCUGxCODY4K2RJQklUQ0oyaVRic1J6VGhoTFBQZ2U1RCsrWVFINU9qM044blRvREFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MTgzMDA0CWZpbGU6Vk9SUF8wLjMuOV94NjQtc2V0dXAuZXhlCjB6MWUrdTJiZzJmdEgvNkcrc0VkdjhxSDErZnN5QUJYUDFxb2hObkphTkVKN3psSGtMajl5OUpkeFVnNjIrMm9NaFl5VjNOTDVVekxxZi9TVzEra0JBPT0K",
+                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.3.9/VORP_0.3.9_x64-setup.exe"
+                                         }
+                  }
+}
