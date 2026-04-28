@@ -1,11 +1,11 @@
 {
-    "version":  "0.3.17",
-    "notes":  "Header icon buttons 28x28 + tighter padding so all four fit beside the wordmark. Search bar tightened (8px gap, 12px padding) so icon and input read as one rectangle.",
-    "pub_date":  "2026-04-28T19:58:30Z",
+    "version":  "0.3.18",
+    "notes":  "macOS-style floating dock at bottom-center: Home / Receive / Connections / Settings. Top-right icon row removed. Open VORP folder moved into Settings. Window height 500 -\u003e 580 to make room for the dock.",
+    "pub_date":  "2026-04-28T20:08:00Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dS91TTlPZG80c2EwbEpabmdiQ1VNKzF1ejNaT2hQaFNGelFzNDV6TXlDT1RQS0VNdVh2V2dmb0RsVyt4MVdyaFpCNk9rVTZ6MFNqRXZTelFoVktkcXdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3Mzg2NDk5CWZpbGU6Vk9SUF8wLjMuMTdfeDY0LXNldHVwLmV4ZQptb3FldEdidS9xck40TU1vNDV1eDdaWmZ6YlJhWGVWUndNNThORVFvMnlNVUdRajc0V0dVV1pGRW14NThRckdFRGNaNE5MdVU5dXYxb2dDZk82am1Cdz09Cg==",
-                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.3.17/VORP_0.3.17_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTEzYXJhSnRmck9QM3d1N2hTWWo2ckluNjE5WHNReGNiekJJUHZzdmVzRWRWajY2a3R5V0lJR3ArbUI3YnhGNWpsbFhoblZhZFR4cU9VaWcySTFKa0FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3Mzg3MDY5CWZpbGU6Vk9SUF8wLjMuMThfeDY0LXNldHVwLmV4ZQpWV3Z4azc1UVpFWEJmeGwzU0RkV1RDaVlzYlJrcHlZZ0hCUUZkRUVMVzFrNUJpcE9SUDNvQXpOa3YyQnNyaW1FVlRtVnREUlRjVmVqeE84RXZNZnRBUT09Cg==",
+                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.3.18/VORP_0.3.18_x64-setup.exe"
                                          }
                   }
 }
