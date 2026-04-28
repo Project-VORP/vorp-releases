@@ -1,11 +1,11 @@
 {
-    "version":  "0.3.19",
-    "notes":  "Settings renamed to Account in the dock + page title. Activity now lives inside Account as \u0027Recent transfers\u0027 (clicks through to the existing activity view).",
-    "pub_date":  "2026-04-28T20:11:57Z",
+    "version":  "0.3.20",
+    "notes":  "Dock blends in (no border/box, transparent bg, balanced icon weights). Search bar simplified to a single hairline underline. Empty-state arrow removed. Receive-with-code footer dropped (Receive lives in dock). Sidebar now full window height; only the right panel reserves space for the dock.",
+    "pub_date":  "2026-04-28T20:25:34Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTIyWEwrc29naFJGSytwL2VrRktGZDZwUzJzNURKNUlTUlhRa2tDNCs5eUpUWmpGa1YrTGZNZXlKb29yWTJtUlF3K2psazhpMU54TWVyR0hrWnpjUmdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3Mzg3MzA2CWZpbGU6Vk9SUF8wLjMuMTlfeDY0LXNldHVwLmV4ZQpLbU90Y0p1cDAvNUxOR2FuS1NMNTlRWWdNYTdXbFBKdkltNi8veCsrT1lPUTlFN2hMWHJkY01LZ3hKelcxUHB4d1JJY0E0VENyOUl1SkJBNXl0NjBEUT09Cg==",
-                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.3.19/VORP_0.3.19_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dXhNdCtyM2ZGclZYY2c1QjJMbmdmWXBRNjk5OHdxYXFqbDJnZ1IyTmhPRlNWY3daYWRSU28zQUxCNXo4OUdIRmlVekVxbzN6dTB2ZU9Pd1lPSEVUdkFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3Mzg4MTI0CWZpbGU6Vk9SUF8wLjMuMjBfeDY0LXNldHVwLmV4ZQp1ZmJhOGFkNmJGcXowc3RoeGtORnBoNWxGNUJ5RkI5b3BEU203M2ZBY1NGN0ZmL3Fjd3F2K2JnM0JEa0FuaXZRSkZvQVAycHR4Q0FXSDB1ZTROTU9Ddz09Cg==",
+                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.3.20/VORP_0.3.20_x64-setup.exe"
                                          }
                   }
 }
