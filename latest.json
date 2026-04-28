@@ -1,11 +1,11 @@
 {
-    "version":  "0.3.14",
-    "notes":  "Open-on-startup ToggleSwitch + verify-after-write, contact-detail email replaced with bio, icon-buttons 40x40 + aggressive pointer-events override (clickability fix v3), receive view ghost-box buttons cleaned up, search input padding bumped so the icon never visually overlaps the placeholder.",
-    "pub_date":  "2026-04-28T18:58:42Z",
+    "version":  "0.3.15",
+    "notes":  "Right-click contact menu (Remove + Block), profile-pic dropdown (Upload/Remove), connections inbox icon with pending-request badge, server-side bidirectional block in /search.",
+    "pub_date":  "2026-04-28T19:15:34Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTJ3YkhJSzhHSmR0cVVkY1FDeGtVaWJ3QXVDcHVmSWZ5aTJRVUdIQlVYUVRvNUEwbzNlbzE5aVVtSmNqNUViQy9SaWNMb0xFVWthbXhaUWo1MnJ5dGdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MzgyOTEyCWZpbGU6Vk9SUF8wLjMuMTRfeDY0LXNldHVwLmV4ZQpkUWRxckhzREJJQVhPU3JQbEZZc21uK2VjOEZYckpicHZ1ZGNueGVwRkhCMzhqS2JEWGFpZjJlcUxJbWxrckovZzQ3aEkyaE9iWjBZc29VUjh4UjZBdz09Cg==",
-                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.3.14/VORP_0.3.14_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dSt2cmlwSXg2dEZGVGxzeWZTcWxFdkxCUXdaZzljbjJQaWpjTi9DVHk0S01HU3BqVnE1cUxiMUwvd0hoTmVUSSsrMkVNYUpzcnJtS3Q0d1c1WlJ3UUFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MzgzOTIwCWZpbGU6Vk9SUF8wLjMuMTVfeDY0LXNldHVwLmV4ZQo1L3VESnlVSFZ5L2xOS2F0MXBhbStnOXNob2JCZ1YvQUxlU0UyN0lwRXRXbGczcjk3cU92NDkxWmorZUp1cUM2TFZteURYRTNPTHhiZm1NM1V5eUxEZz09Cg==",
+                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.3.15/VORP_0.3.15_x64-setup.exe"
                                          }
                   }
 }
