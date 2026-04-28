@@ -1,11 +1,11 @@
 {
-    "version":  "0.3.16",
-    "notes":  "Connections moved from popover to right-panel view (Sent first then Incoming). Search bar rebuilt with flex layout so the icon physically can\u0027t overlap the placeholder. Header icon buttons shrunk to 32px so all four fit beside the wordmark.",
-    "pub_date":  "2026-04-28T19:50:31Z",
+    "version":  "0.3.17",
+    "notes":  "Header icon buttons 28x28 + tighter padding so all four fit beside the wordmark. Search bar tightened (8px gap, 12px padding) so icon and input read as one rectangle.",
+    "pub_date":  "2026-04-28T19:58:30Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTZBU3RqZlh3R3JmWDBaMlRHVlRRemhvdUtCTVBWU1UrQ2U2VC8rUmJrRVFpT08zRGlkWEhZSFM2bWQyWUFyNTBidHR4UFhsa1Z2dnFvMW1BVGRqM1E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3Mzg2MDE4CWZpbGU6Vk9SUF8wLjMuMTZfeDY0LXNldHVwLmV4ZQpZRGt2US9Jc3VQK0xIbjVqaE9ZeDJOUEpyZFlWRVdtSERHQU5ZWDgxWDlNbnovR3kyelI2S0ZkN0Y3bVFFUlBKOU4wRnUzVlRlK0RVaGZyUFBSRkdDQT09Cg==",
-                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.3.16/VORP_0.3.16_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dS91TTlPZG80c2EwbEpabmdiQ1VNKzF1ejNaT2hQaFNGelFzNDV6TXlDT1RQS0VNdVh2V2dmb0RsVyt4MVdyaFpCNk9rVTZ6MFNqRXZTelFoVktkcXdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3Mzg2NDk5CWZpbGU6Vk9SUF8wLjMuMTdfeDY0LXNldHVwLmV4ZQptb3FldEdidS9xck40TU1vNDV1eDdaWmZ6YlJhWGVWUndNNThORVFvMnlNVUdRajc0V0dVV1pGRW14NThRckdFRGNaNE5MdVU5dXYxb2dDZk82am1Cdz09Cg==",
+                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.3.17/VORP_0.3.17_x64-setup.exe"
                                          }
                   }
 }
