@@ -1,11 +1,11 @@
 {
-    "version":  "0.3.25",
-    "notes":  "Search bar redesigned as a single unified pill (icon absolute-positioned inside the field, input fully reset to override any leaking styles). Window back to 720x500 — pre-dock dimensions.",
-    "pub_date":  "2026-04-29T13:38:36Z",
+    "version":  "0.3.26",
+    "notes":  "Sidebar contacts auto-sort by recency (most recently sent/received first). File-explorer right-click \u0027VORP \u003e Send to\u0027 menu mirrors the same top-5 automatically — no more manual quick-send picker in Settings.",
+    "pub_date":  "2026-04-29T14:23:27Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dXlYV3d4cmVVS0JNRjNsRVQxLzJnREQ2MTN4aDRnQWhrVFZqSEtudklvOFNibHdmczQ4RnRCNmJ3UmRVc2xGV1Q1R2h0Um0zT2dsWXFHZ3AzNjAyeEFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NDUwMTAzCWZpbGU6Vk9SUF8wLjMuMjVfeDY0LXNldHVwLmV4ZQpDV2kxSDBXeS9wWE1JZVZnOGdHQkNZdVplUDZGSi9scnBReFRjRDFkNFBJUG8vVzdxY0hUZmtLOUxuYmt3Ni81NFkrL3lvZlJCa3JhZ20yMlVFRVRDdz09Cg==",
-                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.3.25/VORP_0.3.25_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dStsQ2JsYW9tU1Nxc3dGNE1lQUE5clU2S1ZHaGFXYk9QUnVtQkxJMEdha0E3L3hzOHg5T0wwZHRHYzdpM2R1aS9iQ2JHeXVqR2wvQS9JekJSQVBWN2dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NDUyNzk0CWZpbGU6Vk9SUF8wLjMuMjZfeDY0LXNldHVwLmV4ZQpuWU82VXBvTUx3Yjl4dlRCZUdaeW55enJFYXBLUDZKa2VuUFBpckxMa2ovWE5SK041RVdiRzM5dmd3MHJXZjIwOThaRUpXbG5LSnJpc1cxcjJzSHJEQT09Cg==",
+                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.3.26/VORP_0.3.26_x64-setup.exe"
                                          }
                   }
 }
