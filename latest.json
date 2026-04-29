@@ -1,11 +1,11 @@
 {
-    "version":  "0.3.26",
-    "notes":  "Sidebar contacts auto-sort by recency (most recently sent/received first). File-explorer right-click \u0027VORP \u003e Send to\u0027 menu mirrors the same top-5 automatically — no more manual quick-send picker in Settings.",
-    "pub_date":  "2026-04-29T14:23:27Z",
+    "version":  "0.3.27",
+    "notes":  "Right-click VORP menu trimmed to Generate Code / Send to Friend / Store to Vault. Send to Group + Create Link removed (registry + Rust + JS code purged). Generate Code is now silent — uploads, copies the 3-word code to clipboard, fires a \u0027Code copied · valid 5 min\u0027 toast. notify() now logs every step so dev tools can confirm whether toasts are firing or being suppressed by Windows.",
+    "pub_date":  "2026-04-29T14:49:32Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dStsQ2JsYW9tU1Nxc3dGNE1lQUE5clU2S1ZHaGFXYk9QUnVtQkxJMEdha0E3L3hzOHg5T0wwZHRHYzdpM2R1aS9iQ2JHeXVqR2wvQS9JekJSQVBWN2dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NDUyNzk0CWZpbGU6Vk9SUF8wLjMuMjZfeDY0LXNldHVwLmV4ZQpuWU82VXBvTUx3Yjl4dlRCZUdaeW55enJFYXBLUDZKa2VuUFBpckxMa2ovWE5SK041RVdiRzM5dmd3MHJXZjIwOThaRUpXbG5LSnJpc1cxcjJzSHJEQT09Cg==",
-                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.3.26/VORP_0.3.26_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dS85QVhhRDlpV2o0S0phTEF2MHVwaUI2VkhLR21nd3V3VWpxR056ZVJKcFF6RVJ4WGhlTlUxL0tCQW41aTB5ckxOdjNsY1hJaTdCSHBKWVhsMFB4b0EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NDU0MzUzCWZpbGU6Vk9SUF8wLjMuMjdfeDY0LXNldHVwLmV4ZQpyTVMvRG1tZFN5dWdGLzBENE1MbXhYV0pLMGNJK2M5eG9NMExJTGo1cml3MVVYMW85NUE1UDJzOFU1MDU0WXRva25STmxIbDdMWFpyVnZzTi9yc1lBZz09Cg==",
+                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.3.27/VORP_0.3.27_x64-setup.exe"
                                          }
                   }
 }
