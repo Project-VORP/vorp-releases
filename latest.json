@@ -1,11 +1,11 @@
 {
-    "version":  "0.3.27",
-    "notes":  "Right-click VORP menu trimmed to Generate Code / Send to Friend / Store to Vault. Send to Group + Create Link removed (registry + Rust + JS code purged). Generate Code is now silent — uploads, copies the 3-word code to clipboard, fires a \u0027Code copied · valid 5 min\u0027 toast. notify() now logs every step so dev tools can confirm whether toasts are firing or being suppressed by Windows.",
-    "pub_date":  "2026-04-29T14:49:32Z",
+    "version":  "0.3.28",
+    "notes":  "Matte black: removed the radial gloss overlay so the surface no longer has the piano-finish highlight. Rounded corners restored — radius tokens back to 4/6/10px and explicit 0s on buttons/cards/contacts switched to var(--v-r2). Input resets stay at 0 because the wrapper carries the visible rounding.",
+    "pub_date":  "2026-04-29T16:15:25Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dS85QVhhRDlpV2o0S0phTEF2MHVwaUI2VkhLR21nd3V3VWpxR056ZVJKcFF6RVJ4WGhlTlUxL0tCQW41aTB5ckxOdjNsY1hJaTdCSHBKWVhsMFB4b0EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NDU0MzUzCWZpbGU6Vk9SUF8wLjMuMjdfeDY0LXNldHVwLmV4ZQpyTVMvRG1tZFN5dWdGLzBENE1MbXhYV0pLMGNJK2M5eG9NMExJTGo1cml3MVVYMW85NUE1UDJzOFU1MDU0WXRva25STmxIbDdMWFpyVnZzTi9yc1lBZz09Cg==",
-                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.3.27/VORP_0.3.27_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTdPb0xDVW04NkpuSjdRMVUzTEhGd2tLQXRxcG9SZTBwbWVuVkl1OTE0YVFpUmR2eWJxTGpOcHZEWHY1RnNjWGIvOFl0aTlwWCs5S24zL3RhZ09XM2dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NDU5NTE0CWZpbGU6Vk9SUF8wLjMuMjhfeDY0LXNldHVwLmV4ZQpncnQ2QnRZanpnV2pLZTQ3RWczMG1Lbnl2ay8rM2NuZStLVUNvbmtoM1FGbzQ0UFpnNGRoT2t0bnBUQzlLN3dRejBMTEdSTU9uZE9ueHYxY2ZwUzZEZz09Cg==",
+                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.3.28/VORP_0.3.28_x64-setup.exe"
                                          }
                   }
 }
