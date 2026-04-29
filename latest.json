@@ -1,11 +1,11 @@
 {
-    "version":  "0.3.24",
-    "notes":  "Reverted: top-right icon row reinstated, dock removed. Wordmark text dropped, just the round logo mark in the sidebar header. Window 880x560.",
-    "pub_date":  "2026-04-29T12:49:29Z",
+    "version":  "0.3.25",
+    "notes":  "Search bar redesigned as a single unified pill (icon absolute-positioned inside the field, input fully reset to override any leaking styles). Window back to 720x500 — pre-dock dimensions.",
+    "pub_date":  "2026-04-29T13:38:36Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTBIQmNoTlYvK0hLR2tuWHdLQnRGK3g5VDNOckJMU0pVeStud21WK3N6RitzT3lkZy9DWTArTmtHOXJiYUFJY0xvczUxYWg1YjZZZks0ZHJ4a1pPWlE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NDQ3MTU3CWZpbGU6Vk9SUF8wLjMuMjRfeDY0LXNldHVwLmV4ZQoyS2ZncGsvM3IyTEJOYXoyZW5kM1BYd2lYWlAyVjJCUmQycGF6RzdaTCtwR0haY3I0QUZ4dWZxT0NZWUlhbms1MVRINWNCQm0xVmNyZTQ0cmRHTXRBUT09Cg==",
-                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.3.24/VORP_0.3.24_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dXlYV3d4cmVVS0JNRjNsRVQxLzJnREQ2MTN4aDRnQWhrVFZqSEtudklvOFNibHdmczQ4RnRCNmJ3UmRVc2xGV1Q1R2h0Um0zT2dsWXFHZ3AzNjAyeEFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NDUwMTAzCWZpbGU6Vk9SUF8wLjMuMjVfeDY0LXNldHVwLmV4ZQpDV2kxSDBXeS9wWE1JZVZnOGdHQkNZdVplUDZGSi9scnBReFRjRDFkNFBJUG8vVzdxY0hUZmtLOUxuYmt3Ni81NFkrL3lvZlJCa3JhZ20yMlVFRVRDdz09Cg==",
+                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.3.25/VORP_0.3.25_x64-setup.exe"
                                          }
                   }
 }
