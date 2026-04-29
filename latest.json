@@ -1,11 +1,11 @@
 {
-    "version":  "0.3.21",
-    "notes":  "Dock label sits closer to the icon, gear icon redrawn as clean 8-tooth symmetric gear, connections person icon centered properly.",
-    "pub_date":  "2026-04-28T21:08:36Z",
+    "version":  "0.3.22",
+    "notes":  "Gear icon redrawn as a real cog (not a sun). Active dock item now shows a small white dot underneath, macOS-style, so you can tell which view you\u0027re on.",
+    "pub_date":  "2026-04-29T09:53:04Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTZPL0dtd2Z4OHVGNlpua3pqVWhUbkNMSHFiQlNzUUJRQUx3Y0VYbENWTDJhQVpNaWVCUkgxRWQ0UzM5OWUyMWhQZTh2WENoZ3pGdFcxYWMwQ25FZndnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MzkwNzA0CWZpbGU6Vk9SUF8wLjMuMjFfeDY0LXNldHVwLmV4ZQpoOXVUN2FyTlEzeHluVDBIYWcxckNRbTNDQkthZDJaSGRUOEJZYURDL3B4aTBwbEFsalFSbXBBWnM3N3JFbkl2YTJ1ZUt5T2NyU01TZUNMQ216U2pCZz09Cg==",
-                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.3.21/VORP_0.3.21_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTdjL25jRnlDaXNMdjkvczZudUFhU0hTVEwzOXJvbU9WTWM1V2RyUk9ORkw5YmN6UXBzNmJGVTFIaWxFbEhJQUtFL2lRdFR2NVBDUUt4OVZoUGJLVnc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NDM2NTc0CWZpbGU6Vk9SUF8wLjMuMjJfeDY0LXNldHVwLmV4ZQppQVB6VW5oakw2OGZsYkh1UzFBTENLQ0ZwbmhJd2lJQ29FRmczZFlGa0VJeUltNTNBdlpsRUt6Vmt1amVzTnRKL3g5VHl5T2w5dFM0aGUrclkrK1pBZz09Cg==",
+                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.3.22/VORP_0.3.22_x64-setup.exe"
                                          }
                   }
 }
