@@ -1,11 +1,11 @@
 {
-    "version":  "0.3.32",
-    "notes":  "v0.3.32: cursor-tracking eyes+mouth on contact view, mirrored faces, no custom pfp uploads",
-    "pub_date":  "2026-04-29T21:24:51Z",
+    "version":  "0.3.33",
+    "notes":  "v0.3.33: smile preserved, eyes seed from cursor on open, smiley swap aditya\u003c-\u003eahzammehdi",
+    "pub_date":  "2026-04-29T21:38:44Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dXhtL1dtSWpvVXEya2g5OHZrQ2ZIUHNzc2JZTzdzMDRJeTkrSzlYc2pDaVNldEVzRjhxV1VKdW5zQWxWcTVSMVFUeVZlM1hJWXRDZ2M0ZmJJbjI4L1E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NDc3ODg5CWZpbGU6Vk9SUF8wLjMuMzJfeDY0LXNldHVwLmV4ZQp2VDUvR1ltMTZMZTN5QWZvQmtZODlxN3ltcGxhekxGRy9rZlg3MTY3WVk0a1hnZ0NENjJSZG1pZWlwK2FqdVVjRk1IWjJXMXFCOWxjaGxTVVpTakFBQT09Cg==",
-                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.3.32/VORP_0.3.32_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTZpM2JMc21ySVpCV2pVaElKdUc5Nk5QakNyRURaMlpNZzFFaGpoZ1pTdE1VT3BScElzbE9PZWVYcVM5clJveWRuaG1JYWRVbE9ZQVhMQm1iTUJCTGdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NDc4ODgxCWZpbGU6Vk9SUF8wLjMuMzNfeDY0LXNldHVwLmV4ZQpPbWY4MDhja0J1ajViVUptSGlMb1FrQWYvYmJzZlR2bE9RcTkrY1MrVVRVaHB0NzVCTWdhNWdHblNRTTlCWk9ORnphWVFWTkIvVm5pSWY5c09tWjBBdz09Cg==",
+                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.3.33/VORP_0.3.33_x64-setup.exe"
                                          }
                   }
 }
