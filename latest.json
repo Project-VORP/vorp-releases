@@ -1,11 +1,11 @@
 {
-    "version":  "0.3.29",
-    "notes":  "Matte black + soft rounded corners. New animations across the right panel. Feedback button in Account opens projectvorp.com/feedback. Activity auto-fetches with debug log. Generate-code hides window silently with 5s cold-start delay. Presence flapping debounced 5s before declaring offline.",
-    "pub_date":  "2026-04-29T19:28:18Z",
+    "version":  "0.3.30",
+    "notes":  "Avatars switched from jdenticon (square geometric) to boring-avatars marble with curated VORP palette (indigo / cyan / mint / navy / off-white). Same deterministic seeding, same circular crop, but now reads as designed-for-circle blobs instead of corner-clipped square patterns.",
+    "pub_date":  "2026-04-29T20:46:46Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTV3UVVwL2VPalJWd21hQWczWkhjcUIrRTh0Qm8rSWxtckFBR3VzbGxHdE9WOWNoOWsvNHZBdVdweVNBNEZRWjdlZ2FLVE5RTWNYOE5SejE2MjZyT1FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NDcxMDg2CWZpbGU6Vk9SUF8wLjMuMjlfeDY0LXNldHVwLmV4ZQpnR2c3ZlFzdVlHRURKakRrVEFZU3dpUEdhVjZveTBjVkJwdC9EN1U0MlN4YWtxTVAvTkdaV0F0U0IyNytZVW5ENDRVMzI2Q1IyN1FabHNuVXdWSWZCUT09Cg==",
-                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.3.29/VORP_0.3.29_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dS9FbXI5TnZVRmFtNVU5dVJ3aHg1Yzg5Qm90aXhMU1FzSUluMzJLcy93NktvZTB6enI5Y2xmOVlVNXRRREt0aEkvWnZ4M3ZlbnQyTVlCQzIrT2RQcEFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NDc1Nzg1CWZpbGU6Vk9SUF8wLjMuMzBfeDY0LXNldHVwLmV4ZQo2aitBeGgrZzF5S01mZnBhZDVqcHlKNktuRVg5dG1KeWpiVmw4QzIrOXBseDVCU3N1TkxKOFhkQysyWDFxeUVzZVZDVFBhaEhYMXBxdEllZXBwUk1BZz09Cg==",
+                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.3.30/VORP_0.3.30_x64-setup.exe"
                                          }
                   }
 }
