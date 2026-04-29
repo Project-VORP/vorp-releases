@@ -1,11 +1,11 @@
 {
-    "version":  "0.3.31",
-    "notes":  "v0.3.31: beam smiley avatars + email under contact name + bigger top icons",
-    "pub_date":  "2026-04-29T21:03:06Z",
+    "version":  "0.3.32",
+    "notes":  "v0.3.32: cursor-tracking eyes+mouth on contact view, mirrored faces, no custom pfp uploads",
+    "pub_date":  "2026-04-29T21:24:51Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTZwTWlSZlR0MUdjMTF6b3NqWTBMcFhCQTRJTkhaSC9nanY2a3o5RjJ1d3JEU2NsMSthTzl4emRXbkNnQ1BzUW50SHQ0dXlpMHV2cWdZMFFJVXNDNkFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NDc2NzMyCWZpbGU6Vk9SUF8wLjMuMzFfeDY0LXNldHVwLmV4ZQo2OEVCSjhUSHNXdFF0RnhBNm1raGtyNjBJV3RzcEhQWi9idFdwUGtmSkRrRVRPL21ZcGhKdUR2WU5uZUVSVVJDMzBxOUFjK3U3NTBzZUVyZHU0NlJDZz09Cg==",
-                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.3.31/VORP_0.3.31_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dXhtL1dtSWpvVXEya2g5OHZrQ2ZIUHNzc2JZTzdzMDRJeTkrSzlYc2pDaVNldEVzRjhxV1VKdW5zQWxWcTVSMVFUeVZlM1hJWXRDZ2M0ZmJJbjI4L1E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NDc3ODg5CWZpbGU6Vk9SUF8wLjMuMzJfeDY0LXNldHVwLmV4ZQp2VDUvR1ltMTZMZTN5QWZvQmtZODlxN3ltcGxhekxGRy9rZlg3MTY3WVk0a1hnZ0NENjJSZG1pZWlwK2FqdVVjRk1IWjJXMXFCOWxjaGxTVVpTakFBQT09Cg==",
+                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.3.32/VORP_0.3.32_x64-setup.exe"
                                          }
                   }
 }
