@@ -1,11 +1,11 @@
 {
-    "version":  "0.3.28",
-    "notes":  "Matte black: removed the radial gloss overlay so the surface no longer has the piano-finish highlight. Rounded corners restored — radius tokens back to 4/6/10px and explicit 0s on buttons/cards/contacts switched to var(--v-r2). Input resets stay at 0 because the wrapper carries the visible rounding.",
-    "pub_date":  "2026-04-29T16:15:25Z",
+    "version":  "0.3.29",
+    "notes":  "Matte black + soft rounded corners. New animations across the right panel. Feedback button in Account opens projectvorp.com/feedback. Activity auto-fetches with debug log. Generate-code hides window silently with 5s cold-start delay. Presence flapping debounced 5s before declaring offline.",
+    "pub_date":  "2026-04-29T19:28:18Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTdPb0xDVW04NkpuSjdRMVUzTEhGd2tLQXRxcG9SZTBwbWVuVkl1OTE0YVFpUmR2eWJxTGpOcHZEWHY1RnNjWGIvOFl0aTlwWCs5S24zL3RhZ09XM2dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NDU5NTE0CWZpbGU6Vk9SUF8wLjMuMjhfeDY0LXNldHVwLmV4ZQpncnQ2QnRZanpnV2pLZTQ3RWczMG1Lbnl2ay8rM2NuZStLVUNvbmtoM1FGbzQ0UFpnNGRoT2t0bnBUQzlLN3dRejBMTEdSTU9uZE9ueHYxY2ZwUzZEZz09Cg==",
-                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.3.28/VORP_0.3.28_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTV3UVVwL2VPalJWd21hQWczWkhjcUIrRTh0Qm8rSWxtckFBR3VzbGxHdE9WOWNoOWsvNHZBdVdweVNBNEZRWjdlZ2FLVE5RTWNYOE5SejE2MjZyT1FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NDcxMDg2CWZpbGU6Vk9SUF8wLjMuMjlfeDY0LXNldHVwLmV4ZQpnR2c3ZlFzdVlHRURKakRrVEFZU3dpUEdhVjZveTBjVkJwdC9EN1U0MlN4YWtxTVAvTkdaV0F0U0IyNytZVW5ENDRVMzI2Q1IyN1FabHNuVXdWSWZCUT09Cg==",
+                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.3.29/VORP_0.3.29_x64-setup.exe"
                                          }
                   }
 }
