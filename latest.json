@@ -1,11 +1,11 @@
 {
-    "version":  "0.3.22",
-    "notes":  "Gear icon redrawn as a real cog (not a sun). Active dock item now shows a small white dot underneath, macOS-style, so you can tell which view you\u0027re on.",
-    "pub_date":  "2026-04-29T09:53:04Z",
+    "version":  "0.3.23",
+    "notes":  "Window 720x580 -\u003e 920x620 for breathing room. Dock items 32 -\u003e 40 with bigger gap so the row doesn\u0027t read as 4 tiny dots.",
+    "pub_date":  "2026-04-29T10:04:25Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTdjL25jRnlDaXNMdjkvczZudUFhU0hTVEwzOXJvbU9WTWM1V2RyUk9ORkw5YmN6UXBzNmJGVTFIaWxFbEhJQUtFL2lRdFR2NVBDUUt4OVZoUGJLVnc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NDM2NTc0CWZpbGU6Vk9SUF8wLjMuMjJfeDY0LXNldHVwLmV4ZQppQVB6VW5oakw2OGZsYkh1UzFBTENLQ0ZwbmhJd2lJQ29FRmczZFlGa0VJeUltNTNBdlpsRUt6Vmt1amVzTnRKL3g5VHl5T2w5dFM0aGUrclkrK1pBZz09Cg==",
-                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.3.22/VORP_0.3.22_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTJaY1NoMHpkUkRucG8rbWE0eE1GdUwwNTZjSlFQWkZBOGFDTGNyU2toQ20xblEveTdxNFAyZTJrbXE5Mmg0TTZMK2NzR21La004dDlLSjdWOWVYT3drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NDM3MjUwCWZpbGU6Vk9SUF8wLjMuMjNfeDY0LXNldHVwLmV4ZQpxTGlSR1pHcDRPcE5tbXIyZ05Rak4zWVFtMzdVc0U4MW9vZkMwWXVtZGVXRFYxS2pqb1p3ZEMrOXRNYnJCNU9IRmF6OW0vc3hXZTlZVElQNW9lb1RCZz09Cg==",
+                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.3.23/VORP_0.3.23_x64-setup.exe"
                                          }
                   }
 }
