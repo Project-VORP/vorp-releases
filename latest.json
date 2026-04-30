@@ -1,11 +1,11 @@
 {
-    "version":  "0.4.4",
-    "notes":  "v0.4.4: charcoal #1a1a1a background (less pitch black), resize/fullscreen allowed, resets to 720x500 on launch",
-    "pub_date":  "2026-04-30T13:07:20Z",
+    "version":  "0.5.1",
+    "notes":  "v0.5.1: Teams MVP + fix file send 4-channel mismatch (sender now opens 4 channels matching receiver)",
+    "pub_date":  "2026-04-30T14:30:47Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dSsrSlFZTW45ckxKc1g3NFZ0cWIvSmh5M1Nlazk1TXdYd0ZYalpna1BQeStRNUpyWmQySXR6M0tsbTloYW5Da3UxREZaOG5sYVFTVmpkangvaHFCdkFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NTM0NTM2CWZpbGU6Vk9SUF8wLjQuNF94NjQtc2V0dXAuZXhlCm1Kc2RQdCt0bkc1QnhkZFZHcmFnblVzejlPNm9yaXFPa1o1Smg5UnBDN01vS2padlZCT1Y5WDZ6RjFEUk5ZbVo2U1VUWHY2cDNTdGN6L2Qya2ovVkRRPT0K",
-                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.4.4/VORP_0.4.4_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dXpnZTVCU25BSDJXWkVYSk1USXBtMFdWREtuVGFBemhzbEFldXlYNEhUSXNNWjV6eGh6UCtNQ1RhU09SM3dKaHE1ZVdEREVEUVY3RGJZK2lOZ0RZSUFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NTM5MTkwCWZpbGU6Vk9SUF8wLjUuMV94NjQtc2V0dXAuZXhlCmMvOVM2N1F5dm5zcFl0SjRuV3FNYjZmdDZXYk5SVXdoRWR3SXF0S3pxQ2tUYW10ZmpNZXRha0R6anlWbjExQXlONCtMa2k0OHd5WnpFQWcwY1NpU0JBPT0K",
+                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.5.1/VORP_0.5.1_x64-setup.exe"
                                          }
                   }
 }
