@@ -1,11 +1,11 @@
 {
-    "version":  "0.5.2",
-    "notes":  "v0.5.2: razorpay deletion (security) + bolder sidebar icons + background drop uploads + idempotency on /drop/create + local API synced with prod",
-    "pub_date":  "2026-04-30T17:27:02Z",
+    "version":  "0.5.3",
+    "notes":  "v0.5.3: per-friend P2P fail cache + clearer send status text",
+    "pub_date":  "2026-04-30T17:40:04Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTAzc2JDRG1ZUnJVYW1tUUFrV1ZwSXB3RGsxdTJjMlNFaFkvQUNxM2ZRZ0RjU2Q1MWp0alBPZitaY29nS3VLbnRZeEI2dlZZUmJMU21JRG92Rm1Qa2dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NTUwMTkyCWZpbGU6Vk9SUF8wLjUuMl94NjQtc2V0dXAuZXhlClRMR1pXdllZWUVJekpkSGNaQm1qZDBRUjFwQUl3c0tma3QxRlVJN0tDZTFEUVc5QUIwTjA3WVFRMGdpZldvdzlIYnpDeWZXY05UQ08yN1lBOFF4NENRPT0K",
-                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.5.2/VORP_0.5.2_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTNTc0luSk5pQjQrT0t3M2oxK05NekFwS2djak5hVEdlNTk1WUhSeXZmVUdJUFZwMFNaSStobks2aWJhTVlBbitFc0dnejNkcnRwM2RQVjRqR25Vd1F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NTUwOTY1CWZpbGU6Vk9SUF8wLjUuM194NjQtc2V0dXAuZXhlClVCbEUwcCtLaDdWN3JCZGoyMW03SVI3TERvMlVjcVNKclN2bmZJd09FanIwM3crczVEbDJNZG44Y3dHVkVFbWdBN2QySXY4UHV6RVp6d1JRSTJHNURBPT0K",
+                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.5.3/VORP_0.5.3_x64-setup.exe"
                                          }
                   }
 }
