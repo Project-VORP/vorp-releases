@@ -1,11 +1,11 @@
 {
-    "version":  "0.4.2",
-    "notes":  "v0.4.2: removed holding-for-offline UX (fast S3 fallback), drop upload uses the dotted ring",
-    "pub_date":  "2026-04-30T12:39:01Z",
+    "version":  "0.4.3",
+    "notes":  "v0.4.3: handle WS eviction (stop reconnect-fight when another instance signs in)",
+    "pub_date":  "2026-04-30T12:59:57Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTF0ZzE4ZkJaQ1BmV2wvSWh0Y0RwSjZGekZSbFpXN25SRTdnN3pVb0lONWYzZDdOeDBTbktlV0ZnbEUxcVYrMmYzbExvcXVRNmltSDloUjRZUnB2S3dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NTE3OTA2CWZpbGU6Vk9SUF8wLjQuMl94NjQtc2V0dXAuZXhlCi80emVrM1RLcCtDQkVWNDlJZFRLK0lhdy91ZTQvTVFlUGxmZE5ZakF4YlpzeDBJZ0tYUVBNb01YbEZWSjh2c3M4UGo4NFVHU1Zva0VQUXU4Wi9tTkRRPT0K",
-                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.4.2/VORP_0.4.2_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTMvdEUzOUw0QlVmaVgwN2lRRis5SklCYlh5NXJuQmgvcGtIb1lGUGFPN3A1UmplN2hmTFJlR2tMNGFBOTlXM2Z6K2ErS0tMWkxtOGpiVjg5Yk5Nd2djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NTM0MDY0CWZpbGU6Vk9SUF8wLjQuM194NjQtc2V0dXAuZXhlCmdtVlhLWTNKTGFDMUZBWDBvS0ZQS1dvQkNZWWwzRXFPam0rY1hSc3I5NlZ6Slpnd3N1T0gzZzdveit5dE0va1p6VkFiSHYrVXBzZVFxZXE1WHZyckFBPT0K",
+                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.4.3/VORP_0.4.3_x64-setup.exe"
                                          }
                   }
 }
