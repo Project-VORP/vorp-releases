@@ -1,11 +1,11 @@
 {
-    "version":  "0.3.37",
-    "notes":  "v0.3.37: receive box removed, pure-vivid palette, pfp swap reverted",
-    "pub_date":  "2026-04-30T07:15:32Z",
+    "version":  "0.4.0",
+    "notes":  "v0.4.0: categorized palette, squint easter egg, hover-to-open on drag, eyes follow ring dots, search shows Cancel for outgoing, drop ttl fix",
+    "pub_date":  "2026-04-30T08:06:09Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dStsOHBZdXJsK2RCOG5wTFpMK2dHTjFGcFluYUpzYXdLdlNlWit3ZW5OdENGWmZCeDltczhmUmFtOU5RQU5HNjRaNDY3cE4reDJ5NlMrSE9NK3NmWXdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NTEzNTA3CWZpbGU6Vk9SUF8wLjMuMzdfeDY0LXNldHVwLmV4ZQp3NmdRc2dEQy94Q3pPUktxSThwS2wrbmhEZXo4WEQ0aW1WMUVUUURiWmt6V20xQThUcDltcGVQZkJjQ2hFMEJZVVcySmZZUTRyNG92NjhNSkpUcFVDQT09Cg==",
-                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.3.37/VORP_0.3.37_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTZFKzdxbW9XNHF1Slo3eHpOTW9NTUFiV2VBdlQ0TTNCVmtrK0lSL3dWeXVIMGtLT2U5Z0ptOEgyRHQxUmNLMzNoc0ZXMHBaTlRiTVB5QVhlZWxlVlFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NTE2NTQyCWZpbGU6Vk9SUF8wLjQuMF94NjQtc2V0dXAuZXhlCjZwc3RYbDFWYm5MWStGa0JhRm44ZWMwdzFWeHpuMzc3ZnNzYVJrbm5SU3gzMXJDdEQxVGpVYVE0L2FZV1dMRXR0OTN6RmtNR3grUGpSWEQ0U3k3MUJBPT0K",
+                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.4.0/VORP_0.4.0_x64-setup.exe"
                                          }
                   }
 }
