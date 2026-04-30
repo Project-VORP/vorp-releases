@@ -1,11 +1,11 @@
 {
-    "version":  "0.6.0",
-    "notes":  "v0.6.0: VORP Teams launch — workspace switcher, pending invites, roles, activity feed, team-attributed drops, Slack webhooks, owner settings",
-    "pub_date":  "2026-04-30T19:14:59Z",
+    "version":  "0.6.1",
+    "notes":  "v0.6.1: workspace switcher polish — neater pill, cleaner dropdown, checkmarks on active workspace",
+    "pub_date":  "2026-04-30T19:28:49Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTd0VmRFRlpkdXJwZVFjb21pN1YyZ1dnSzZJd2ZTc2hNekk0Ymd1dGxoUnJmeGNXR0k2eFFCU1BmRGVLQUt6eERNcnZhekRyYU9LbHJnL0JWUXpvdmdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NTU2NjY0CWZpbGU6Vk9SUF8wLjYuMF94NjQtc2V0dXAuZXhlCkZOcVY0VFFEL1hPeHdxQUcyVWVNZ01XbmhTcVJ3TG9yaWk3NE5Ta0NpcUZ3OXg2a3dXUEpWSUNrZ3N2SjNBRC92WkdGS21ZNG9ScUhuek5YMlVGd0JnPT0K",
-                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.6.0/VORP_0.6.0_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTBudEk5bnFhWW45QjREWGtFbHBXR1pJV2xTSFRDQWZzQkQyM0QzVjRTa1BXOFZ2Q0trdTlDRWNwMkRYWGhjQU40bzd2UVh5SkhLem5KMG1tdC8vZFFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NTU3NDg3CWZpbGU6Vk9SUF8wLjYuMV94NjQtc2V0dXAuZXhlCkJYcHdjUXgxTHIvc2lya1laUy9ob2ZOODVseFJQQ2I2WXgvQzZNbnEvM0VGMjBobkR2MVY1eDBqS2FHQWlPSmhMVjVIQk4xYWxITmZ1VUdXZU1TU0RBPT0K",
+                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.6.1/VORP_0.6.1_x64-setup.exe"
                                          }
                   }
 }
