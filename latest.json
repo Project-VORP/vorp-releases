@@ -1,11 +1,11 @@
 {
-    "version":  "0.5.5",
-    "notes":  "v0.5.5: relay-first WebRTC (iceTransportPolicy=relay) — fast reliable connections via Cloudflare TURN",
-    "pub_date":  "2026-04-30T17:57:08Z",
+    "version":  "0.6.0",
+    "notes":  "v0.6.0: VORP Teams launch — workspace switcher, pending invites, roles, activity feed, team-attributed drops, Slack webhooks, owner settings",
+    "pub_date":  "2026-04-30T19:14:59Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTVJdFkvVHFzcGwvbUhYeHZZWG1nbGN6TE83QU04VHNGa0NSSXA4eWhtb1dYcVJXRkVKMitkZ1JHZjZpZUNiRVllZStTK253cTNkdXdyZ21yWUVmRWdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NTUxOTk4CWZpbGU6Vk9SUF8wLjUuNV94NjQtc2V0dXAuZXhlCldVRlBLSnFEYlg0NU1NU2UvMmJHTVVaUCtUcVYzWXoraVBZY3F1cU1yWmx4Zzh5UTc2Zmp4NFdEZFZLdW43YS9EQkd5amRXVU1XZVRvTi9wNjJER0FnPT0K",
-                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.5.5/VORP_0.5.5_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTd0VmRFRlpkdXJwZVFjb21pN1YyZ1dnSzZJd2ZTc2hNekk0Ymd1dGxoUnJmeGNXR0k2eFFCU1BmRGVLQUt6eERNcnZhekRyYU9LbHJnL0JWUXpvdmdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NTU2NjY0CWZpbGU6Vk9SUF8wLjYuMF94NjQtc2V0dXAuZXhlCkZOcVY0VFFEL1hPeHdxQUcyVWVNZ01XbmhTcVJ3TG9yaWk3NE5Ta0NpcUZ3OXg2a3dXUEpWSUNrZ3N2SjNBRC92WkdGS21ZNG9ScUhuek5YMlVGd0JnPT0K",
+                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.6.0/VORP_0.6.0_x64-setup.exe"
                                          }
                   }
 }
