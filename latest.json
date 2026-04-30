@@ -1,11 +1,11 @@
 {
-    "version":  "0.4.3",
-    "notes":  "v0.4.3: handle WS eviction (stop reconnect-fight when another instance signs in)",
-    "pub_date":  "2026-04-30T12:59:57Z",
+    "version":  "0.4.4",
+    "notes":  "v0.4.4: charcoal #1a1a1a background (less pitch black), resize/fullscreen allowed, resets to 720x500 on launch",
+    "pub_date":  "2026-04-30T13:07:20Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTMvdEUzOUw0QlVmaVgwN2lRRis5SklCYlh5NXJuQmgvcGtIb1lGUGFPN3A1UmplN2hmTFJlR2tMNGFBOTlXM2Z6K2ErS0tMWkxtOGpiVjg5Yk5Nd2djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NTM0MDY0CWZpbGU6Vk9SUF8wLjQuM194NjQtc2V0dXAuZXhlCmdtVlhLWTNKTGFDMUZBWDBvS0ZQS1dvQkNZWWwzRXFPam0rY1hSc3I5NlZ6Slpnd3N1T0gzZzdveit5dE0va1p6VkFiSHYrVXBzZVFxZXE1WHZyckFBPT0K",
-                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.4.3/VORP_0.4.3_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dSsrSlFZTW45ckxKc1g3NFZ0cWIvSmh5M1Nlazk1TXdYd0ZYalpna1BQeStRNUpyWmQySXR6M0tsbTloYW5Da3UxREZaOG5sYVFTVmpkangvaHFCdkFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NTM0NTM2CWZpbGU6Vk9SUF8wLjQuNF94NjQtc2V0dXAuZXhlCm1Kc2RQdCt0bkc1QnhkZFZHcmFnblVzejlPNm9yaXFPa1o1Smg5UnBDN01vS2padlZCT1Y5WDZ6RjFEUk5ZbVo2U1VUWHY2cDNTdGN6L2Qya2ovVkRRPT0K",
+                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.4.4/VORP_0.4.4_x64-setup.exe"
                                          }
                   }
 }
