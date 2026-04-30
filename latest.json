@@ -1,11 +1,11 @@
 {
-    "version":  "0.4.0",
-    "notes":  "v0.4.0: categorized palette, squint easter egg, hover-to-open on drag, eyes follow ring dots, search shows Cancel for outgoing, drop ttl fix",
-    "pub_date":  "2026-04-30T08:06:09Z",
+    "version":  "0.4.1",
+    "notes":  "v0.4.1: curated bg/blob colour pairs, real \u003e_\u003c squint, ^_^ pop on transfer complete, GitHub removed from landing",
+    "pub_date":  "2026-04-30T08:21:36Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTZFKzdxbW9XNHF1Slo3eHpOTW9NTUFiV2VBdlQ0TTNCVmtrK0lSL3dWeXVIMGtLT2U5Z0ptOEgyRHQxUmNLMzNoc0ZXMHBaTlRiTVB5QVhlZWxlVlFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NTE2NTQyCWZpbGU6Vk9SUF8wLjQuMF94NjQtc2V0dXAuZXhlCjZwc3RYbDFWYm5MWStGa0JhRm44ZWMwdzFWeHpuMzc3ZnNzYVJrbm5SU3gzMXJDdEQxVGpVYVE0L2FZV1dMRXR0OTN6RmtNR3grUGpSWEQ0U3k3MUJBPT0K",
-                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.4.0/VORP_0.4.0_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dS9YN1ZaU1RqMDNXa0VKRDMwM2JBVjkrcUR2b3QvdlRwcFN5OEl1WUJpMkc2ZFJ0cm5EdjI5NVAyeElmcVlPOE16eFpGdTc3WENBMy9hWHN4eXl4RkFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NTE3NDY5CWZpbGU6Vk9SUF8wLjQuMV94NjQtc2V0dXAuZXhlCkp5Y285VmpQTjN0WXhUNmF1NTJHdWUzeVg4Q1VLUmNjb0swYUkrS0JybFhXQ1ZZKzhzWUlCaDV6MjhraEVsRGpZaG5CQ09OenppQkdjMGNnSk5qTENRPT0K",
+                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.4.1/VORP_0.4.1_x64-setup.exe"
                                          }
                   }
 }
