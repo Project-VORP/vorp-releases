@@ -1,11 +1,11 @@
 {
-    "version":  "0.3.35",
-    "notes":  "v0.3.35: redesigned Receive screen — centered card, refined input, hover/focus polish",
-    "pub_date":  "2026-04-30T06:47:29Z",
+    "version":  "0.3.36",
+    "notes":  "v0.3.36: Settings redesign with soft cards + splash now waits for auth check (no sign-in flash)",
+    "pub_date":  "2026-04-30T06:59:07Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTJaUkIxbnVJMEJTYmZlMTBNOVJUQTQwQlNlYjlEQzBXN3ptTjF2ZEtKQWdWWEpBRmdtZU1PdnJEY3B1dUxZRGRUQXlzVGpGZWwyQkhLeWxqaGEwalFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NTExNzI3CWZpbGU6Vk9SUF8wLjMuMzVfeDY0LXNldHVwLmV4ZQoyZ2FYUk5kVUR6VnpyRGJBZFdiazY3WXQxOHFtU1cvYi9XWlp0dzFaSGswQ1JSOUJsVGRtUjBLQk9jVG42REgzMmtibE5uTmYvOFNNeXNmbzkyVkxDUT09Cg==",
-                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.3.35/VORP_0.3.35_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dXcvbExUc3VaclREeFJqY2V1QkdHUlNpVy9DNHUxbC9HZGhEMVNGazR4VCsvRHQxQklvOVVyT2VxS2tTSDgzSDNaVE8vY2tld0NHZ3Azc3puV3VXd3d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NTEyNDc1CWZpbGU6Vk9SUF8wLjMuMzZfeDY0LXNldHVwLmV4ZQpnZHl6dVMwaEpkb3pqVWZpT3RwWDVzb1hUWFRXWTZKNzhZT2Q1WGhXeTR6MmY3dUR1OERJUjhGQUFCSE9nRjBZUDlpak54WEg4Wk5TanA2WDQyMG5DZz09Cg==",
+                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.3.36/VORP_0.3.36_x64-setup.exe"
                                          }
                   }
 }
