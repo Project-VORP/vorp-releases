@@ -1,11 +1,11 @@
 {
-    "version":  "0.4.1",
-    "notes":  "v0.4.1: curated bg/blob colour pairs, real \u003e_\u003c squint, ^_^ pop on transfer complete, GitHub removed from landing",
-    "pub_date":  "2026-04-30T08:21:36Z",
+    "version":  "0.4.2",
+    "notes":  "v0.4.2: removed holding-for-offline UX (fast S3 fallback), drop upload uses the dotted ring",
+    "pub_date":  "2026-04-30T12:39:01Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dS9YN1ZaU1RqMDNXa0VKRDMwM2JBVjkrcUR2b3QvdlRwcFN5OEl1WUJpMkc2ZFJ0cm5EdjI5NVAyeElmcVlPOE16eFpGdTc3WENBMy9hWHN4eXl4RkFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NTE3NDY5CWZpbGU6Vk9SUF8wLjQuMV94NjQtc2V0dXAuZXhlCkp5Y285VmpQTjN0WXhUNmF1NTJHdWUzeVg4Q1VLUmNjb0swYUkrS0JybFhXQ1ZZKzhzWUlCaDV6MjhraEVsRGpZaG5CQ09OenppQkdjMGNnSk5qTENRPT0K",
-                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.4.1/VORP_0.4.1_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTF0ZzE4ZkJaQ1BmV2wvSWh0Y0RwSjZGekZSbFpXN25SRTdnN3pVb0lONWYzZDdOeDBTbktlV0ZnbEUxcVYrMmYzbExvcXVRNmltSDloUjRZUnB2S3dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NTE3OTA2CWZpbGU6Vk9SUF8wLjQuMl94NjQtc2V0dXAuZXhlCi80emVrM1RLcCtDQkVWNDlJZFRLK0lhdy91ZTQvTVFlUGxmZE5ZakF4YlpzeDBJZ0tYUVBNb01YbEZWSjh2c3M4UGo4NFVHU1Zva0VQUXU4Wi9tTkRRPT0K",
+                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.4.2/VORP_0.4.2_x64-setup.exe"
                                          }
                   }
 }
