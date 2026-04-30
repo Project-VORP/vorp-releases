@@ -1,11 +1,11 @@
 {
-    "version":  "0.5.1",
-    "notes":  "v0.5.1: Teams MVP + fix file send 4-channel mismatch (sender now opens 4 channels matching receiver)",
-    "pub_date":  "2026-04-30T14:30:47Z",
+    "version":  "0.5.2",
+    "notes":  "v0.5.2: razorpay deletion (security) + bolder sidebar icons + background drop uploads + idempotency on /drop/create + local API synced with prod",
+    "pub_date":  "2026-04-30T17:27:02Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dXpnZTVCU25BSDJXWkVYSk1USXBtMFdWREtuVGFBemhzbEFldXlYNEhUSXNNWjV6eGh6UCtNQ1RhU09SM3dKaHE1ZVdEREVEUVY3RGJZK2lOZ0RZSUFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NTM5MTkwCWZpbGU6Vk9SUF8wLjUuMV94NjQtc2V0dXAuZXhlCmMvOVM2N1F5dm5zcFl0SjRuV3FNYjZmdDZXYk5SVXdoRWR3SXF0S3pxQ2tUYW10ZmpNZXRha0R6anlWbjExQXlONCtMa2k0OHd5WnpFQWcwY1NpU0JBPT0K",
-                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.5.1/VORP_0.5.1_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTAzc2JDRG1ZUnJVYW1tUUFrV1ZwSXB3RGsxdTJjMlNFaFkvQUNxM2ZRZ0RjU2Q1MWp0alBPZitaY29nS3VLbnRZeEI2dlZZUmJMU21JRG92Rm1Qa2dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NTUwMTkyCWZpbGU6Vk9SUF8wLjUuMl94NjQtc2V0dXAuZXhlClRMR1pXdllZWUVJekpkSGNaQm1qZDBRUjFwQUl3c0tma3QxRlVJN0tDZTFEUVc5QUIwTjA3WVFRMGdpZldvdzlIYnpDeWZXY05UQ08yN1lBOFF4NENRPT0K",
+                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.5.2/VORP_0.5.2_x64-setup.exe"
                                          }
                   }
 }
