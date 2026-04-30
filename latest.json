@@ -1,11 +1,11 @@
 {
-    "version":  "0.3.33",
-    "notes":  "v0.3.33: smile preserved, eyes seed from cursor on open, smiley swap aditya\u003c-\u003eahzammehdi",
-    "pub_date":  "2026-04-29T21:38:44Z",
+    "version":  "0.3.34",
+    "notes":  "v0.3.34: 16-color palette, eye-tracking works on every seed, animations/sounds settings",
+    "pub_date":  "2026-04-30T06:39:31Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTZpM2JMc21ySVpCV2pVaElKdUc5Nk5QakNyRURaMlpNZzFFaGpoZ1pTdE1VT3BScElzbE9PZWVYcVM5clJveWRuaG1JYWRVbE9ZQVhMQm1iTUJCTGdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NDc4ODgxCWZpbGU6Vk9SUF8wLjMuMzNfeDY0LXNldHVwLmV4ZQpPbWY4MDhja0J1ajViVUptSGlMb1FrQWYvYmJzZlR2bE9RcTkrY1MrVVRVaHB0NzVCTWdhNWdHblNRTTlCWk9ORnphWVFWTkIvVm5pSWY5c09tWjBBdz09Cg==",
-                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.3.33/VORP_0.3.33_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTViOXNiUjlLMVNjczdHTDB3WTJhZkJHd0ZqYkE3NzJDbjVrWWFDaUY1eXFNZlZVVHo2amtyRWE2VkNYa0pHY1J4cGFPVmZOQUFuR3Q1SWlBeUdUZHc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NTExMzM4CWZpbGU6Vk9SUF8wLjMuMzRfeDY0LXNldHVwLmV4ZQpUdDVON20zbjFWWGlrWVF3VDQxZjAzQ0R4OXlmaEhUNTdONGxCRTlhSnV0TUpDZzBsMWZvSlhGTEZ3RDh3V2xVc2srOVBFK3B0UG9tYVdLSWtCTUtDQT09Cg==",
+                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.3.34/VORP_0.3.34_x64-setup.exe"
                                          }
                   }
 }
