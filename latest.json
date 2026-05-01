@@ -1,11 +1,11 @@
 {
-    "version":  "0.6.3",
-    "notes":  "v0.6.3: tray-drop catcher (WM_DROPFILES) + bottom-right contact picker overlay",
-    "pub_date":  "2026-04-30T21:37:25Z",
+    "version":  "0.6.4",
+    "notes":  "v0.6.4: tray-drop catcher now sits on the actual Windows taskbar (Shell_TrayWnd) + removed transparent flag so drops register",
+    "pub_date":  "2026-05-01T08:17:22Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTVLdEkwVCtjNmpab0RVVUdjUXlrS0g4Y0xpdXNOL2RCa1dwTGhNYkc4b1lJTk9CZDdXV1Z2bmQ0bzRHNG1tSzVHbU5YS1NEZWVjcHU5NERHaWNLRGdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NTY1MTY1CWZpbGU6Vk9SUF8wLjYuM194NjQtc2V0dXAuZXhlCjNOSG5TcEFzdnAyY0xFVWdOTEFkOWFURGk1d3hHVWJoSjVCK0VBOEdIaE5FNUJaZDYzaXZvOWRwS1ZXNXpkZEtVKzNyanBqUldtd3NVU2FkaEhLaUJ3PT0K",
-                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.6.3/VORP_0.6.3_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dS9LZmNXVmdhVC92NVpaTzB2ZDdjZ0JMVmM5VFFNU0dhTkVOMjFnam82UEFJSytSVkpuWWhjd1g3UmR4YWZCWnRCaThLS1ZDOEJydWJrR3hBak1RdHdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NjAzNjAyCWZpbGU6Vk9SUF8wLjYuNF94NjQtc2V0dXAuZXhlCmI4emh2S0l2Vk5Bc1YzUmIrU0VPNzFwY09VUWJTckRJdnRlRUdQSlZlbktxT2NXaG4zUlNJNmxkaFdrQm5YZjllZmN0RU4zc0lzQUN5MitMRytWM0RBPT0K",
+                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.6.4/VORP_0.6.4_x64-setup.exe"
                                          }
                   }
 }
