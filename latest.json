@@ -1,11 +1,11 @@
 {
-    "version":  "0.6.4",
-    "notes":  "v0.6.4: tray-drop catcher now sits on the actual Windows taskbar (Shell_TrayWnd) + removed transparent flag so drops register",
-    "pub_date":  "2026-05-01T08:17:22Z",
+    "version":  "0.6.5",
+    "notes":  "v0.6.5: tray-drop debug — visible red catcher + console logging to diagnose drop routing",
+    "pub_date":  "2026-05-01T08:28:49Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dS9LZmNXVmdhVC92NVpaTzB2ZDdjZ0JMVmM5VFFNU0dhTkVOMjFnam82UEFJSytSVkpuWWhjd1g3UmR4YWZCWnRCaThLS1ZDOEJydWJrR3hBak1RdHdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NjAzNjAyCWZpbGU6Vk9SUF8wLjYuNF94NjQtc2V0dXAuZXhlCmI4emh2S0l2Vk5Bc1YzUmIrU0VPNzFwY09VUWJTckRJdnRlRUdQSlZlbktxT2NXaG4zUlNJNmxkaFdrQm5YZjllZmN0RU4zc0lzQUN5MitMRytWM0RBPT0K",
-                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.6.4/VORP_0.6.4_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dS92SXNzUVRCWnpuV0s2bmZRVkRpN3hpZjFhOHBpRFhFRXdpbHRQeTF0NXNYNVdsV0JYbjhZcVdkUXpRQ09mdkthVWNqTHduUjByTllWeTd6ZkQ1OHdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NjA0MjgwCWZpbGU6Vk9SUF8wLjYuNV94NjQtc2V0dXAuZXhlCjkvMkMxZU5jT1AzOVRNY25QR1I0b0hkVDkwb0RTUmp4NE5oM09VWnE2Tnp3eHNwZEZGMzlxV3RqV1JGYjZWamVWSzhQVWw2dUk1Qzl1eU1KMnJMbEFRPT0K",
+                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.6.5/VORP_0.6.5_x64-setup.exe"
                                          }
                   }
 }
