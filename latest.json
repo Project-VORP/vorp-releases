@@ -1,11 +1,11 @@
 {
-    "version":  "0.6.5",
-    "notes":  "v0.6.5: tray-drop debug — visible red catcher + console logging to diagnose drop routing",
-    "pub_date":  "2026-05-01T08:28:49Z",
+    "version":  "0.6.6",
+    "notes":  "v0.6.6 — Slack URL removed, 8 fixed accent swatches, charcoal workspace pill + right-click menu, paid-only workspace switcher, workspace-aware right-click contacts",
+    "pub_date":  "2026-05-01T10:38:19Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dS92SXNzUVRCWnpuV0s2bmZRVkRpN3hpZjFhOHBpRFhFRXdpbHRQeTF0NXNYNVdsV0JYbjhZcVdkUXpRQ09mdkthVWNqTHduUjByTllWeTd6ZkQ1OHdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NjA0MjgwCWZpbGU6Vk9SUF8wLjYuNV94NjQtc2V0dXAuZXhlCjkvMkMxZU5jT1AzOVRNY25QR1I0b0hkVDkwb0RTUmp4NE5oM09VWnE2Tnp3eHNwZEZGMzlxV3RqV1JGYjZWamVWSzhQVWw2dUk1Qzl1eU1KMnJMbEFRPT0K",
-                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.6.5/VORP_0.6.5_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTVYMFJ4VEx5azh4WDBsU1grRks0T096MS93ZEhVS3MxK1FBMXZxdnVJQ3NzNFhBclp2RGxLUG9HOVRLdjh3cHFzU0VZYjF5U3prM2dSYll0cnFMZ2cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NjEyMDc3CWZpbGU6Vk9SUF8wLjYuNl94NjQtc2V0dXAuZXhlCkhET0NiczlHcFNmRzR0Rng0TFlzcHlqRjliT3BWS25qWjRuU3l3eWpUR3h3STJlem9ldEV1RXVjK2NUKzhrdWIrRFoxdEdPTjV6WE8vODdPNjdjWURnPT0K",
+                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.6.6/VORP_0.6.6_x64-setup.exe"
                                          }
                   }
 }
