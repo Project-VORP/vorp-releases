@@ -1,11 +1,11 @@
 {
-    "version":  "0.6.7",
+    "version":  "0.6.8",
     "notes":  "Bug fixes and improvements",
-    "pub_date":  "2026-05-01T11:11:46Z",
+    "pub_date":  "2026-05-01T12:11:40Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTJDdkNDcENYRFArczhZcWdiK2YvR2ZNbCtESVBxbXZ4MzJNb1poZmlMU0pLNE5la2R2ZmdBakFrT1BnTEh4WTN0ZVZ2WkpCcy84bkdSdVRZak5XWVFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NjE0MDkzCWZpbGU6Vk9SUF8wLjYuN194NjQtc2V0dXAuZXhlCllMZjkvREpXWUdyVU81U2FEK2o0OVhMazlwR3RKa2dHNDBPK3BzV01IanBOd1pGYTZQeFFrUXZnRXZYcVNDNFBabTdYcGVDMHZWa2NCZC83MG1lVENnPT0K",
-                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.6.7/VORP_0.6.7_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dThiSlkxSlpBQVlEUDgvMWtyNXovR2txVlhaZXpBZjczZkhEQ0s5Vjd2aTVjK2pJTEg3Ly9Kdy9ubUdRdllINFBSUEVOMmsrS2E3R1EybEt3MnUrbmc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NjE3Njg1CWZpbGU6Vk9SUF8wLjYuOF94NjQtc2V0dXAuZXhlCnVEdjhETzMxNytSQkhGN2ZOYkdWSTFrZG5kdWRMZDlDcXZJVnc1RTdidzd0MkpOcGVBM2xEbWhWV0llK2NGTlByajFuVTZCU0cwallET1hZdEpXL0J3PT0K",
+                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.6.8/VORP_0.6.8_x64-setup.exe"
                                          }
                   }
 }
