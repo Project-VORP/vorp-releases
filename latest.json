@@ -1,11 +1,11 @@
 {
-    "version":  "0.6.28",
-    "notes":  "v0.6.28: toast notification when files auto-arrive from a friend",
-    "pub_date":  "2026-05-03T10:02:53Z",
+    "version":  "0.6.29",
+    "notes":  "v0.6.29: fix S3 multipart fallback for files over 8MB (was hanging at 0% with stuck loading animation)",
+    "pub_date":  "2026-05-03T10:50:22Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dXc3dUQwK1c0RGNjTmltcWxnSlFXZ0ljeTJlNVIzemV3NDV1YkxuOXJHdTVMMkE3OWJYS2tXanJvM1JIQ3BVaXd4ZjBkL2FQVVR2MXFNSEZObmlqclFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NzgyNzYxCWZpbGU6Vk9SUF8wLjYuMjhfeDY0LXNldHVwLmV4ZQpNeEJjM0xONmJkOGxXNXl6QmsxMGFhZiswSmcvdzIvYWxydVQvaUxLc2VXODFtYVZ2VTFnQkhoRTVrRGVFY3JUVnp1ak1iVnBwU2ZWdmJiakFTSE9EUT09Cg==",
-                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.6.28/VORP_0.6.28_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dXkzOE0veUplbG14L29SUkk3Yy85STJ2SVZ1MGlobXZmUmFnMVFTMm1mSWdsYU5hTzhqemtzQU1CZTZ3UmtKTDk1ODUzWGhINllPU1ZubUtuVW0ydHdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3Nzg1NjEzCWZpbGU6Vk9SUF8wLjYuMjlfeDY0LXNldHVwLmV4ZQpRTnl5YlZyaWR5SjZjblNJcTVvZXdXbzNqS1kwMUF0dnJubndpZGtiRWtLM2QzQlBXYVdFRWxRZ0hXL2Y0YzM4RklINXJyTHNpV3IwMldxTWhrZDJDUT09Cg==",
+                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.6.29/VORP_0.6.29_x64-setup.exe"
                                          }
                   }
 }
