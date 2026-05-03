@@ -1,11 +1,11 @@
 {
-    "version":  "0.6.27",
-    "notes":  "v0.6.27: VORP folder is now a plain local folder (cloud projection removed). Persistent P2P fast-path disabled. Receive progress clamped at 100%.",
-    "pub_date":  "2026-05-03T08:25:43Z",
+    "version":  "0.6.28",
+    "notes":  "v0.6.28: toast notification when files auto-arrive from a friend",
+    "pub_date":  "2026-05-03T10:02:53Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTUwWmx5Wi9hSXpySHJxUGs3d2hSSlFTeDE1R3NmY0laQTVkNHdpb2J4WjNoWVV1ZlJUTVZ4Z3pEMVNVa21vRWNTNXZETjlJQ3gxd3pZUWFjYnQ1N1E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3Nzc2OTM1CWZpbGU6Vk9SUF8wLjYuMjdfeDY0LXNldHVwLmV4ZQorYUp5bWhSUWZiUDZockhIZ0R5SzlQdDE3U0lKdWRyRmRleXE2TXczUHhNVUxkeTZTbmloK1MwbTJxNkkvRzR6ZlFUMnBMUWtLOWlQTkVQYU1hMmNCQT09Cg==",
-                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.6.27/VORP_0.6.27_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dXc3dUQwK1c0RGNjTmltcWxnSlFXZ0ljeTJlNVIzemV3NDV1YkxuOXJHdTVMMkE3OWJYS2tXanJvM1JIQ3BVaXd4ZjBkL2FQVVR2MXFNSEZObmlqclFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NzgyNzYxCWZpbGU6Vk9SUF8wLjYuMjhfeDY0LXNldHVwLmV4ZQpNeEJjM0xONmJkOGxXNXl6QmsxMGFhZiswSmcvdzIvYWxydVQvaUxLc2VXODFtYVZ2VTFnQkhoRTVrRGVFY3JUVnp1ak1iVnBwU2ZWdmJiakFTSE9EUT09Cg==",
+                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.6.28/VORP_0.6.28_x64-setup.exe"
                                          }
                   }
 }
