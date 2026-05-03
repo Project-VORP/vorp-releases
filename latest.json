@@ -1,11 +1,11 @@
 {
-    "version":  "0.6.26",
-    "notes":  "v0.6.26: TURN prefetch diagnostics — log fetch status, server count, scheme check",
-    "pub_date":  "2026-05-02T18:42:11Z",
+    "version":  "0.6.27",
+    "notes":  "v0.6.27: VORP folder is now a plain local folder (cloud projection removed). Persistent P2P fast-path disabled. Receive progress clamped at 100%.",
+    "pub_date":  "2026-05-03T08:25:43Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTdGTGltWnZ5cFRndUFWVWZDRGNLV1FPV2svRnZ6Yk1OMXJxTUxzYW1reTBSeTN0WTlHbXN3SEZGbjlMSTQ2OWx4STJtSUtzbFlQS296YTdHVHhiZlEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NzI3NTI0CWZpbGU6Vk9SUF8wLjYuMjZfeDY0LXNldHVwLmV4ZQpwMUJRd2RTMjZYVkxrdExIMWNSZWl3TjUzTmNySkJLVWorSENpYkJnOCtzMTg2WHBtTTlCN1d5QzNWOEJMVmxyUmRMMUVPcVRhZWFWc2VBNXNBYkZEdz09Cg==",
-                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.6.26/VORP_0.6.26_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTUwWmx5Wi9hSXpySHJxUGs3d2hSSlFTeDE1R3NmY0laQTVkNHdpb2J4WjNoWVV1ZlJUTVZ4Z3pEMVNVa21vRWNTNXZETjlJQ3gxd3pZUWFjYnQ1N1E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3Nzc2OTM1CWZpbGU6Vk9SUF8wLjYuMjdfeDY0LXNldHVwLmV4ZQorYUp5bWhSUWZiUDZockhIZ0R5SzlQdDE3U0lKdWRyRmRleXE2TXczUHhNVUxkeTZTbmloK1MwbTJxNkkvRzR6ZlFUMnBMUWtLOWlQTkVQYU1hMmNCQT09Cg==",
+                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.6.27/VORP_0.6.27_x64-setup.exe"
                                          }
                   }
 }
