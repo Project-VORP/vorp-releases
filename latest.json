@@ -1,11 +1,11 @@
 {
-    "version":  "0.6.29",
-    "notes":  "v0.6.29: fix S3 multipart fallback for files over 8MB (was hanging at 0% with stuck loading animation)",
-    "pub_date":  "2026-05-03T10:50:22Z",
+    "version":  "0.6.30",
+    "notes":  "v0.6.30: streaming receive (any file size), right-click cleanup, queue + drop hardening\n\nP2P receive now streams chunks straight to disk — no more JS heap cap on file size. Removed Vault entries from the Windows context menu. Replaced cold-start 5s sleep with a file-based handoff so right-click actions fire as soon as the app is ready. Re-enabled drag-drop into the main window. Backend hardening: free-tier 2 GB + 30-day TTL, atomic quota reservation, multipart IDOR + orphan fixes, S3 NoSuchKey handling. QuickDrop tray widget removed. VORP Drive cloud projection disabled.",
+    "pub_date":  "2026-05-10T19:24:47Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dXkzOE0veUplbG14L29SUkk3Yy85STJ2SVZ1MGlobXZmUmFnMVFTMm1mSWdsYU5hTzhqemtzQU1CZTZ3UmtKTDk1ODUzWGhINllPU1ZubUtuVW0ydHdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3Nzg1NjEzCWZpbGU6Vk9SUF8wLjYuMjlfeDY0LXNldHVwLmV4ZQpRTnl5YlZyaWR5SjZjblNJcTVvZXdXbzNqS1kwMUF0dnJubndpZGtiRWtLM2QzQlBXYVdFRWxRZ0hXL2Y0YzM4RklINXJyTHNpV3IwMldxTWhrZDJDUT09Cg==",
-                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.6.29/VORP_0.6.29_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTVPZWhZWlJiVHp5MlFYWnFpQU9JUXdhekY2ZXAycGdaZ094RmR2bWlUaTlhS0d2M2lkVG04V1IrUHpuWFZ2NlMzSjlsVFBzbDlYVzM2Zmpqa1BtMHdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4NDE4MzI4CWZpbGU6Vk9SUF8wLjYuMzBfeDY0LXNldHVwLmV4ZQpXdmNSYVVkRDBZQTk0a3RKSmxpZzBUY1BPRUFxZ3pKZERrRzBxUHRCQU43WVRlNVRabGNUbHhTdTlzOEVDcDFqdWpXZURIQ2czazBzQWordXhzV2VCZz09Cg==",
+                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.6.30/VORP_0.6.30_x64-setup.exe"
                                          }
                   }
 }
