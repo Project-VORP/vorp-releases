@@ -1,11 +1,11 @@
 {
-    "version":  "0.6.30",
-    "notes":  "v0.6.30: streaming receive (any file size), right-click cleanup, queue + drop hardening\n\nP2P receive now streams chunks straight to disk — no more JS heap cap on file size. Removed Vault entries from the Windows context menu. Replaced cold-start 5s sleep with a file-based handoff so right-click actions fire as soon as the app is ready. Re-enabled drag-drop into the main window. Backend hardening: free-tier 2 GB + 30-day TTL, atomic quota reservation, multipart IDOR + orphan fixes, S3 NoSuchKey handling. QuickDrop tray widget removed. VORP Drive cloud projection disabled.",
-    "pub_date":  "2026-05-10T19:24:47Z",
+    "version":  "0.6.31",
+    "notes":  "v0.6.31: Windows toast on file receive (P2P + queue) + eager notification permission ask\n\nBackgrounded VORP now signals when a file lands. Permission is requested once per install right after sign-in instead of lazily on first toast (which had a race where the first \u0027Got X from Y\u0027 could fire before permission was granted).",
+    "pub_date":  "2026-05-10T19:55:22Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTVPZWhZWlJiVHp5MlFYWnFpQU9JUXdhekY2ZXAycGdaZ094RmR2bWlUaTlhS0d2M2lkVG04V1IrUHpuWFZ2NlMzSjlsVFBzbDlYVzM2Zmpqa1BtMHdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4NDE4MzI4CWZpbGU6Vk9SUF8wLjYuMzBfeDY0LXNldHVwLmV4ZQpXdmNSYVVkRDBZQTk0a3RKSmxpZzBUY1BPRUFxZ3pKZERrRzBxUHRCQU43WVRlNVRabGNUbHhTdTlzOEVDcDFqdWpXZURIQ2czazBzQWordXhzV2VCZz09Cg==",
-                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.6.30/VORP_0.6.30_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dXc0US9McWZQVWlidjlLS2FmY2xNbzZYaUxEWGFUWkFBMy9FS09aMEhtUktTRi9raW1zL0JUU0d5a1VsUEdYcDZjMlFLMnVBWUNuV1hURGp1V29JbHdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4NDIzMTEzCWZpbGU6Vk9SUF8wLjYuMzFfeDY0LXNldHVwLmV4ZQpEY2NuS3hLdVkyRGZDOGFmeEhmcWQ3V2FheDFOUG8vckJvT3c3NVU3ekpFRUVHNGF2a0dBUjF4aVpucTF6eU10QzJQWGRiMkUyN3N2blJxTmdDSzlCUT09Cg==",
+                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.6.31/VORP_0.6.31_x64-setup.exe"
                                          }
                   }
 }
