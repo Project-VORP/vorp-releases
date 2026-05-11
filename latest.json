@@ -1,11 +1,11 @@
 {
-    "version":  "0.6.31",
-    "notes":  "v0.6.31: Windows toast on file receive (P2P + queue) + eager notification permission ask\n\nBackgrounded VORP now signals when a file lands. Permission is requested once per install right after sign-in instead of lazily on first toast (which had a race where the first \u0027Got X from Y\u0027 could fire before permission was granted).",
-    "pub_date":  "2026-05-10T19:55:22Z",
+    "version":  "0.6.32",
+    "notes":  "v0.6.32: queue retry self-heal + right-click silent send UX\n\nFiles no longer stuck in queue after a single transient failure — the auto-save loop now retries on every poll until both download and accept succeed, with real errors surfaced to the dev console. For right-click Send to Friend: recipient gets a real-time toast the moment the sender starts uploading (was previously only on upload completion), and sender sees live progress percentage in the tray tooltip (\u0027VORP — Sending file.zip (47%)\u0027) so the silent-window UX has a visible affordance for hovering.",
+    "pub_date":  "2026-05-11T07:59:35Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dXc0US9McWZQVWlidjlLS2FmY2xNbzZYaUxEWGFUWkFBMy9FS09aMEhtUktTRi9raW1zL0JUU0d5a1VsUEdYcDZjMlFLMnVBWUNuV1hURGp1V29JbHdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4NDIzMTEzCWZpbGU6Vk9SUF8wLjYuMzFfeDY0LXNldHVwLmV4ZQpEY2NuS3hLdVkyRGZDOGFmeEhmcWQ3V2FheDFOUG8vckJvT3c3NVU3ekpFRUVHNGF2a0dBUjF4aVpucTF6eU10QzJQWGRiMkUyN3N2blJxTmdDSzlCUT09Cg==",
-                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.6.31/VORP_0.6.31_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dXh0K1kyTUxWZFNxUk9qNzBmc1kxQ2lNZnZISlJKSzRBYmZYZnY4c3Y4WjViQW5YVkdJbUVOZjBwbXI3cFpSNDZzTUlDZmFlYW9jSWRLbDFlRVNRUXdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4NDY2NTY0CWZpbGU6Vk9SUF8wLjYuMzJfeDY0LXNldHVwLmV4ZQpOOGpqQ0diVWZuMnFoTUZYZGlXS3hPNEZaU3FtZ0lRR3ZiWTljeHBFZlY2YWl3dmRIOXZFYzREOHplNWhhcloxYS9TRC9oRnFrYUt6RXlFMzRVOGRBUT09Cg==",
+                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.6.32/VORP_0.6.32_x64-setup.exe"
                                          }
                   }
 }
