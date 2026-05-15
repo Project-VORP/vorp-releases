@@ -1,11 +1,11 @@
 {
-    "version":  "0.6.34",
-    "notes":  "v0.6.34: background queue polling\n\nPre-v0.6.34 the recipient app only loaded /queue/list on view changes or restart — so files sent to the queue could sit unfetched for hours. Now polls every 20 s in the background plus three short follow-up polls (2/8/20 s) after the WS incoming-notify fires, so a friend\u0027s right-click send lands on the recipient\u0027s disk within seconds of upload completion.",
-    "pub_date":  "2026-05-15T15:29:45Z",
+    "version":  "0.6.35",
+    "notes":  "v0.6.35: right-click silent send tries P2P first\n\nFiles up to 100 MB sent via right-click -\u003e Send to Friend now go peer-to-peer when both users are online. Zero S3 egress, real-time delivery, sender\u0027s \u0027Sent\u0027 toast fires only after bytes have actually landed. Falls back to S3 automatically when recipient is offline or P2P fails. Larger files still take the streaming queue path until send-side streaming lands.",
+    "pub_date":  "2026-05-15T15:50:34Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTlnUmgzNjhacy8zRW1Bb2haVXEyK1RPRW9uekZMYktlOWlabEo3RDFGbTgrdXhTTzZOQTlQd3AzTjhzSUZlZmRlWkgxNzRBOFpCVlo0UEpqTDZ6NlE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4ODM5MTc1CWZpbGU6Vk9SUF8wLjYuMzRfeDY0LXNldHVwLmV4ZQp1R0dLSWVZY3pTNER5SStpdW5DTGxBVFl6MlpsZXZ2ZHNjVGd1ZUdsUUxzbnREeC94OEdCZUtuTGFsN1JwTExGNXIwREVLTVN4dXMySkcvS0lJN1ZBdz09Cg==",
-                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.6.34/VORP_0.6.34_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTZmcVpRUHZsMmNvMWc3RTc2ZHV1dHZ6U0hHLzdTVGdkNWp6aXR6NFk1QUlpQWowd21YZys2ZitNL2N6T3MySUViM01OQjdRSjdQVTJTZ1JzRkhWYkFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4ODQwNDI1CWZpbGU6Vk9SUF8wLjYuMzVfeDY0LXNldHVwLmV4ZQpTOGZzenRKdjk5U1VDQ1cwS1dTUlFDYk0wcDNrdENGVDdhV3lhZVVBZFZRTDNVWWF1T1IrT2pVK1dFVHppQkQwdlRKUTJ3WUo5c0tSQlExMkhqTDJEZz09Cg==",
+                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.6.35/VORP_0.6.35_x64-setup.exe"
                                          }
                   }
 }
