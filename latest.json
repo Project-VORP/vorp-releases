@@ -1,11 +1,11 @@
 {
-    "version":  "0.6.35",
-    "notes":  "v0.6.35: right-click silent send tries P2P first\n\nFiles up to 100 MB sent via right-click -\u003e Send to Friend now go peer-to-peer when both users are online. Zero S3 egress, real-time delivery, sender\u0027s \u0027Sent\u0027 toast fires only after bytes have actually landed. Falls back to S3 automatically when recipient is offline or P2P fails. Larger files still take the streaming queue path until send-side streaming lands.",
-    "pub_date":  "2026-05-15T15:50:34Z",
+    "version":  "0.6.36",
+    "notes":  "v0.6.36: configurable receive folder\n\nSettings -\u003e Preferences now lets you pick where received files land. Defaults to ~/VORP; choose any folder (e.g. your existing Downloads) to skip the dedicated VORP folder. Reset button reverts to the default.",
+    "pub_date":  "2026-05-15T16:06:57Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTZmcVpRUHZsMmNvMWc3RTc2ZHV1dHZ6U0hHLzdTVGdkNWp6aXR6NFk1QUlpQWowd21YZys2ZitNL2N6T3MySUViM01OQjdRSjdQVTJTZ1JzRkhWYkFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4ODQwNDI1CWZpbGU6Vk9SUF8wLjYuMzVfeDY0LXNldHVwLmV4ZQpTOGZzenRKdjk5U1VDQ1cwS1dTUlFDYk0wcDNrdENGVDdhV3lhZVVBZFZRTDNVWWF1T1IrT2pVK1dFVHppQkQwdlRKUTJ3WUo5c0tSQlExMkhqTDJEZz09Cg==",
-                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.6.35/VORP_0.6.35_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dThlSHk0eHZLS09aSXhlN25BOUlPOUVEcVBIVm9hLy93d21nY1UwWlZadURURlp2Y3p2TkxtUkMwVi9UdnlLRjVjNmk2eSsreTJlbWw4dmIxeWh6VGdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4ODQxNDA4CWZpbGU6Vk9SUF8wLjYuMzZfeDY0LXNldHVwLmV4ZQpnejdkcTJOMEVOdVpTbzkzeW5KWWZPRnU3VkM2T2dVSGx6SmdFa1ovSUdiZkRpTnNPQnBwaG1jNEJLOVp4ZWllRmRoWkM1Vm1LUUZJR1BkVmUvS1RCUT09Cg==",
+                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.6.36/VORP_0.6.36_x64-setup.exe"
                                          }
                   }
 }
