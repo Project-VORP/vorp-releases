@@ -1,11 +1,11 @@
 {
-    "version":  "0.6.33",
-    "notes":  "v0.6.33: fix right-click silent send for multipart uploads\n\nFiles larger than ~8 MB sent via right-click -\u003e Send to Friend silently 400\u0027d at IPC validation because the handler hardcoded the single-PUT response shape. Now branches on data.multipart and uses the same parts loop as Generate Code.",
-    "pub_date":  "2026-05-13T15:38:00Z",
+    "version":  "0.6.34",
+    "notes":  "v0.6.34: background queue polling\n\nPre-v0.6.34 the recipient app only loaded /queue/list on view changes or restart — so files sent to the queue could sit unfetched for hours. Now polls every 20 s in the background plus three short follow-up polls (2/8/20 s) after the WS incoming-notify fires, so a friend\u0027s right-click send lands on the recipient\u0027s disk within seconds of upload completion.",
+    "pub_date":  "2026-05-15T15:29:45Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTFkRlFUNUFZS1hKeXFpRXZ0aytlaFlWZVJteGtkVThWTnpaOVFXci8xREZ4dFNVVTFpMmw2YVpLY3NIVGtTK1h1YnlvcWo5NUpVRWVJeVJOV0pqd2dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4NjY2ODcwCWZpbGU6Vk9SUF8wLjYuMzNfeDY0LXNldHVwLmV4ZQpsUGVDaGdrT1Jaem1oZm9namdOZmtzdUczb1pNcGVrK2syZmx1WWhCSlJmZGhlc1VsOGMvNVBHY0ZRRHovdTZsSWgyRTlDVUJzNU44YVNpY3dnR29BQT09Cg==",
-                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.6.33/VORP_0.6.33_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTlnUmgzNjhacy8zRW1Bb2haVXEyK1RPRW9uekZMYktlOWlabEo3RDFGbTgrdXhTTzZOQTlQd3AzTjhzSUZlZmRlWkgxNzRBOFpCVlo0UEpqTDZ6NlE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4ODM5MTc1CWZpbGU6Vk9SUF8wLjYuMzRfeDY0LXNldHVwLmV4ZQp1R0dLSWVZY3pTNER5SStpdW5DTGxBVFl6MlpsZXZ2ZHNjVGd1ZUdsUUxzbnREeC94OEdCZUtuTGFsN1JwTExGNXIwREVLTVN4dXMySkcvS0lJN1ZBdz09Cg==",
+                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.6.34/VORP_0.6.34_x64-setup.exe"
                                          }
                   }
 }
