@@ -1,11 +1,11 @@
 {
-    "version":  "0.6.36",
-    "notes":  "v0.6.36: configurable receive folder\n\nSettings -\u003e Preferences now lets you pick where received files land. Defaults to ~/VORP; choose any folder (e.g. your existing Downloads) to skip the dedicated VORP folder. Reset button reverts to the default.",
-    "pub_date":  "2026-05-15T16:06:57Z",
+    "version":  "0.6.37",
+    "notes":  "v0.6.37: changelog modal + post-update popup, maximize button, polished auth screen\n\nWhat\u0027s new in Settings -\u003e Software shows the last 30 releases pulled from GitHub. A one-shot popup also appears the first time you launch after auto-update so you see what changed. Added a maximize button to the title bar (also added a full minimize/maximize/close bar to the auth screen, which previously had no chrome). Fixed a logout bug that left your email + masked password pre-filled in the form. Auth screen now slides + fades in with staggered field animations, focus ring on inputs, and hover/press feedback on the submit button.",
+    "pub_date":  "2026-05-19T14:59:12Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dThlSHk0eHZLS09aSXhlN25BOUlPOUVEcVBIVm9hLy93d21nY1UwWlZadURURlp2Y3p2TkxtUkMwVi9UdnlLRjVjNmk2eSsreTJlbWw4dmIxeWh6VGdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4ODQxNDA4CWZpbGU6Vk9SUF8wLjYuMzZfeDY0LXNldHVwLmV4ZQpnejdkcTJOMEVOdVpTbzkzeW5KWWZPRnU3VkM2T2dVSGx6SmdFa1ovSUdiZkRpTnNPQnBwaG1jNEJLOVp4ZWllRmRoWkM1Vm1LUUZJR1BkVmUvS1RCUT09Cg==",
-                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.6.36/VORP_0.6.36_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dSs2WXcvNWFQZlRGQ3o3TTAxUElqOWNSQW1tTjMydWh1Yi9rWFkwOFlxSW9NTXFPRmIxSUliTHBNZ2JzMGhncC9Qb1BjZWNFTklWdGtMbFdoOGxXN0F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MTgyOTQxCWZpbGU6Vk9SUF8wLjYuMzdfeDY0LXNldHVwLmV4ZQpYa3plY2JxNzJQcjVwelVBa0w2YXdyUFdUSWFCbzhoSVpoNU8zY25HOFFHMmxUcHAvSDFHeDhoOFI0VUo2M1MrZ1FJRHNaanM2RW45N0M2SU50cHdEZz09Cg==",
+                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.6.37/VORP_0.6.37_x64-setup.exe"
                                          }
                   }
 }
