@@ -1,11 +1,11 @@
 {
-    "version":  "0.6.43",
-    "notes":  "## What\u0027s new\n\n- Added a Transfer log under Settings. It shows what happened to every file you send or receive - which way it went, and exactly why it failed if it did. If a transfer ever acts up, open it, hit Copy, and send it over so we can fix it fast.\n",
-    "pub_date":  "2026-05-20T11:34:14Z",
+    "version":  "0.6.44",
+    "notes":  "## What\u0027s new\n\n- Tidied up the Settings page so the section headings and the rows under them line up properly.\n",
+    "pub_date":  "2026-05-20T11:53:45Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTY3ZEVpTE5HVlRpcWhUcTBXMkhqYnh1cEdVN2dzMzhsa0ZOb1lNTW1xWjZ5S2lwS2w0dU9Fak5UY2JobXdEWGRTSFpxYXZ0bFBwYkltKzBGK2k2UXdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MjU3MDM0CWZpbGU6Vk9SUF8wLjYuNDNfeDY0LXNldHVwLmV4ZQplZ0RKMzRZaTNsU29HbXB2S1Fld1VyMzBRVll2cGpnRmRoNnh2T0E4dWVGSGhIUFYxSU9QRGhBWExMTTc4L0hySVJLNkZmcXI5NURVWVNyaW5RdWVDUT09Cg==",
-                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.6.43/VORP_0.6.43_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTRaVkFMT1RtaFpUZHpQOXNXUGFzT3hHMjdwdDNHSi9ONWhDTHJUR3h5L0JiazJJZkdDVUg2blRXV1dEUktDc1BsWmZya2hkQ2FBSGJxQm02akZZNEE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MjU4MjEyCWZpbGU6Vk9SUF8wLjYuNDRfeDY0LXNldHVwLmV4ZQpnSjFwQnBnaitxMmpJSU9Yc3lLcmxvMFFRSnEzZDZ0TExRL3RzK3hXcldZNDY1RklMeEx5YmtJKzV6UXk1dHZvbFpOZ0x3WUpaK0puaDNmZnB3akdDQT09Cg==",
+                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.6.44/VORP_0.6.44_x64-setup.exe"
                                          }
                   }
 }
