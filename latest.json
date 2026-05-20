@@ -1,11 +1,11 @@
 {
-    "version":  "0.6.40",
-    "notes":  "## What\u0027s new\n\n- Auto-updates now show a small floating \"Updating to vX.Y.Zâ€¦\" pill in the corner with a real download progress bar. No more wondering whether VORP is doing something or just frozen.\n\n## Smoother startup\n\n- If VORP ever felt stuck on the launch screen, it shouldn\u0027t anymore. The app now gives itself safety timeouts so a slow network or stuck server call can\u0027t trap you on the splash forever.\n- After 8 seconds on the launch screen, a small hint appears letting you know if things are taking longer than usual.\n",
-    "pub_date":  "2026-05-19T18:09:26Z",
+    "version":  "0.6.41",
+    "notes":  "## What\u0027s new\n\n- The sign-in screen got a fresh new look.\n- When you log out, your email and password no longer stay filled in.\n- Added a small x in the search box so you can clear it with one click.\n- The Settings page lines up neatly now.\n- Tidied up the buttons in the top corner of the window.\n- Swapped the old code box for a quick Activity shortcut up top.\n",
+    "pub_date":  "2026-05-20T09:07:23Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTNTY0Q3dGNjcTBjeDJOZkE2UVNNcFJ4b2Z3VjVYR3I0YWZNdTFhLzVBeFZjdHFWeUUySjVabmUwbGtRQ3VNcGYwZnRiSE0xNnNwTWRwUXFnSnorZFEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MTk0MzU2CWZpbGU6Vk9SUF8wLjYuNDBfeDY0LXNldHVwLmV4ZQpEUHBZdmRuSVg0c1B6eC8yaUdjMTNMMWdBRTdHd2x6SlY1MHR1Rzg3K0JuUDRRdjFwWDFkOUpMbU9SbzdQdlhQS0dIRW5jSkgxYklnS1VhUE1LTHpDdz09Cg==",
-                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.6.40/VORP_0.6.40_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTNqTUlLckF4S0h3YTF6WGpOcEZLTjJXcVRYSW1xRlFoQ1ZFaERSRTBYYXNqMmlqRVFGTHIzTkx3dXJuV1NSdkRIT0F5Z0UrcEcvRWhBRDRGbUtiRWdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MjQ4MjM1CWZpbGU6Vk9SUF8wLjYuNDFfeDY0LXNldHVwLmV4ZQpYT2Q4cTBOYnFRcVY1ZVFGeHFQcndrQUpkNG8rYTY0U0lxdytOMTJNenlNWTlsMDJneHlPai9PbW1PdjlVTU5ZM3BvOGdlYjJRTWczRi9yeXUzWFJDQT09Cg==",
+                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.6.41/VORP_0.6.41_x64-setup.exe"
                                          }
                   }
 }
