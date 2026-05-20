@@ -1,11 +1,11 @@
 {
-    "version":  "0.6.44",
-    "notes":  "## What\u0027s new\n\n- Tidied up the Settings page so the section headings and the rows under them line up properly.\n",
-    "pub_date":  "2026-05-20T11:53:45Z",
+    "version":  "0.6.45",
+    "notes":  "## What\u0027s new\n\n- Sends are smoother: dropped the \"trying direct connectionâ€¦\" technical chatter â€” it just sends now.\n- Fixed a case where a fast direct transfer would needlessly fall back to the slower path when the other person\u0027s app was in the background.\n- The window now sticks to its normal size or full screen â€” no more awkward in-between sizes.\n",
+    "pub_date":  "2026-05-20T21:53:43Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTRaVkFMT1RtaFpUZHpQOXNXUGFzT3hHMjdwdDNHSi9ONWhDTHJUR3h5L0JiazJJZkdDVUg2blRXV1dEUktDc1BsWmZya2hkQ2FBSGJxQm02akZZNEE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MjU4MjEyCWZpbGU6Vk9SUF8wLjYuNDRfeDY0LXNldHVwLmV4ZQpnSjFwQnBnaitxMmpJSU9Yc3lLcmxvMFFRSnEzZDZ0TExRL3RzK3hXcldZNDY1RklMeEx5YmtJKzV6UXk1dHZvbFpOZ0x3WUpaK0puaDNmZnB3akdDQT09Cg==",
-                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.6.44/VORP_0.6.44_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dThwTGl0NG5CVGQ2Y2pXSzJ3REE1RVc0VTJSa0ZKRlVYS3lqMWVJeVhGL2c4WnpiTDhsVW41WktjcldNNHVITE1XUWlMSVpRRHRYRVVISU9QZzcvQ1FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5Mjk0MjEzCWZpbGU6Vk9SUF8wLjYuNDVfeDY0LXNldHVwLmV4ZQpScS80eFk3eEU1UXZhNi84a2pzaWxlVnQrWkh0TzJNRzUrUXFGTStFRkhmZjlGSGhrWmxlU1d3VUt2VEwzZWl0eCt2ZE5qamU5TjVidHRtbVYvclREUT09Cg==",
+                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.6.45/VORP_0.6.45_x64-setup.exe"
                                          }
                   }
 }
