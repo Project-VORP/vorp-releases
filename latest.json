@@ -1,11 +1,11 @@
 {
-    "version":  "0.6.45",
-    "notes":  "## What\u0027s new\n\n- Sends are smoother: dropped the \"trying direct connectionâ€¦\" technical chatter â€” it just sends now.\n- Fixed a case where a fast direct transfer would needlessly fall back to the slower path when the other person\u0027s app was in the background.\n- The window now sticks to its normal size or full screen â€” no more awkward in-between sizes.\n",
-    "pub_date":  "2026-05-20T21:53:43Z",
+    "version":  "0.6.46",
+    "notes":  "## What\u0027s new\n\n- Right-click â†’ Send to Friend now shows a small popup in the corner so you can see the file going out, with a \"Sent\" tick when it lands. It tidies itself away a few seconds later.\n",
+    "pub_date":  "2026-05-20T22:04:00Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dThwTGl0NG5CVGQ2Y2pXSzJ3REE1RVc0VTJSa0ZKRlVYS3lqMWVJeVhGL2c4WnpiTDhsVW41WktjcldNNHVITE1XUWlMSVpRRHRYRVVISU9QZzcvQ1FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5Mjk0MjEzCWZpbGU6Vk9SUF8wLjYuNDVfeDY0LXNldHVwLmV4ZQpScS80eFk3eEU1UXZhNi84a2pzaWxlVnQrWkh0TzJNRzUrUXFGTStFRkhmZjlGSGhrWmxlU1d3VUt2VEwzZWl0eCt2ZE5qamU5TjVidHRtbVYvclREUT09Cg==",
-                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.6.45/VORP_0.6.45_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dS9rWnl4VWdVcDR2QU1BZEZqSDY0Ym04aFo5dXlydXA5SUEyR0pmUGVrcmg3R2R2K21IMlVBOFlWSUU3UFV4clZBL0h5cFY1cCtxS1hNdmtHMU9nb0FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5Mjk0ODMyCWZpbGU6Vk9SUF8wLjYuNDZfeDY0LXNldHVwLmV4ZQpMT0o3ZTBkVVhZbUViR1BiV2pLMWFidzRPOG9GOVZQY0FSQytEaGtTaUVFaWRBOW8wK29xc015STFhTWhBVlpOTEhmRkVIOUlCZHc0MkVDTTZHMUVCdz09Cg==",
+                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.6.46/VORP_0.6.46_x64-setup.exe"
                                          }
                   }
 }
