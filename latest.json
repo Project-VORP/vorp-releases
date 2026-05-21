@@ -1,11 +1,11 @@
 {
-    "version":  "0.7.1",
-    "notes":  "## What\u0027s new\n\n- Send to Phone is now right on your home screen (sending to your phone is coming soon!).\n- VORP is lighter on your network and battery — it checks for incoming files less aggressively in the background and leans on its live connection instead.\n- Fixed a glitch where a file that actually arrived fine could still spam error messages in the background.",
-    "pub_date":  "2026-05-21T13:34:46Z",
+    "version":  "0.7.2",
+    "notes":  "## What\u0027s new\n\n- Fixed a problem where your VORP folder could suddenly become unopenable with a \"cloud file provider\" error left over from an older version. VORP now quietly cleans that up on startup, so the folder just works.",
+    "pub_date":  "2026-05-21T17:28:24Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTFHTDY5WUZHTm5INzZMRDZOaHl0YVRpZEJyenZ6Z2tLQWQ1SXArWUc3YU9Pd3M1ZTBEcmFsNWQ0S3BQQVU2MTFvVkpPc0FvYXRzeE1wL0F5ZnR0M1FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MzUwNjc4CWZpbGU6Vk9SUF8wLjcuMV94NjQtc2V0dXAuZXhlCkZoQ2tvbis0bDFxQ2E2MHV4S3Z5Y3lHQ2NmV0x0azN2ZE1zbC9ONEh1ck85Z0plNWZkbXlTaTdaeVpzT1JqcEhVcWc5NTlsbXlkNHp3dm9rdWhnMEFRPT0K",
-                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.7.1/VORP_0.7.1_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTcyeFJHT0pPZ21ZU2ptRGsvQWl0bWJzem1XY2FITGo3ODZrclNoZEMvelhJY0dsT25MQ0grUXpZV1ZPUitsSnFLaE9abVlyeEJWek1veFIxVldZd3dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MzY0Njk0CWZpbGU6Vk9SUF8wLjcuMl94NjQtc2V0dXAuZXhlCjFaOGU0RXgwQnVZdXI3NWRsM0VaZ0daYk5sVEFQdVlCTTdLNzc3RGVJRXVBRDlHeWk0WHdWUEl0KzlIdUVJei9NNUdHRGg1OGh3cE5JeTRWaEZMc0NBPT0K",
+                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.7.2/VORP_0.7.2_x64-setup.exe"
                                          }
                   }
 }
