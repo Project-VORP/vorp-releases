@@ -1,11 +1,11 @@
 {
-    "version":  "0.6.47",
-    "notes":  "## What\u0027s new\n\n- Fixed the sending circle around a contact\u0027s picture getting stuck at 100% after a file finished sending. It now clears once the send is done.\n",
-    "pub_date":  "2026-05-21T09:12:02Z",
+    "version":  "0.7.0",
+    "notes":  "## What\u0027s new\n\n- Send to someone who\u0027s offline? Your file now waits safely on your own computer and goes straight to them the moment they come back online — it never sits on a server in between.\n- New \"Waiting to send\" list shows anything lined up for friends who are offline. Changed your mind? Cancel it with one tap.\n- Added a \"Send to Phone\" button — sending to your phone is coming soon!\n- Made updates more reliable so VORP can keep itself up to date without hiccups.",
+    "pub_date":  "2026-05-21T11:52:04Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTNNRE9JS3czQkw1ZzJIOG11bGNDNGljUmc2cDN4ZzNpVnVxNW9jbm5rUHFuZmsxUitqSXBnNURpSFNRZjJNME53RmIyTVQyRXljZTh4Qk9ieXNKeGcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MzI5Mzg0CWZpbGU6Vk9SUF8wLjYuNDdfeDY0LXNldHVwLmV4ZQpGK256TWtzaVdzRm50OHpxVG0raGRodS91UmtSVmt2dzVPSHpCRG5QYkpzVkhZWHdXOHNBWnM3Y0RFNWYyWDFYNjlyWUJ3Q1BybW55dUY4YnJvNENDdz09Cg==",
-                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.6.47/VORP_0.6.47_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTBBck94Z2I0K0xiL2c2VHAwdkFTMDFIdzVCK0VqL3Z4RURRNUMyL1Z6SHMyTXoxMkxEdTRENnFoWHhncGcwZ0N4eWdhckMrTWMwM2lXRFltN1luZGdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MzQzNTA3CWZpbGU6Vk9SUF8wLjcuMF94NjQtc2V0dXAuZXhlCm1nTkozOFYxWVdlR2doLzdQMEhjazlkdFpYYUxDV3R3b1cwM3kzVGs1Vno5Y1gvbXB5UDF4RkZBTEZ2bzI3OFJtY2FiZjBNcm9rdkRRcFRVTEczQ0N3PT0K",
+                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.7.0/VORP_0.7.0_x64-setup.exe"
                                          }
                   }
 }
