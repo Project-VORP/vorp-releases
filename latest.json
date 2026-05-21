@@ -1,11 +1,11 @@
 {
-    "version":  "0.7.0",
-    "notes":  "## What\u0027s new\n\n- Send to someone who\u0027s offline? Your file now waits safely on your own computer and goes straight to them the moment they come back online — it never sits on a server in between.\n- New \"Waiting to send\" list shows anything lined up for friends who are offline. Changed your mind? Cancel it with one tap.\n- Added a \"Send to Phone\" button — sending to your phone is coming soon!\n- Made updates more reliable so VORP can keep itself up to date without hiccups.",
-    "pub_date":  "2026-05-21T11:52:04Z",
+    "version":  "0.7.1",
+    "notes":  "## What\u0027s new\n\n- Send to Phone is now right on your home screen (sending to your phone is coming soon!).\n- VORP is lighter on your network and battery — it checks for incoming files less aggressively in the background and leans on its live connection instead.\n- Fixed a glitch where a file that actually arrived fine could still spam error messages in the background.",
+    "pub_date":  "2026-05-21T13:34:46Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTBBck94Z2I0K0xiL2c2VHAwdkFTMDFIdzVCK0VqL3Z4RURRNUMyL1Z6SHMyTXoxMkxEdTRENnFoWHhncGcwZ0N4eWdhckMrTWMwM2lXRFltN1luZGdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MzQzNTA3CWZpbGU6Vk9SUF8wLjcuMF94NjQtc2V0dXAuZXhlCm1nTkozOFYxWVdlR2doLzdQMEhjazlkdFpYYUxDV3R3b1cwM3kzVGs1Vno5Y1gvbXB5UDF4RkZBTEZ2bzI3OFJtY2FiZjBNcm9rdkRRcFRVTEczQ0N3PT0K",
-                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.7.0/VORP_0.7.0_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTFHTDY5WUZHTm5INzZMRDZOaHl0YVRpZEJyenZ6Z2tLQWQ1SXArWUc3YU9Pd3M1ZTBEcmFsNWQ0S3BQQVU2MTFvVkpPc0FvYXRzeE1wL0F5ZnR0M1FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MzUwNjc4CWZpbGU6Vk9SUF8wLjcuMV94NjQtc2V0dXAuZXhlCkZoQ2tvbis0bDFxQ2E2MHV4S3Z5Y3lHQ2NmV0x0azN2ZE1zbC9ONEh1ck85Z0plNWZkbXlTaTdaeVpzT1JqcEhVcWc5NTlsbXlkNHp3dm9rdWhnMEFRPT0K",
+                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.7.1/VORP_0.7.1_x64-setup.exe"
                                          }
                   }
 }
