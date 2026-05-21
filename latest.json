@@ -1,11 +1,11 @@
 {
-    "version":  "0.6.46",
-    "notes":  "## What\u0027s new\n\n- Right-click â†’ Send to Friend now shows a small popup in the corner so you can see the file going out, with a \"Sent\" tick when it lands. It tidies itself away a few seconds later.\n",
-    "pub_date":  "2026-05-20T22:04:00Z",
+    "version":  "0.6.47",
+    "notes":  "## What\u0027s new\n\n- Fixed the sending circle around a contact\u0027s picture getting stuck at 100% after a file finished sending. It now clears once the send is done.\n",
+    "pub_date":  "2026-05-21T09:12:02Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dS9rWnl4VWdVcDR2QU1BZEZqSDY0Ym04aFo5dXlydXA5SUEyR0pmUGVrcmg3R2R2K21IMlVBOFlWSUU3UFV4clZBL0h5cFY1cCtxS1hNdmtHMU9nb0FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5Mjk0ODMyCWZpbGU6Vk9SUF8wLjYuNDZfeDY0LXNldHVwLmV4ZQpMT0o3ZTBkVVhZbUViR1BiV2pLMWFidzRPOG9GOVZQY0FSQytEaGtTaUVFaWRBOW8wK29xc015STFhTWhBVlpOTEhmRkVIOUlCZHc0MkVDTTZHMUVCdz09Cg==",
-                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.6.46/VORP_0.6.46_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTNNRE9JS3czQkw1ZzJIOG11bGNDNGljUmc2cDN4ZzNpVnVxNW9jbm5rUHFuZmsxUitqSXBnNURpSFNRZjJNME53RmIyTVQyRXljZTh4Qk9ieXNKeGcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MzI5Mzg0CWZpbGU6Vk9SUF8wLjYuNDdfeDY0LXNldHVwLmV4ZQpGK256TWtzaVdzRm50OHpxVG0raGRodS91UmtSVmt2dzVPSHpCRG5QYkpzVkhZWHdXOHNBWnM3Y0RFNWYyWDFYNjlyWUJ3Q1BybW55dUY4YnJvNENDdz09Cg==",
+                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.6.47/VORP_0.6.47_x64-setup.exe"
                                          }
                   }
 }
