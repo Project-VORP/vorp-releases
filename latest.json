@@ -1,11 +1,11 @@
 {
-    "version":  "0.7.13",
-    "notes":  "## What\u0027s new\n\n- Added Developer mode. Approved accounts unlock the transfer log and advanced tools under Settings.\n- Not a developer yet? Settings now has a \"Request developer access\" link with a quick form.",
-    "pub_date":  "2026-05-22T18:45:55Z",
+    "version":  "0.7.14",
+    "notes":  "## What\u0027s new\n\n- The \"Waiting\" list now shows the actual person you sent to instead of just \"friend\".\n- You can now clear your whole transfer history, or remove individual entries.",
+    "pub_date":  "2026-05-22T19:01:13Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dXd2TStvRTBKU3UveXIxQVl0TzRnMnJXM3VxUFJDTUNRN3RlYStmWDkybGlRT1Ryai9RdytWcFlsMHJrR1k4K1lFa3hKM1VaU2pPYndpd0h3TmVWbGdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NDU1NzM4CWZpbGU6Vk9SUF8wLjcuMTNfeDY0LXNldHVwLmV4ZQp1cE9yRllsYWVGcE81WGEzK3M2cWkzOTJLWHVSRE9mRFRkYmtkUnU3VmVveVZzbDQzMUxJR0JkZ0xVQkt4cW1nV21zRXY3RC9VUUxwd1BOWlFkZExDZz09Cg==",
-                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.7.13/VORP_0.7.13_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTVkY0x4aWFHczY2OVdQVDg2WVIyenNxdjVZa2Rjd3V0RG85ei9Wd2Y1SzhLc1RWWGNFcFoxdzV5RXlBVE10bHgveHlkS05WTmZhWWdBODNRcGtTb3cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NDU2NjYxCWZpbGU6Vk9SUF8wLjcuMTRfeDY0LXNldHVwLmV4ZQpwalRPNzh3VU13SzRhQ3NFczBrT1hWdzIzNUt1MVBpeVZvNkRjSVdub0ZBQi9nK0pXNkhONmNiNW1XY1I5bG04Q1JmdVlLelpYSFBGT2tXUThQRENEZz09Cg==",
+                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.7.14/VORP_0.7.14_x64-setup.exe"
                                          }
                   }
 }
