@@ -1,11 +1,11 @@
 {
-    "version":  "0.7.4",
-    "notes":  "## What\u0027s new\n\n- Added \"Send to Phone\" right at the top of your connections list — sending files straight to your phone is coming soon!",
-    "pub_date":  "2026-05-22T13:02:08Z",
+    "version":  "0.7.5",
+    "notes":  "## What\u0027s new\n\n- \"My Phone\" now opens its own panel (with Send files / Send folder) — sending to your phone is coming soon.\n- Your connections list no longer flickers or briefly vanishes.",
+    "pub_date":  "2026-05-22T14:25:36Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTZNWUFrNFVtbE9mQVFUdWU3Q0tzU1dsbDZmSlVURnlvS001eXhJOVRudDNnWTZURk1JSHJmWlVUSURmU0xTNHZ0MUJSMG9GWFFrSzZhZ0lrY0VPZWdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NDM1MTE4CWZpbGU6Vk9SUF8wLjcuNF94NjQtc2V0dXAuZXhlCnp6ZERCVzNxTEFGVWlKWnUzL00xTTIrRE5kY292R2NDLy9qajR2ZnpGZXFOUzQxbHRBRTkyNVVoQ2hXZUFySHpaYitSUVpQMGZJM0J2MlF3cFZxV0NBPT0K",
-                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.7.4/VORP_0.7.4_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dThnUjNwYTg2VENtUFR4RGUrNmk4VnMrQVorWFc2ZEs2cm9DTFgzek9NanNyZHpHbDZzN3VQTkUyektIeXZPckxVOTNJVlpZU0FKaW5JbEVTMllUSVE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NDQwMTI3CWZpbGU6Vk9SUF8wLjcuNV94NjQtc2V0dXAuZXhlCjgzd1pXV2h3NW9KYkJiYjYvUStnalZlc05scW4vN1A0MXZtcXpwUThhYWRwYmRoeXp6ZWtLREdKaFgrSkd6S2dzOXFydk8vUnU0ZWJnaHBqSDFCd0RRPT0K",
+                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.7.5/VORP_0.7.5_x64-setup.exe"
                                          }
                   }
 }
