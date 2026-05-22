@@ -1,11 +1,11 @@
 {
-    "version":  "0.7.8",
-    "notes":  "## What\u0027s new\n\n- Made the logo on the loading screen smaller so it\u0027s not overpowering.",
-    "pub_date":  "2026-05-22T16:22:10Z",
+    "version":  "0.7.9",
+    "notes":  "## What\u0027s new\n\n- Cleaned up Settings and Connections by removing the divider lines for a smoother, softer look.\n- The update popup now matches the app theme instead of a plain black box.\n- A contact\u0027s panel now clearly shows whether they\u0027re Online or Offline.",
+    "pub_date":  "2026-05-22T16:44:09Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dXpELzk4em1EMkRsODYzWXhNVFNjY0loTElKditJRGxhSVl5a1B5ME93N0dXZ01PTGJ6dHk2Z2VxT21tNkR2OE5kR0ZJVHBiMEx5VW83Zmw1c3ZMaVFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NDQ3MTIyCWZpbGU6Vk9SUF8wLjcuOF94NjQtc2V0dXAuZXhlCmdLWVl2dit5czE0aUluVlNrRG9OTi9ONzNoVmJ3Rnd3ek5nOVI2YVdkWVYvOWM2dnBxTWdqWC9FenBFNENQSFdOSlp0OFBKM09oaVAzaGxhSFV5eENnPT0K",
-                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.7.8/VORP_0.7.8_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTBwTmxrZFBySU5ZTUltWC9jaVJLNkFUSlYzTlVVZW8zQlZyMFVCcnRrZzZlUTl4S1pCTkRLcHN3M2R0SCtTUTB3dnMvejlzRFlRS0RCODFYbFBYcmdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NDQ4NDM2CWZpbGU6Vk9SUF8wLjcuOV94NjQtc2V0dXAuZXhlClRsTEZ5MFNmUVIwRHdXSkJRRG90bnk3VmF2bnhYYnNxcVhJQkQ3YTlsRjQ1dWZDaFdoT1hxVVNqdVBadzdDMXpnNmVOSGdLREpXdzNHOXhmdkhvVEJRPT0K",
+                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.7.9/VORP_0.7.9_x64-setup.exe"
                                          }
                   }
 }
