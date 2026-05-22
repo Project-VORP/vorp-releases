@@ -1,11 +1,11 @@
 {
-    "version":  "0.7.3",
-    "notes":  "## What\u0027s new\n\n- Your VORP folder is back in the File Explorer sidebar for one-click access — and it\u0027s now just a normal folder, so no more \"cloud\" hiccups or errors opening it.",
-    "pub_date":  "2026-05-22T12:52:41Z",
+    "version":  "0.7.4",
+    "notes":  "## What\u0027s new\n\n- Added \"Send to Phone\" right at the top of your connections list — sending files straight to your phone is coming soon!",
+    "pub_date":  "2026-05-22T13:02:08Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTJQZ2FzenQxcHZsekNtWm5kR0lhbWpLaEhxTVdBby9vODJ4RERLRHdsN1dVMVlTenFxN0ZjZUJkbEw3NzdDWEVXbno3TTF4WjNHK1ZyT05ETHMwSFFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NDM0NTQ3CWZpbGU6Vk9SUF8wLjcuM194NjQtc2V0dXAuZXhlCmpTaDdkSkMydHdqUlo0cUpJUWVWb2RMUWh0V09MN2dudnhNT3AxU1R3OWVkQVMzUUxQMSsyUVRKT1hkSlBNYXg5N0llS1hTLzBEVUdBcnArNXJPeERBPT0K",
-                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.7.3/VORP_0.7.3_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTZNWUFrNFVtbE9mQVFUdWU3Q0tzU1dsbDZmSlVURnlvS001eXhJOVRudDNnWTZURk1JSHJmWlVUSURmU0xTNHZ0MUJSMG9GWFFrSzZhZ0lrY0VPZWdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NDM1MTE4CWZpbGU6Vk9SUF8wLjcuNF94NjQtc2V0dXAuZXhlCnp6ZERCVzNxTEFGVWlKWnUzL00xTTIrRE5kY292R2NDLy9qajR2ZnpGZXFOUzQxbHRBRTkyNVVoQ2hXZUFySHpaYitSUVpQMGZJM0J2MlF3cFZxV0NBPT0K",
+                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.7.4/VORP_0.7.4_x64-setup.exe"
                                          }
                   }
 }
