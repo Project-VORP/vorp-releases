@@ -1,11 +1,11 @@
 {
-    "version":  "0.7.12",
-    "notes":  "## What\u0027s new\n\n- Fixed update checking so VORP reliably sees the newest version instead of getting stuck on an older one.",
-    "pub_date":  "2026-05-22T18:33:37Z",
+    "version":  "0.7.13",
+    "notes":  "## What\u0027s new\n\n- Added Developer mode. Approved accounts unlock the transfer log and advanced tools under Settings.\n- Not a developer yet? Settings now has a \"Request developer access\" link with a quick form.",
+    "pub_date":  "2026-05-22T18:45:55Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dStudElySzNQblkrREkvWklDaDVuRS9jUU9JNXUxckxUNjdYUkwvaGtsSUlXNEV5K0VaZW9XUThhbEsvT2xWVEFkaFBRb28rMTQ4RnFuNzdUUkZ6SHc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NDU1MDA4CWZpbGU6Vk9SUF8wLjcuMTJfeDY0LXNldHVwLmV4ZQovcHFDc1p3QUIyZFFPVzVHakFLMWJ1RUxXZmtnZHhyaGVCK2pjOWVYdXVNazZaQmZid0lZcWtXK3lEdC9hUk15V2dKTVhzcDdxdjNEbS93Z0l6U3pDQT09Cg==",
-                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.7.12/VORP_0.7.12_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dXd2TStvRTBKU3UveXIxQVl0TzRnMnJXM3VxUFJDTUNRN3RlYStmWDkybGlRT1Ryai9RdytWcFlsMHJrR1k4K1lFa3hKM1VaU2pPYndpd0h3TmVWbGdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NDU1NzM4CWZpbGU6Vk9SUF8wLjcuMTNfeDY0LXNldHVwLmV4ZQp1cE9yRllsYWVGcE81WGEzK3M2cWkzOTJLWHVSRE9mRFRkYmtkUnU3VmVveVZzbDQzMUxJR0JkZ0xVQkt4cW1nV21zRXY3RC9VUUxwd1BOWlFkZExDZz09Cg==",
+                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.7.13/VORP_0.7.13_x64-setup.exe"
                                          }
                   }
 }
