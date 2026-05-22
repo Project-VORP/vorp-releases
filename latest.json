@@ -1,11 +1,11 @@
 {
-    "version":  "0.7.14",
-    "notes":  "## What\u0027s new\n\n- The \"Waiting\" list now shows the actual person you sent to instead of just \"friend\".\n- You can now clear your whole transfer history, or remove individual entries.",
-    "pub_date":  "2026-05-22T19:01:13Z",
+    "version":  "0.7.15",
+    "notes":  "## What\u0027s new\n\n- VORP is now invite-only. New sign-ups and sign-ins need approval, with a clean \"request access\" flow.\n- Approved accounts sign in exactly as before.",
+    "pub_date":  "2026-05-22T19:13:39Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTVkY0x4aWFHczY2OVdQVDg2WVIyenNxdjVZa2Rjd3V0RG85ei9Wd2Y1SzhLc1RWWGNFcFoxdzV5RXlBVE10bHgveHlkS05WTmZhWWdBODNRcGtTb3cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NDU2NjYxCWZpbGU6Vk9SUF8wLjcuMTRfeDY0LXNldHVwLmV4ZQpwalRPNzh3VU13SzRhQ3NFczBrT1hWdzIzNUt1MVBpeVZvNkRjSVdub0ZBQi9nK0pXNkhONmNiNW1XY1I5bG04Q1JmdVlLelpYSFBGT2tXUThQRENEZz09Cg==",
-                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.7.14/VORP_0.7.14_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dXliZmoxRTcwbnlqaEtnYTYreUtTT2tySHFWYzdpU2JYR2F4d1hoUkVsenNnYTdwemthWDd1bE1RRnVNMkJiZVhGV2trYmozdFhEZzQrQ1U4TWdrUHdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NDU3NDA5CWZpbGU6Vk9SUF8wLjcuMTVfeDY0LXNldHVwLmV4ZQoyN2gwNE5MOUhuSXgyaFRsYlhGS29rb3RWTlBJcWtpWk5VcUpsaG5SUzYyZ2t4bDMrZTRGbnF3UWhWeGQzbG5SVFhNalBMWDRJSTVlbXZRUzFOekVBdz09Cg==",
+                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.7.15/VORP_0.7.15_x64-setup.exe"
                                          }
                   }
 }
