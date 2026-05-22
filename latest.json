@@ -1,11 +1,11 @@
 {
-    "version":  "0.7.2",
-    "notes":  "## What\u0027s new\n\n- Fixed a problem where your VORP folder could suddenly become unopenable with a \"cloud file provider\" error left over from an older version. VORP now quietly cleans that up on startup, so the folder just works.",
-    "pub_date":  "2026-05-21T17:28:24Z",
+    "version":  "0.7.3",
+    "notes":  "## What\u0027s new\n\n- Your VORP folder is back in the File Explorer sidebar for one-click access — and it\u0027s now just a normal folder, so no more \"cloud\" hiccups or errors opening it.",
+    "pub_date":  "2026-05-22T12:52:41Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTcyeFJHT0pPZ21ZU2ptRGsvQWl0bWJzem1XY2FITGo3ODZrclNoZEMvelhJY0dsT25MQ0grUXpZV1ZPUitsSnFLaE9abVlyeEJWek1veFIxVldZd3dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MzY0Njk0CWZpbGU6Vk9SUF8wLjcuMl94NjQtc2V0dXAuZXhlCjFaOGU0RXgwQnVZdXI3NWRsM0VaZ0daYk5sVEFQdVlCTTdLNzc3RGVJRXVBRDlHeWk0WHdWUEl0KzlIdUVJei9NNUdHRGg1OGh3cE5JeTRWaEZMc0NBPT0K",
-                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.7.2/VORP_0.7.2_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTJQZ2FzenQxcHZsekNtWm5kR0lhbWpLaEhxTVdBby9vODJ4RERLRHdsN1dVMVlTenFxN0ZjZUJkbEw3NzdDWEVXbno3TTF4WjNHK1ZyT05ETHMwSFFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NDM0NTQ3CWZpbGU6Vk9SUF8wLjcuM194NjQtc2V0dXAuZXhlCmpTaDdkSkMydHdqUlo0cUpJUWVWb2RMUWh0V09MN2dudnhNT3AxU1R3OWVkQVMzUUxQMSsyUVRKT1hkSlBNYXg5N0llS1hTLzBEVUdBcnArNXJPeERBPT0K",
+                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.7.3/VORP_0.7.3_x64-setup.exe"
                                          }
                   }
 }
