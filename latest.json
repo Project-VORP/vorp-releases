@@ -1,11 +1,11 @@
 {
-    "version":  "0.7.6",
-    "notes":  "## What\u0027s new\n\n- The \"My Phone\" screen now has a proper look — a phone icon in a soft circle with an animated ring.\n- Cleaned up the loading screen with the VORP logo.\n- Disabled the right-click \"print / save as / inspect\" menu so the app feels like an app, not a web page.\n- Stopped the accidental swipe/drag that pulled the whole window around.",
-    "pub_date":  "2026-05-22T15:13:19Z",
+    "version":  "0.7.7",
+    "notes":  "## What\u0027s new\n\n- The loading screen now shows the VORP logo cleanly from the very first frame (no more text flashing first).\n- Tidied up the \"My Phone\" screen — the ring around it now sits still, matching your other contacts.",
+    "pub_date":  "2026-05-22T15:22:50Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTFhcWVBdHJERXFSTGR5QllxbU5sbDF0VTVpclhvN2V0T25EaUtZaVp6Vkx4TmJVOTNac0kzZHBCSmNSamlJVktjRmVsSFE2WFpRSFZMU0owYXptRVFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NDQyOTkxCWZpbGU6Vk9SUF8wLjcuNl94NjQtc2V0dXAuZXhlCkdiTHNaaExCVTloNnJ2WmpmNjk3aTNDaThCVGtRYi9SSmVmMHpUZ1NXSlR1OGJ5a2NKaWpUdE5LeER3SEs3TklBWUJXZVdnRjhnMjhoTkpwQ3BMRURBPT0K",
-                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.7.6/VORP_0.7.6_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTRsS3BtWURLTmpmOE9hWjZtSno3T2tmLzVNYk1kdjQvTVlneTFjd0E2cU9ZcFdzMFpNVlVvK1lUVHk1SEJtZW5vck9ETllHR2RLTng0MldERitVbUFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NDQzNTYzCWZpbGU6Vk9SUF8wLjcuN194NjQtc2V0dXAuZXhlClpTVlNZVmNwazY5SHdTOUFoZHd2OFp6akRzY01UTkVTczJ5VDNVMWtydDNkZ3F2eGFyUzVkdk5CaWZXaDNXZHVMeW15ZGt0aFB2MmJTRG5pTTFqOUFBPT0K",
+                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.7.7/VORP_0.7.7_x64-setup.exe"
                                          }
                   }
 }
