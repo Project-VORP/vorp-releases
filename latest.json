@@ -1,11 +1,11 @@
 {
-    "version":  "0.7.11",
-    "notes":  "## What\u0027s new\n\n- Activity now has a \"Waiting\" list showing files that haven\u0027t reached the other person yet, whether they\u0027re offline or just haven\u0027t picked them up.\n- You can Unsend any waiting file to pull it back before it\u0027s received.\n- Clearer wording when you send to someone who\u0027s offline.",
-    "pub_date":  "2026-05-22T17:57:31Z",
+    "version":  "0.7.12",
+    "notes":  "## What\u0027s new\n\n- Fixed update checking so VORP reliably sees the newest version instead of getting stuck on an older one.",
+    "pub_date":  "2026-05-22T18:33:37Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dXhBZWllaUZhdVdxcE5rKzhEVnphTTQrakk5YmIzeWhpSFQvQnRvd1Y2bkxpMFZuaDBheS9vQll5bnNTYkhMeXF2Rk0wRXNTUTAzcE81UzB6MWNkdWd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NDUyODM2CWZpbGU6Vk9SUF8wLjcuMTFfeDY0LXNldHVwLmV4ZQplOElKQzVIRWJ4MnI0TzIrNUpabkpPQlZZOWJOaTh2TWpxYjIyWDZQTDdiS3Fsa1N6anJzS2N0NWhrT2pyM1V3STFGUVFoUWNBUWpjeTJLSEowZERDQT09Cg==",
-                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.7.11/VORP_0.7.11_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dStudElySzNQblkrREkvWklDaDVuRS9jUU9JNXUxckxUNjdYUkwvaGtsSUlXNEV5K0VaZW9XUThhbEsvT2xWVEFkaFBRb28rMTQ4RnFuNzdUUkZ6SHc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NDU1MDA4CWZpbGU6Vk9SUF8wLjcuMTJfeDY0LXNldHVwLmV4ZQovcHFDc1p3QUIyZFFPVzVHakFLMWJ1RUxXZmtnZHhyaGVCK2pjOWVYdXVNazZaQmZid0lZcWtXK3lEdC9hUk15V2dKTVhzcDdxdjNEbS93Z0l6U3pDQT09Cg==",
+                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.7.12/VORP_0.7.12_x64-setup.exe"
                                          }
                   }
 }
