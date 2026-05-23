@@ -1,11 +1,11 @@
 {
-    "version":  "0.7.17",
-    "notes":  "- Send folder no longer zips — files arrive in a matching folder, ready to use\n- Small fixes and polish",
-    "pub_date":  "2026-05-23T08:45:15Z",
+    "version":  "0.7.18",
+    "notes":  "- Small fixes and polish under the hood",
+    "pub_date":  "2026-05-23T09:08:11Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dXdNcDlBYmZkanBpTVNyQWlQVkpDY3FPWm1Wa21xOTIzUUFieWpnR2xZNk5FcXdnRWphdUJxSHB1WHhLUFYrNmZSanVmVmdtNERXS2hNSE9jSm5iVlE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NTA2MTA3CWZpbGU6Vk9SUF8wLjcuMTdfeDY0LXNldHVwLmV4ZQo4REFJUzkrYUwzc1J0dTVHc3dtRStlVWVwT1RTUWw1cElpMFMyeFZieFlLWDlTUU55M24vQVUwREhnakt0Qm53VXN1eGVJaEkwOWtUV1l1YUxwaVhBdz09Cg==",
-                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.7.17/VORP_0.7.17_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTlFTnpWRXUxYkwzZkc0azJCZGlELzNLSTdNZHZyU3FtU1NQVGNUeVV4ZXVsZTI0MUZQZ1FLRE9PK005SUt2UGVzZGxrZ0llOGFMRUx4OVJGZXFBWVFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NTA3NDg0CWZpbGU6Vk9SUF8wLjcuMThfeDY0LXNldHVwLmV4ZQo1N080OEhiaE8yNUJXTWNpWTRNU1FzVWZJdnkwRm5tcVJidkVyZ2lMZCt4RXVXcnM1dkZxbWZ3WHQ2NExUMmZJMnZQQ2lLYXN3RU5qWTJlUnZEdjdEZz09Cg==",
+                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.7.18/VORP_0.7.18_x64-setup.exe"
                                          }
                   }
 }
