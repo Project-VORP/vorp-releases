@@ -1,11 +1,11 @@
 {
-    "version":  "0.7.22",
-    "notes":  "- Right-click \"Send to Friend\" now opens the main window so you can actually see the file going out\n- The window closes itself when the send finishes, and stays open if anything fails so you can see what went wrong\n- Fixed the \"Sending to friend...\" text getting stuck on a failed send\n- Clearer error messages when something goes wrong (instead of \"Internal server error\")\n- The close button red now reaches the corner cleanly\n- Files are no longer uploaded to our servers based on predictions, only the ones you actually send",
-    "pub_date":  "2026-05-23T14:36:47Z",
+    "version":  "0.7.23",
+    "notes":  "- Files larger than 8 MB now actually send (a server-side bug was breaking every multipart upload)\n- The predictor is back on, so files you are likely to send next get pre-uploaded for an instant send\n- When a send fails you now see the real reason instead of a generic message",
+    "pub_date":  "2026-05-23T14:57:36Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dStYOVJNYmdMcDFEWS8xSWhNZmg4VmFPbjJMa1BtNUtBSDQ3Q1RneWJWTVFqSXBxYXg4N1N5aFVPUklzV05IWWVnUkxDNHNCMlVGdFNHWndQZGtOalFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NTI3MTkwCWZpbGU6Vk9SUF8wLjcuMjJfeDY0LXNldHVwLmV4ZQpCRk9JWXNvdkpqUTZKSVNZQ2xIS01xd2NCTnNuOHZYQS9ublhZTEVlcGVmU1VKcUhGOWxYQzlOcDltYjdSWTdvUjhnSEdzNUFJM0hJWGdXV2FWQS9BUT09Cg==",
-                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.7.22/VORP_0.7.22_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dXkvWHlEUlYvTFJHUVlnNzVQaFh5SkNrNDErUkZiUnI1bVpnSHVYR3R3bFoxc051V1pBM1JnY3VxMEF3b1VyaEdVY1U0Zmhkc2gvRmtrODk1bGxDeXdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NTI4NDQ1CWZpbGU6Vk9SUF8wLjcuMjNfeDY0LXNldHVwLmV4ZQp3WXAzZDl4SnAraFdRQlRhYlJPZE9lUXF4WHRla3V4Njk3K2NSQUlYS0w4YUZLd2o2NWd4SHdzNFRNRWk1ZGJNVGhQN0NSLzkzQjUydVYxaFZDdWtEdz09Cg==",
+                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.7.23/VORP_0.7.23_x64-setup.exe"
                                          }
                   }
 }
