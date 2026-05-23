@@ -1,11 +1,11 @@
 {
-    "version":  "0.7.15",
-    "notes":  "## What\u0027s new\n\n- VORP is now invite-only. New sign-ups and sign-ins need approval, with a clean \"request access\" flow.\n- Approved accounts sign in exactly as before.",
-    "pub_date":  "2026-05-22T19:13:39Z",
+    "version":  "0.7.16",
+    "notes":  "- Sign-in is open to everyone again (developer tools stay invite-only)\n- Small fixes and polish",
+    "pub_date":  "2026-05-23T08:33:23Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dXliZmoxRTcwbnlqaEtnYTYreUtTT2tySHFWYzdpU2JYR2F4d1hoUkVsenNnYTdwemthWDd1bE1RRnVNMkJiZVhGV2trYmozdFhEZzQrQ1U4TWdrUHdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NDU3NDA5CWZpbGU6Vk9SUF8wLjcuMTVfeDY0LXNldHVwLmV4ZQoyN2gwNE5MOUhuSXgyaFRsYlhGS29rb3RWTlBJcWtpWk5VcUpsaG5SUzYyZ2t4bDMrZTRGbnF3UWhWeGQzbG5SVFhNalBMWDRJSTVlbXZRUzFOekVBdz09Cg==",
-                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.7.15/VORP_0.7.15_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dXlQNXkxeHlMWWJlYjh1aGhlcGdlVUpGd0RsQVllWUgrcnJKcFh0M1gweWo0c1dreGVVQ1NGTHBTQ0pDS2Z1VkFRbjUzcGNsc3FQdnlVY21aOGZ3OXdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NTA1Mzk1CWZpbGU6Vk9SUF8wLjcuMTZfeDY0LXNldHVwLmV4ZQpwSDE1T1lNdG9Ccnhpa0FNSUc5V01TQThOMHRaKzBtakpjQmdhK2xtOWRRQ2NZQkMxUDUwOWhoNEFXR3h1V3djMVhsMG9hUFNiMEFyNy9jSE0yWWZCZz09Cg==",
+                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.7.16/VORP_0.7.16_x64-setup.exe"
                                          }
                   }
 }
