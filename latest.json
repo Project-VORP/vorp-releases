@@ -1,11 +1,11 @@
 {
-    "version":  "0.7.26",
-    "notes":  "- Right-clicking a file to send to a friend now opens a dedicated window for that send, with the friend\u0027s avatar, status, and live progress\n- When someone sends you a file, a new window pops up showing what is coming in and who it is from\n- The send window auto-closes after a successful send; the receive window stays open until you close it\n- Each friend gets their own window, so you can have multiple transfers going at the same time",
-    "pub_date":  "2026-05-23T20:01:57Z",
+    "version":  "0.7.27",
+    "notes":  "- Fixes a blank white chat window that some incoming files were causing\n- You can now actually close the chat window with the X button\n- The receive window now properly shows who sent you what file",
+    "pub_date":  "2026-05-23T21:47:39Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTUxTG9VaVZqK1lRS2RKY2t5eDl3YVk4amJLOG9FMjl4VFlRY2dCTWVoM3VFZ09sVXJleE0xam1oQ2NzeksxVkVRRHZzY2V6enRvamZ1QThwSWZJQmdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NTQ2NzA5CWZpbGU6Vk9SUF8wLjcuMjZfeDY0LXNldHVwLmV4ZQpyN3czZmdDeFhyTHdBY3lMTHFwRkR4cUJ4ZTB4N2xOYmxieTJaRmF6V0xFb09MUzZvY0hzek5Hcnc2RmlJcmFacGpNN1VFTTJvMWdDcEIvSGJZTEZCdz09Cg==",
-                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.7.26/VORP_0.7.26_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTMwZWUwOE5hWjZxT3BuS0xNaWhnOGZnQ0ZlQzJFeTMrZzFtVjF0VXVhSlVtM1hwWU5pSk9LcWp2QktoQ25oUUZWN0RKU1dVakUzbjJudzY3ZzEraFE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NTUzMDUxCWZpbGU6Vk9SUF8wLjcuMjdfeDY0LXNldHVwLmV4ZQovNTZad3IxNE1EVjRsTmpTVU5oK2ZaT0ZwY05KaWtCdHh1Z1cwWFNvamhXYXFYRVdCT2gzQkUyRFMvWVQ1c1RqaGNTVG9PaytrVUttdUUwczZWd0NCdz09Cg==",
+                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.7.27/VORP_0.7.27_x64-setup.exe"
                                          }
                   }
 }
