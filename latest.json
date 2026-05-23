@@ -1,11 +1,11 @@
 {
-    "version":  "0.7.20",
-    "notes":  "- Tiny files (screenshots, chat-sized images) now arrive in under a second\n- Re-sending a file you have sent before is much faster — we skip parts that have not changed\n- The little Sending card in the corner shows up reliably again\n- Behind-the-scenes plumbing for delivering to offline friends the moment they come back online",
-    "pub_date":  "2026-05-23T10:30:17Z",
+    "version":  "0.7.21",
+    "notes":  "- A predictor that quietly pre-uploads files you are likely to send next, so when you do send, it arrives instantly\n- The close button red now reaches the corner cleanly\n- The little Offline indicator next to a contact aligns with its label\n- Encrypted pre-uploaded files are decrypted on your machine after download, so the server only ever sees ciphertext",
+    "pub_date":  "2026-05-23T12:27:35Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dThwWGZLTGVBMW8rNWhaczhBUXJHek52WTg1RmZlcCtXZlRseVZuVUtwVEhuS0FGa3NKekhjajEyTk5mYVJUcDNKZkxkYW4yQm8wSUVMY29PNERqMWcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NTEyNDA5CWZpbGU6Vk9SUF8wLjcuMjBfeDY0LXNldHVwLmV4ZQp0Sy80SE41S096M1l4Ymk5bFh6aEtOVGprVTJ3bFV3SEo0eFl6bnR2RmRSbTNobHNQamJZVW1tL1VaU3N5dUE3cmFPYUswYldyaDJwRGJObUZ1U3hCUT09Cg==",
-                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.7.20/VORP_0.7.20_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dXdldXNjL0QzRmVCM3RXeThsOFFITm1JRTg0bXdVd290UjRDS3RSTkJhQS9Ed2l5Q0JoZ3hVSHFQaXBKM0FCSTFEY3lzN2pyMmlzTDhtR0hxQlVHTVFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NTE5NDQ2CWZpbGU6Vk9SUF8wLjcuMjFfeDY0LXNldHVwLmV4ZQp3eWR2Q29DT1ZUZ2VIaENMVDV4NXpxSWpHRko1dWFBTnlXVGdOUWRsdU83SFZkMmxVdlVxSEp5N3hCM0pWWDRPNE9yTUhmcHlyajVPY3BpYlRiWFFDZz09Cg==",
+                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.7.21/VORP_0.7.21_x64-setup.exe"
                                          }
                   }
 }
