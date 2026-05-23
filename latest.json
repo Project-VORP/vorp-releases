@@ -1,11 +1,11 @@
 {
-    "version":  "0.7.25",
-    "notes":  "- The progress ring and \"Sending\" status now only show for the friend you are actually sending to (clicking other contacts no longer shows their card stuck at 100%)\n- Right-click sends upload multiple file parts at once, so big files send faster\n- A few cleanup fixes so the ring fades out properly after the send finishes",
-    "pub_date":  "2026-05-23T18:40:33Z",
+    "version":  "0.7.26",
+    "notes":  "- Right-clicking a file to send to a friend now opens a dedicated window for that send, with the friend\u0027s avatar, status, and live progress\n- When someone sends you a file, a new window pops up showing what is coming in and who it is from\n- The send window auto-closes after a successful send; the receive window stays open until you close it\n- Each friend gets their own window, so you can have multiple transfers going at the same time",
+    "pub_date":  "2026-05-23T20:01:57Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dS8rRVhFK0ptZThwR2xNSVNOOC9COGVYZ2R6RjVPSFJnRThsa2hEOUwyQnJ2UlNtMW1vRzJ5RFVHL0Fodnd5VFFTdXFYcjVXZHZ6My96NWQ1UzVxWEFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NTQxODIzCWZpbGU6Vk9SUF8wLjcuMjVfeDY0LXNldHVwLmV4ZQpPOHJJVHJKOXY3TFpMM1NMZEo5bTRLdmdFWmtkT0ljR3NOd3JqblFVQ2wzZ1JPTm1DVXR5SDJKQk0rTmVrNC80cWhCeENUWHlCS3RvS1NHUEZ1Z1REQT09Cg==",
-                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.7.25/VORP_0.7.25_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTUxTG9VaVZqK1lRS2RKY2t5eDl3YVk4amJLOG9FMjl4VFlRY2dCTWVoM3VFZ09sVXJleE0xam1oQ2NzeksxVkVRRHZzY2V6enRvamZ1QThwSWZJQmdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NTQ2NzA5CWZpbGU6Vk9SUF8wLjcuMjZfeDY0LXNldHVwLmV4ZQpyN3czZmdDeFhyTHdBY3lMTHFwRkR4cUJ4ZTB4N2xOYmxieTJaRmF6V0xFb09MUzZvY0hzek5Hcnc2RmlJcmFacGpNN1VFTTJvMWdDcEIvSGJZTEZCdz09Cg==",
+                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.7.26/VORP_0.7.26_x64-setup.exe"
                                          }
                   }
 }
