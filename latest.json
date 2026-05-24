@@ -1,11 +1,11 @@
 {
-    "version":  "0.7.29",
-    "notes":  "- Direct peer-to-peer is now tried first when possible — same-LAN sends can be 10x faster, internet sends are around 2x faster when both sides are reachable\n- Sending progress now shows the actual speed (like \"4.2 MB/s\") so you can see if your internet is the bottleneck\n- Cloudflare relay is still there as a fallback when direct fails",
-    "pub_date":  "2026-05-24T18:33:40Z",
+    "version":  "0.8.0",
+    "notes":  "- New: predicted files are pushed directly to your friend over peer-to-peer in the background, with no cloud detour\n- When you click send on a file the predictor already prepared, it lands on your friend\u0027s machine in well under a second, even if the file is huge\n- Only the parts of a file that actually changed get sent — re-sending a re-edited project skips the unchanged chunks\n- Cloud uploads are now the fallback path, not the default — they only kick in when your friend is offline or unreachable",
+    "pub_date":  "2026-05-24T21:08:14Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTNrdmNIdXhrQVlJbXBXaFhYVzUrQUFrMEFYWER3eVhaczVTY1FRdTNzWjJwOXgvMW1qdmFXc1Q4SUx1MjlQeTFVSTR0OHlTQkdDMjh0MGEyK0Q0eVFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NjI3ODExCWZpbGU6Vk9SUF8wLjcuMjlfeDY0LXNldHVwLmV4ZQpTWmxuWXM1bU9ucm54SHd0NU5OL1Z0RjdzNHdHSzVodzNMcmwxOW84ZDBQaDh6UFlGbExSbFhZY0llWDNCUVFsNGRrbG5kVlcvbjl3VlF2SjhYWmlCZz09Cg==",
-                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.7.29/VORP_0.7.29_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTNlWUd1QTA5UEVIT0FzV0ZPY0xQOWRBc2szeHR1bDlHVzZPRHU4aDBtS01jL1BuaDdBYVUrSG9GNHArT3pYeWc5ZzBSbTl4dzh2MDc4cVgxL2lGbVE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NjM3MDg0CWZpbGU6Vk9SUF8wLjguMF94NjQtc2V0dXAuZXhlClBYdVR6dUtCZ3hsWTdoOFdYQXg0V05NRTUrb29odU9jb1ZORXkwTVFXMnpqRHRrbUxudCtHYjFlMW9XdUhNSFpnd2U4bjhTQ1B6clI4SXE0Zk5OM0J3PT0K",
+                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.8.0/VORP_0.8.0_x64-setup.exe"
                                          }
                   }
 }
