@@ -1,11 +1,11 @@
 {
-    "version":  "0.8.1",
-    "notes":  "- Sends to contacts you frequently message now start faster — the peer connection is warmed up in the background before you click send\n- Hovering a contact in the sidebar starts warming the connection after about half a second\n- Dragging a file over a contact immediately starts warming, so the drop sends instantly",
-    "pub_date":  "2026-05-24T21:18:55Z",
+    "version":  "0.8.2",
+    "notes":  "- New behind-the-scenes plumbing for peer mesh — your machine can now ask other friends if they have specific file chunks, so future versions can fetch from whoever has them fastest\n- This release is foundation only — the actual multi-peer downloads land in the next version",
+    "pub_date":  "2026-05-24T21:28:17Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dXdUMy8yVDVJdDljNmlaZG1XbURkSG5iaWRTb1U4bWY4K0wxNFFUNFR6UVVpOUZzdC95aUMrT2o2SG9BTTF1OVFwOFFYcHBPS0JaWElFQWNmcmttOVFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NjM3NzI2CWZpbGU6Vk9SUF8wLjguMV94NjQtc2V0dXAuZXhlClZwanU1N1YvWEtqVUczMjJPWmVhZUVoK211RThiOXFjZ2JncElPdWQ4dURqWXU5L1NTdG9SeXZ0NHR4VW1SM1Avb0JWY25jN1U1dkJqZEdEaitTUkNBPT0K",
-                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.8.1/VORP_0.8.1_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dXlhQUdZREpENXFvSld1T09yMm00T3dFeTFYNzB3UW9vR1BmOWsvaGFVNHd1OUM1MDdKVy9SV3g1WEI5eXlQcVBnTHNQeDRUcGUzZ25XRWgxZzRZU2dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NjM4Mjg4CWZpbGU6Vk9SUF8wLjguMl94NjQtc2V0dXAuZXhlCmoxN3phSkNJbWNieGt0QnYrWWtZTzR6UEZNVGVOT1lxNWVjbTRHcmV6Y0xYV3FGejdSMkhMdDBsT3UreEF5U2V4cGdqK1JxSEl5blVvTVlXbEZCK0FnPT0K",
+                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.8.2/VORP_0.8.2_x64-setup.exe"
                                          }
                   }
 }
