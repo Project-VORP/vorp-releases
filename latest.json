@@ -1,11 +1,11 @@
 {
-    "version":  "0.7.28",
-    "notes":  "- Emergency fix: the incoming-file chat window that was getting stuck blank no longer auto-opens\n- Receives go back to a normal toast notification while we sort out the chat window properly",
-    "pub_date":  "2026-05-23T22:10:26Z",
+    "version":  "0.7.29",
+    "notes":  "- Direct peer-to-peer is now tried first when possible — same-LAN sends can be 10x faster, internet sends are around 2x faster when both sides are reachable\n- Sending progress now shows the actual speed (like \"4.2 MB/s\") so you can see if your internet is the bottleneck\n- Cloudflare relay is still there as a fallback when direct fails",
+    "pub_date":  "2026-05-24T18:33:40Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTFUU3J6UFM0MVZ0NmVXQjhlVk5KV1ZSN3lobmhNdzMzRXhSaE1LSWF4QWF3bk5mZWxFNkw3eGwrVSs3NVgvWUJjdFY4M2NVWGc1N2phUGorMFBDblE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NTU0NDE5CWZpbGU6Vk9SUF8wLjcuMjhfeDY0LXNldHVwLmV4ZQo5djVUQWJLQUpRWkhEaEJPRDBMdWxKdnRiQWYwMmlVQ0JCdjZPRVJkUU1XKzZmRU9nbGtTQ2VNZHpzT2ZLcWJPSWxJVDdkenJaTVZ5VXFpMFJWL0hCZz09Cg==",
-                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.7.28/VORP_0.7.28_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTNrdmNIdXhrQVlJbXBXaFhYVzUrQUFrMEFYWER3eVhaczVTY1FRdTNzWjJwOXgvMW1qdmFXc1Q4SUx1MjlQeTFVSTR0OHlTQkdDMjh0MGEyK0Q0eVFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NjI3ODExCWZpbGU6Vk9SUF8wLjcuMjlfeDY0LXNldHVwLmV4ZQpTWmxuWXM1bU9ucm54SHd0NU5OL1Z0RjdzNHdHSzVodzNMcmwxOW84ZDBQaDh6UFlGbExSbFhZY0llWDNCUVFsNGRrbG5kVlcvbjl3VlF2SjhYWmlCZz09Cg==",
+                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.7.29/VORP_0.7.29_x64-setup.exe"
                                          }
                   }
 }
