@@ -1,11 +1,11 @@
 {
-    "version":  "0.8.3",
-    "notes":  "- If a file you are receiving is missing some chunks, your machine now asks other friends if they have them, and fetches from whoever does\n- Means receives are more resilient when chunks have aged out or a previous transfer was interrupted\n- Cleanly falls back to the original sender if nobody in the mesh has the chunks",
-    "pub_date":  "2026-05-24T21:36:18Z",
+    "version":  "0.8.9",
+    "notes":  "- Transfers start faster — VORP now gets files ready for the people you send to most, so sending feels instant\n- More reliable receives — if some pieces are missing, VORP pulls them from any friend who has them, not just the original sender\n- A notification badge now shows on the taskbar icon when something needs your attention\n- VORP picks the fastest route to each friend automatically, and keeps improving the more you use it\n- Stability and performance improvements under the hood",
+    "pub_date":  "2026-05-28T21:41:11Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dXluanVDdU8vUkJjcFQ4YXR0dzAzWlkzOUJHWGNpYWhJOFlVOXIzaDJ2S29hbk1zSmgyVlBwdVlzbTZNanY4ZzdrVWI0VEM4ZTZZMkFDQWJESUNvVlFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NjM4NzY3CWZpbGU6Vk9SUF8wLjguM194NjQtc2V0dXAuZXhlCkpjSnc2RkdHRFF1WGdMOVB6dmthQlN4cVBiOVRPZ2xWc2hCV0NLZllqWFhHYWRaaERhVUxTejcrRzYrMEdrN1p0V0w2SVZYVkIrNmY0RXhGamY0ZUNBPT0K",
-                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.8.3/VORP_0.8.3_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTNJS0JBWklKNXIxS1R5YWJVTmhWSkkyTkNjMktzZlp6Q2JveDhoRjZHazJSSU9OZ1hjQThERWlIUEJFQjRVVHdldDdhUHRwWWNJM1JTcHluWWk0YWdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5OTg0NjU5CWZpbGU6Vk9SUF8wLjguOV94NjQtc2V0dXAuZXhlClkrTy9QTVBIN0JYdVVXNlU0dmpSVElXUzU1MGR3ekkwRG9Qb1BGSHFBMjQ4aWM2QitGSCtLRGRIL0QxbWxKSDJFRnNGZm1iSWM5aXFmZVhvZHROaURRPT0K",
+                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.8.9/VORP_0.8.9_x64-setup.exe"
                                          }
                   }
 }
