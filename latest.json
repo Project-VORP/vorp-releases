@@ -1,10 +1,10 @@
 {
     "version":  "0.8.12",
     "notes":  "- Quick fix: some sends were arriving twice (one of them broken). Sends are back to a single clean delivery.\n- Refreshed sign-in screen so it feels like part of the app.",
-    "pub_date":  "2026-05-31T20:46:13Z",
+    "pub_date":  "2026-05-31T21:19:24Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTAxQnBydHl0WUNZMXBiZCtUa1E3N3owbGpwejVzUkdvNWtFREtNN2pmRFJtdXQrbzlWTzN6dnh2cVBCN24yY0lkT3JWcGpFNzY1a3RzSk9TekphRUFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMjQwNTY1CWZpbGU6Vk9SUF8wLjguMTJfeDY0LXNldHVwLmV4ZQpJeDMvMDlXOGVCZUdmaTVSbEtZR0M0cU1KSk9RM3FjVXZvRUNUR2N1ak5DbENmZEpoTGtxZGQwR3loQ3lYNHZQWFZtT3R3SEdBREpJRnR3U2RFMFREQT09Cg==",
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dXpjakV3NXpJNDdvbWhqYXh5M0IxRkhMR21pcVNtNDZmenBRY2VRVXZPN0twcHU2cWttVXdxS09tL3F2NXZ6NkNIWUJucjdpUFY2cEJualg5YjJ6dEFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMjQyNTUzCWZpbGU6Vk9SUF8wLjguMTJfeDY0LXNldHVwLmV4ZQpVbGJNUnRJQi84OC9FbG85dVl4aFFrV1ZQRjlIZnVXVEZCdmMxRW1lQmlNcFhRQnFZTytDZ2lpdUlIeEp4SWdobHRCUGQ3bkd5c0NyaSttaGdWbnNDZz09Cg==",
                                              "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.8.12/VORP_0.8.12_x64-setup.exe"
                                          }
                   }
