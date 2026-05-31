@@ -1,11 +1,11 @@
 {
-    "version":  "0.8.11",
-    "notes":  "- Faster sends to friends you\u0027ve contacted before. VORP now sets up the secure connection ahead of time so the actual send is near-instant.\n- Real sends always take the pipe first. Background pre-staging won\u0027t slow you down when you\u0027re actively sending a file.\n- Internal improvements to how VORP measures itself, so pre-staging keeps getting smarter.",
-    "pub_date":  "2026-05-31T12:05:28Z",
+    "version":  "0.8.12",
+    "notes":  "- Quick fix: some sends were arriving twice (one of them broken). Sends are back to a single clean delivery.\n- Refreshed sign-in screen so it feels like part of the app.",
+    "pub_date":  "2026-05-31T20:46:13Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dXhNK09Od2tmOTJ5emJTUTRYL2h0dDRJMFJWcWFBd3I2TlFsc2tWdzBORlhTaEtqekdtTnRMM2orZ21JdUo4OE11QnF6UmdDZ0xRQkNweHAwN25YSlFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMjA5MzE4CWZpbGU6Vk9SUF8wLjguMTFfeDY0LXNldHVwLmV4ZQo4TldHaXJLNHlXTHdIYXA4RG83ZXFIYmdQYllqUWNEYUJhd1RaS21GeEpIRlEyRDVkWjU5ZjdSOUh0UzAvQWJHOUNwKzFGaFl6OXJXNXEwK0VHYXFCZz09Cg==",
-                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.8.11/VORP_0.8.11_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTAxQnBydHl0WUNZMXBiZCtUa1E3N3owbGpwejVzUkdvNWtFREtNN2pmRFJtdXQrbzlWTzN6dnh2cVBCN24yY0lkT3JWcGpFNzY1a3RzSk9TekphRUFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMjQwNTY1CWZpbGU6Vk9SUF8wLjguMTJfeDY0LXNldHVwLmV4ZQpJeDMvMDlXOGVCZUdmaTVSbEtZR0M0cU1KSk9RM3FjVXZvRUNUR2N1ak5DbENmZEpoTGtxZGQwR3loQ3lYNHZQWFZtT3R3SEdBREpJRnR3U2RFMFREQT09Cg==",
+                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.8.12/VORP_0.8.12_x64-setup.exe"
                                          }
                   }
 }
