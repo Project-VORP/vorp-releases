@@ -1,11 +1,11 @@
 {
-    "version":  "0.8.14",
-    "notes":  "- Smarter pre-staging: recent files start uploading the moment they show up in a watched folder, so sending feels near-instant when you\u0027re ready.\n- The export predictor data button now copies straight to your clipboard.\n- Internal: dropped the 5 second wait before pre-staging kicks in, and lowered the measurement hold-out so more sends benefit.",
-    "pub_date":  "2026-06-03T08:52:54Z",
+    "version":  "0.8.15",
+    "notes":  "- Updates now install silently in the background. No more \"VORP wants to update\" prompts in the middle of what you are doing.\n- New updates download while you work, then apply themselves the next time you open VORP. Quiet, no clicks needed.",
+    "pub_date":  "2026-06-03T15:29:20Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTJkd2JRbnVZMU5qQUtNb05vVC9OYVRHb3hnM0NEY3FhYnpDazBRMTIxZDZWMHk5SE13MkhCK2g4b2tIT2RpUDRyUUNTQXR0aXlJZ3h6S2RrTVNNb2dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNDU2OTY3CWZpbGU6Vk9SUF8wLjguMTRfeDY0LXNldHVwLmV4ZQpHL0FyaEFXZWY3bHRnaTFVcWNTZEFBdGtKWVNWbTNoMW91TjFiUFBad3dDbmJSd3FaWmk1anpQUm9oLyt4QVdVQUhsdUxoRHUyNkNiTm5DZEc3VEdDdz09Cg==",
-                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.8.14/VORP_0.8.14_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTFOY1FkS1dUZjVWcnlzNzllN1VNMW1pMjJKUlZWM0pJSkU4WmpMWlMrNzg2ekdtalhGd0xFWmsxZ3VCY1cxSTJraUZjWmp0WFQrQkMrMmpRWENCQVF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNDgwNzU0CWZpbGU6Vk9SUF8wLjguMTVfeDY0LXNldHVwLmV4ZQpLUC83YWJNbi9YbXFTWkRacklzZUtmd01hMWpWbERjSVI4dGxDN3lGTFNleXg1VlFpV08rNFo5UStTbXVmdmJiSzMxVDFnYmx3R2xOWVk3MkFCcmVCUT09Cg==",
+                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.8.15/VORP_0.8.15_x64-setup.exe"
                                          }
                   }
 }
