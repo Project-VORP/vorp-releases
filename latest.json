@@ -1,11 +1,11 @@
 {
-    "version":  "0.8.13",
-    "notes":  "- Brings back the smart pre-staging that makes sends to people you often contact feel near-instant.\n- A fix that prevents the same send from running twice in rare timing situations.\n- Cleaner sign-in screen to match the rest of the app.\n- Tiny easter egg on the profile avatar. See if you can spot it.",
-    "pub_date":  "2026-06-01T09:35:05Z",
+    "version":  "0.8.14",
+    "notes":  "- Smarter pre-staging: recent files start uploading the moment they show up in a watched folder, so sending feels near-instant when you\u0027re ready.\n- The export predictor data button now copies straight to your clipboard.\n- Internal: dropped the 5 second wait before pre-staging kicks in, and lowered the measurement hold-out so more sends benefit.",
+    "pub_date":  "2026-06-03T08:52:54Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTFGMUY3ZW03SktBbGNxK0VTb0s1ck1FdkF0RUFFS2UyRmc5dkZMMGtTdFZ4azg5QWhPV3lnbmdwV2tMNThreXZTTmV4L012eDlnNmhEcVIyVWErUGc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMjg2Njk1CWZpbGU6Vk9SUF8wLjguMTNfeDY0LXNldHVwLmV4ZQpvdTBQMHNPV0E5S1gwaEQreXJsbEQ1RDhNUXFicjdEMTl2bThZMHhITjVvWi9FblBPcEVYc1htUVpiSldRZ2JXMTFOVWVDTzVQTzVMUFN3a0d0SmdBdz09Cg==",
-                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.8.13/VORP_0.8.13_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTJkd2JRbnVZMU5qQUtNb05vVC9OYVRHb3hnM0NEY3FhYnpDazBRMTIxZDZWMHk5SE13MkhCK2g4b2tIT2RpUDRyUUNTQXR0aXlJZ3h6S2RrTVNNb2dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNDU2OTY3CWZpbGU6Vk9SUF8wLjguMTRfeDY0LXNldHVwLmV4ZQpHL0FyaEFXZWY3bHRnaTFVcWNTZEFBdGtKWVNWbTNoMW91TjFiUFBad3dDbmJSd3FaWmk1anpQUm9oLyt4QVdVQUhsdUxoRHUyNkNiTm5DZEc3VEdDdz09Cg==",
+                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.8.14/VORP_0.8.14_x64-setup.exe"
                                          }
                   }
 }
