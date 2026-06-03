@@ -1,11 +1,11 @@
 {
-    "version":  "0.8.15",
-    "notes":  "- Updates now install silently in the background. No more \"VORP wants to update\" prompts in the middle of what you are doing.\n- New updates download while you work, then apply themselves the next time you open VORP. Quiet, no clicks needed.",
-    "pub_date":  "2026-06-03T15:29:20Z",
+    "version":  "0.8.16",
+    "notes":  "- Files start uploading the moment you pick one, before you have even chosen a friend. Real sends should feel near-instant when the upload had time to finish in the background.\n- Send progress no longer jumps backward when the connection retries. The number you see only goes up.",
+    "pub_date":  "2026-06-03T20:12:51Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTFOY1FkS1dUZjVWcnlzNzllN1VNMW1pMjJKUlZWM0pJSkU4WmpMWlMrNzg2ekdtalhGd0xFWmsxZ3VCY1cxSTJraUZjWmp0WFQrQkMrMmpRWENCQVF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNDgwNzU0CWZpbGU6Vk9SUF8wLjguMTVfeDY0LXNldHVwLmV4ZQpLUC83YWJNbi9YbXFTWkRacklzZUtmd01hMWpWbERjSVI4dGxDN3lGTFNleXg1VlFpV08rNFo5UStTbXVmdmJiSzMxVDFnYmx3R2xOWVk3MkFCcmVCUT09Cg==",
-                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.8.15/VORP_0.8.15_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dStWbUJ6dlhnZHNROEZabkJsN1g3QmxwL0ZRMmpDWklxa0xGeVBQMWZzZTAzR3pTWEcrMVJ0QzhpZzMzUHoyWk10SWxNRXZtQlcwZFVJQWZYamI2V3d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNDk3NzYzCWZpbGU6Vk9SUF8wLjguMTZfeDY0LXNldHVwLmV4ZQpoUjBYRmxnbzQ5QzNvL2pndXZWVi9yZnpBc0tyQlYxSm5sbDlCWjJQZnJEQ3Jqd21lSXFwdGdKdVRJc3V3aXozMGRqTmhoZ1F6dE4zd1l4MDRBLzRDQT09Cg==",
+                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.8.16/VORP_0.8.16_x64-setup.exe"
                                          }
                   }
 }
