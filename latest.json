@@ -1,7 +1,7 @@
 {
     "version":  "0.8.20",
-    "notes":  "Bug fixes and improvements",
-    "pub_date":  "2026-06-05T23:21:44Z",
+    "notes":  "- Sign in with a 6-digit email code, no password needed\n- Forgot your password? Reset it right from the sign-in screen\n- You can now change your username from your profile\n- Cleaner window controls at the top",
+    "pub_date":  "2026-06-05T23:22:59Z",
     "platforms":  {
                       "windows-x86_64":  {
                                              "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dS8vK25wWE9DNG1hS3RmY2ZBVTRTUVNvYVpseFB2YzkwU2FoY3M2bHQzYWVvS2pjWllUTFFKbTk2M3AxNkNlR3RjY3I5T05FYmUwZXNZcG5LWnFrc3dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNjgxODk1CWZpbGU6Vk9SUF8wLjguMjBfeDY0LXNldHVwLmV4ZQpaeUx5QU9DU2xOVEFmVkpEeTI3MkRPTlZRQVlRRTU1VEFKdXZOWnVpUnREcmxMSk5zTkF4R3J4cHJCYk0xREtXM3g5L2IyL2xCdTlBamlMSUlJam9EUT09Cg==",
