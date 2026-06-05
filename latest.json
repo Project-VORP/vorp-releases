@@ -1,11 +1,11 @@
 {
-    "version":  "0.8.20",
-    "notes":  "- Sign in with a 6-digit email code, no password needed\n- Forgot your password? Reset it right from the sign-in screen\n- You can now change your username from your profile\n- Cleaner window controls at the top",
-    "pub_date":  "2026-06-05T23:22:59Z",
+    "version":  "0.8.21",
+    "notes":  "Bug fixes and improvements",
+    "pub_date":  "2026-06-05T23:36:24Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dS8vK25wWE9DNG1hS3RmY2ZBVTRTUVNvYVpseFB2YzkwU2FoY3M2bHQzYWVvS2pjWllUTFFKbTk2M3AxNkNlR3RjY3I5T05FYmUwZXNZcG5LWnFrc3dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNjgxODk1CWZpbGU6Vk9SUF8wLjguMjBfeDY0LXNldHVwLmV4ZQpaeUx5QU9DU2xOVEFmVkpEeTI3MkRPTlZRQVlRRTU1VEFKdXZOWnVpUnREcmxMSk5zTkF4R3J4cHJCYk0xREtXM3g5L2IyL2xCdTlBamlMSUlJam9EUT09Cg==",
-                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.8.20/VORP_0.8.20_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTNzcGd5S1hTWWJlSGxKK3NRdFlUcmpDekVOK25hS0E2aUFrQjg2NE1CdGROa05YZ09rQ0xoUm41R0hTV0lhRXlrdmJEa0V5YUNJbFNpbVd0dlovTVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNjgyNzc4CWZpbGU6Vk9SUF8wLjguMjFfeDY0LXNldHVwLmV4ZQozcGVZSldrSlkxQTVRb0FLMHFRTXl1NDBwdEU2Q0g3N1pEZUJQbExTQ0R4Q3FvMDBEUm5wNHNzNWtrS1RTaGdvcUZKMTc1ODlxaWtyWUpBWHdRc2RDQT09Cg==",
+                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.8.21/VORP_0.8.21_x64-setup.exe"
                                          }
                   }
 }
