@@ -1,7 +1,7 @@
 {
     "version":  "0.8.21",
-    "notes":  "Bug fixes and improvements",
-    "pub_date":  "2026-06-05T23:36:24Z",
+    "notes":  "- Verify your email with a 6-digit code when creating an account\n- Slimmer Sign In and Create Account buttons",
+    "pub_date":  "2026-06-05T23:37:31Z",
     "platforms":  {
                       "windows-x86_64":  {
                                              "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTNzcGd5S1hTWWJlSGxKK3NRdFlUcmpDekVOK25hS0E2aUFrQjg2NE1CdGROa05YZ09rQ0xoUm41R0hTV0lhRXlrdmJEa0V5YUNJbFNpbVd0dlovTVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNjgyNzc4CWZpbGU6Vk9SUF8wLjguMjFfeDY0LXNldHVwLmV4ZQozcGVZSldrSlkxQTVRb0FLMHFRTXl1NDBwdEU2Q0g3N1pEZUJQbExTQ0R4Q3FvMDBEUm5wNHNzNWtrS1RTaGdvcUZKMTc1ODlxaWtyWUpBWHdRc2RDQT09Cg==",
