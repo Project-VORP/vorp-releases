@@ -1,11 +1,11 @@
 {
-    "version":  "0.8.18",
-    "notes":  "- Big files actually work now. VORP streams them straight from your disk instead of trying to load them into memory. No more freezing on a multi-GB send.\n- Picking a large file is instant. We do not read the whole thing up front anymore.",
-    "pub_date":  "2026-06-05T13:50:04Z",
+    "version":  "0.8.19",
+    "notes":  "- Big files going through the queue are now end-to-end encrypted in chunks. Your sends stay private from the moment they leave your machine until they land on the other side.\n- No memory ceiling on receives either. Files of any size stream straight to disk while decrypting.",
+    "pub_date":  "2026-06-05T18:21:23Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dXpsQ0d2ZkZzRGkyZC9wQnFVRlBXSkwyUzVjeDE1dVBUeEhCYW81MXFXdUJKQ0NMQlB1d1V6cFFSVUkvY0piVFZUVTZBNkIvM0syUVZsdFAvR2lZSEFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNjQ3NTk2CWZpbGU6Vk9SUF8wLjguMThfeDY0LXNldHVwLmV4ZQowR1gxaWRTR2VpcnVjTWd6SXNIQ1FsMERsNWg1amJpWVFzU2dzMmk1dE1HZlRkYXlJS2U4cVo0ZzNYR1lXL0NVblI3UzhkVzBoZFh5QWFNcm50V29Bdz09Cg==",
-                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.8.18/VORP_0.8.18_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTJ3N1FrQXdUQWExekprVHR2S1haVDlqZHdtWEl0VVJva3dYVThGQ25pYUc5RGJNSXhOT05weDJlRnVrR0ZaaFFZUEFpMlFjQUc0K0I0TXhFMmM4cWdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNjYzODcxCWZpbGU6Vk9SUF8wLjguMTlfeDY0LXNldHVwLmV4ZQp2YnBwZkhubEtKc0xBcTFicHhtNUdhQUJQVS9PYUpTanZZL1I0STlHa2RnaGx3TFVwQUlMaGJVbjk5aUZOUndvNkFNMFlDekc0QW41TzZsUkxEYWJBQT09Cg==",
+                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.8.19/VORP_0.8.19_x64-setup.exe"
                                          }
                   }
 }
