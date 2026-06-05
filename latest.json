@@ -1,11 +1,11 @@
 {
-    "version":  "0.8.16",
-    "notes":  "- Files start uploading the moment you pick one, before you have even chosen a friend. Real sends should feel near-instant when the upload had time to finish in the background.\n- Send progress no longer jumps backward when the connection retries. The number you see only goes up.",
-    "pub_date":  "2026-06-03T20:12:51Z",
+    "version":  "0.8.17",
+    "notes":  "- Picking a file via the attach button now starts uploading it in the background right away. By the time you choose a friend, much of the work is already done.\n- Send progress is smooth now instead of sitting at 0% and jumping. The percentage you see actually reflects bytes leaving your machine.\n- Files above 2 GB get a clear message instead of freezing the app. Real support for larger sends is coming.",
+    "pub_date":  "2026-06-05T13:34:58Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dStWbUJ6dlhnZHNROEZabkJsN1g3QmxwL0ZRMmpDWklxa0xGeVBQMWZzZTAzR3pTWEcrMVJ0QzhpZzMzUHoyWk10SWxNRXZtQlcwZFVJQWZYamI2V3d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNDk3NzYzCWZpbGU6Vk9SUF8wLjguMTZfeDY0LXNldHVwLmV4ZQpoUjBYRmxnbzQ5QzNvL2pndXZWVi9yZnpBc0tyQlYxSm5sbDlCWjJQZnJEQ3Jqd21lSXFwdGdKdVRJc3V3aXozMGRqTmhoZ1F6dE4zd1l4MDRBLzRDQT09Cg==",
-                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.8.16/VORP_0.8.16_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTdqYmRIOVlWTlNKRFFXWkhtTm9VNFV4ekNRTVM1TXl2ZkEzQ0NNcmp4RkFOUGtURmRLbzBqV2NWNDNUbzNsZjZUdndZYWE5UmluZGtqSkQwa0NxS3c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNjQ2NjkxCWZpbGU6Vk9SUF8wLjguMTdfeDY0LXNldHVwLmV4ZQpudUxKRTFOUldZbUh1RHIwQ3k4V2xDdWYweTk2Smk4UUVlZVRKQTNaWkllQ1lXSFdIZDM2N01rUitFempPMGxzWFIvSHpKWTVISXU3cFh5S3pMcnpCZz09Cg==",
+                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.8.17/VORP_0.8.17_x64-setup.exe"
                                          }
                   }
 }
