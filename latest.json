@@ -1,7 +1,7 @@
 {
     "version":  "0.8.22",
-    "notes":  "Bug fixes and improvements",
-    "pub_date":  "2026-06-06T11:58:25Z",
+    "notes":  "- Faster start when sending large files (no pause before the upload begins)\n- Smoother progress and quicker overall throughput for big transfers",
+    "pub_date":  "2026-06-06T11:59:13Z",
     "platforms":  {
                       "windows-x86_64":  {
                                              "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTVNSEo5ajRZZU44VWR1VGw0NjNNQjUza3N0SkxiY0huOVZEeEluaFlJT2R5c2JBUGdtd2lQQjhGU0RZcTlpQlZQTmVmVzY0QzNxc1I1bXZMMVRiSVFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNzI3Mjk4CWZpbGU6Vk9SUF8wLjguMjJfeDY0LXNldHVwLmV4ZQphYjhiRUFKdy9oZzFvWXBUNkpGR3RHVi81YUZZd3UzaHEvYW1vc3VNUGNpWDdTUzMwd3k2Qkp2NHFrdCt5Qjl0RHF1T2NMTFpNWmV0NjIvRkhQVTNBZz09Cg==",
