@@ -1,11 +1,11 @@
 {
-    "version":  "0.8.25",
-    "notes":  "- Folder progress now stays steady — no more flicker between files\n- Tighter spacing in Settings\n- Clearer \"Change\" button next to your username on the Profile page",
-    "pub_date":  "2026-06-07T13:26:42Z",
+    "version":  "0.8.26",
+    "notes":  "- Incoming-file notifications now have Accept and Decline buttons you can click right from the toast\n- One click and the transfer starts (or stops) without opening the app",
+    "pub_date":  "2026-06-07T14:26:17Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dXhKZWo5eXEySDhMRVVqMHB2WDFVQVhmVVMwUVhIbmh1L1k2dEFzQmwvNXh4czA0RXNVaEZGcExtKzNpTklqbUcvTEc2Zm5LU1ByZUZMZVVoNmVTdUFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwODE4OTkyCWZpbGU6Vk9SUF8wLjguMjVfeDY0LXNldHVwLmV4ZQo4cXRRWWFzbGRnZ1BnT0FSWnFlNFk5M0U0Q1ZabndRSTExVk5XN2E5ajdTTENEUElJaG9uZmQ0MHRNSHkvdkd2TEhORElzcTUvaTY3RTJJYVFBYmRCZz09Cg==",
-                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.8.25/VORP_0.8.25_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dThiQUc4Y0pTSTd3a1lwTWw1djUyVXV2b2ZBc3NHL2hYcVdZYzVoaWc1Q2tRZ3BiNGhFSktRQmtEQ1Arc2hRTGxEbGNvN0hkYXRsd2lFeHNNSTNXWHc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwODIyNTYxCWZpbGU6Vk9SUF8wLjguMjZfeDY0LXNldHVwLmV4ZQpmTXQvblpHYzdxK0JPaVlqYk51M3lLNjVSZ2taWjZTT0diSXliVitPRzBMRy96UGNyelpFMUIxampFRmJPSVpQdWM5K3N5WVFtK3BuSzl4RTVhZXhDZz09Cg==",
+                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.8.26/VORP_0.8.26_x64-setup.exe"
                                          }
                   }
 }
