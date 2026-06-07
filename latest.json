@@ -1,11 +1,11 @@
 {
-    "version":  "0.9.2",
-    "notes":  "- Adding, blocking, and unblocking contacts now feels instant",
-    "pub_date":  "2026-06-08T03:19:59Z",
+    "version":  "0.9.3",
+    "notes":  "- Blocked users now show with their avatar and clean username",
+    "pub_date":  "2026-06-08T03:38:00Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dXdPSzlWYTRmNFA3bVFpRUJrTjdIZzRvUVJlVkNQZ2dwSHNMR1pLWTFOZHNDQmxIVTh3Y2oyZ0hyNG5XL2YvSzFFRkM1ak5mb2JxS0I2ZlVCY0pRU3dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwODY4OTkyCWZpbGU6Vk9SUF8wLjkuMl94NjQtc2V0dXAuZXhlCnc4Q2FZZGRxN2xSbC8vb3ZzUVFWb3JQQm9ydzNkUFl5R2hGYVR4UHZjRE8wWlZDK0xIM2s4Uy8zRE9kYUhJQ05pNHdiUDYvTjJJRThhWmFYb2JscUJRPT0K",
-                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.9.2/VORP_0.9.2_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTFFU1Zra2FKQmRUT1VTUk15YUV2eU5oNFFRRzRxRHcvM1VJeWRwUklZTVdUcFZ3bUdlY3F3ejkrZ2lZUnBsTlNXTjZPc2JLUmZFN3JUM2NsR0xzMlFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwODcwMDc0CWZpbGU6Vk9SUF8wLjkuM194NjQtc2V0dXAuZXhlCkNKMUVaQW9FbVRaMkhJUG5QU05UcnQ4RnUxR2owT1lmVkNhVFRpdWpSajZVb3dibnZEUkFSL3BoZ01RLzYydFdJWXNMRDNFbExuYVNLYWV0aFpReENnPT0K",
+                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.9.3/VORP_0.9.3_x64-setup.exe"
                                          }
                   }
 }
