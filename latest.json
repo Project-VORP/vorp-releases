@@ -1,11 +1,11 @@
 {
-    "version":  "0.8.27",
-    "notes":  "- Under-the-hood plumbing so future updates can roll out to everyone faster",
-    "pub_date":  "2026-06-07T14:52:36Z",
+    "version":  "0.8.28",
+    "notes":  "- Settings now has an Account section — change your username and turn on two-factor authentication right from there",
+    "pub_date":  "2026-06-07T17:53:17Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dXhYeEdJYXNDdVFMTUtVRWp3OXNPL1pqVEZaczlQTkZGTWpyaE0vbWc1bW15Vjlzd3BTL2RqT1pkZDBHT0puL0hVQkhOYytvcWlwR2dtYURRdVBBSGdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwODI0MTQ0CWZpbGU6Vk9SUF8wLjguMjdfeDY0LXNldHVwLmV4ZQpWMkNRbm1VSk4xU20xUFcraWhTNkI4b3dwZEJYWnV1bUM2L3ByTkljVG5NQ29IMGl0UXduaHhzZFpTbGJoY2I1M0U1dDBEcjdPclN0ZjRKcnRMdG9BUT09Cg==",
-                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.8.27/VORP_0.8.27_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTVJOWl3MmJIajRzeHpmTXdPYkNqQ1JITnl3VlR4MjFVTUZUZnV1YVRLZ09tSS82ZmVNZnVwVStsVTkrZENwSnB0blY4U21Cc2MyQWs2VWEyZ3dnUEFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwODM0OTkyCWZpbGU6Vk9SUF8wLjguMjhfeDY0LXNldHVwLmV4ZQpuU2F6KzVaaWRKQWRSWDBiaVJLR1RuZ1A0NDkxTjd6Um53ZkovWHNjbE5tVWRzMXNsWmlCZldibGRHRnE4NDhheXpIY0xFc0pOMDAxUjJXN1d2ZWhEZz09Cg==",
+                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.8.28/VORP_0.8.28_x64-setup.exe"
                                          }
                   }
 }
