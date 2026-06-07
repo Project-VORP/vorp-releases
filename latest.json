@@ -1,11 +1,11 @@
 {
-    "version":  "0.9.0",
-    "notes":  "- Sign in with a passkey using Face ID, Touch ID, Windows Hello, or your password manager — no password to type\n- After signing in with a password, you can save a passkey for next time\n- Save a passkey on your phone by picking \"use another device\" when prompted",
-    "pub_date":  "2026-06-07T19:28:35Z",
+    "version":  "0.9.1",
+    "notes":  "- Settings cleaned up — no more duplicate Account section\n- Account, Security, and Transfers now sit together at the top",
+    "pub_date":  "2026-06-08T03:14:57Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTdqY08zTTRlOWdycjVyT3pSZFJIZDFQRjJGaGx1dWRlUjB5MXZNTkZ4Z0ZNMnMyRVFScXg3Wk82ellwSThma1FHMVNvcHNLQ1RCckJqY2NZOUp5Nmc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwODQwNzA4CWZpbGU6Vk9SUF8wLjkuMF94NjQtc2V0dXAuZXhlCllCc2l6TEZ1T0lIK0VkWGtmNERUUGZsSFNOR0NxQ21aOUxGdm81SXpKaDR3SVV2SE9sM2FxcVZkYm5PVWViVGp2RG5jWHBwNHNnNmVXZ3FlZU12SkNBPT0K",
-                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.9.0/VORP_0.9.0_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dXl1cGV2SVkzSmVqV1N4Mk5CRWQyOG4wT3ZyeWlFbEY0WUZxYzdtNkRKOUo0L3pxa1FweldTTEdtQmZYUkRHUWRsWE40ZWFKNWtLOFlzUzlQMnJOMVFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwODY4Njg5CWZpbGU6Vk9SUF8wLjkuMV94NjQtc2V0dXAuZXhlCmRsL0dBZ1k3WThBMytRUUd6Y2pZT3pscEdrSEM5VkxzdVJoMlkycFNRaUd4cDhOWUFJK1paUFpVd29rckpXaldSU2s1TTZuZFBXcTNkM3lmbmFZZEF3PT0K",
+                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.9.1/VORP_0.9.1_x64-setup.exe"
                                          }
                   }
 }
