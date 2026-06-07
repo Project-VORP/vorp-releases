@@ -1,11 +1,11 @@
 {
-    "version":  "0.8.23",
-    "notes":  "- Sending a folder is much faster — big files inside now stream from disk like single-file sends\n- Progress no longer flickers between files; the ring stays lit until the whole folder is done",
-    "pub_date":  "2026-06-07T10:28:42Z",
+    "version":  "0.8.24",
+    "notes":  "- Optional two-factor authentication using your favourite authenticator app\n- Backup codes for if you ever lose your phone",
+    "pub_date":  "2026-06-07T11:49:01Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTNTMk9rTUUyamk3dVdEUlowdTZhS041Uk5xSHoyRkQ3NHFCcWRiKzJlWXA1TU1GaVp2elJOWlVlMWlHRERGMVlEWnVyMTVSdWd3MFBoeDFVOHFOSlFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNzI4Mjc5CWZpbGU6Vk9SUF8wLjguMjNfeDY0LXNldHVwLmV4ZQp3QytoTHFsUnFkNEkzNEdtNXU3TXZ5M05HR2dFUGp3UytydGZtdzhIM21qT3NsS214aWtkZ2NNVC9Vc1NodWhpaW1TRTZhTjZPLzZwZVpoNTZJRStCUT09Cg==",
-                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.8.23/VORP_0.8.23_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dS81MHdQcDdOMVBFN01vcU1nTmkwNUx4MzVJU2ZUL3FobzdpMURYWDFZdUxaRTArSnVxVFVScVJaY0ZIdm1KSUxlbSs3cFAwbU5FSlRxalZXS21KNkE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwODEzMTM0CWZpbGU6Vk9SUF8wLjguMjRfeDY0LXNldHVwLmV4ZQoxNkZmRDluOEUvOW9YYUxyRHhEWjZudkdGYVBoaGNlQjJrb0VZekUxd0xROHZMdC9sVFF6ZFJXOHREYVM4Q004SFBlQTh6QmJYUDhYZXY5bFA0NnVCQT09Cg==",
+                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.8.24/VORP_0.8.24_x64-setup.exe"
                                          }
                   }
 }
