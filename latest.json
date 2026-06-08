@@ -1,11 +1,11 @@
 {
-    "version":  "0.9.3",
-    "notes":  "- Blocked users now show with their avatar and clean username",
-    "pub_date":  "2026-06-08T03:38:00Z",
+    "version":  "0.9.4",
+    "notes":  "- Friendlier sign-in error when you\u0027re offline — says \"You\u0027re offline\" instead of a confusing URL error",
+    "pub_date":  "2026-06-08T16:55:32Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTFFU1Zra2FKQmRUT1VTUk15YUV2eU5oNFFRRzRxRHcvM1VJeWRwUklZTVdUcFZ3bUdlY3F3ejkrZ2lZUnBsTlNXTjZPc2JLUmZFN3JUM2NsR0xzMlFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwODcwMDc0CWZpbGU6Vk9SUF8wLjkuM194NjQtc2V0dXAuZXhlCkNKMUVaQW9FbVRaMkhJUG5QU05UcnQ4RnUxR2owT1lmVkNhVFRpdWpSajZVb3dibnZEUkFSL3BoZ01RLzYydFdJWXNMRDNFbExuYVNLYWV0aFpReENnPT0K",
-                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.9.3/VORP_0.9.3_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTBCelNnS1Q5YXlEWmRWajMyV1NRRUFoT0RnbVhETHYzSnNRN1FJUExpc2NMRjN5VW5wQXNZMktZdmxoYmtYeU80QXBxOW5OMFQ0MkpFOWVlVTYrc3dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwOTE3OTE4CWZpbGU6Vk9SUF8wLjkuNF94NjQtc2V0dXAuZXhlClhtcy9Ncy9VTlBMYXo3bVY0MmNrcUhWY3YyZ1cwR0tIbVorczFhQTRmNmNlem1nRTJlMlk4RCtHeXBlaExqSnZwUStyN29hV0V4L1RKU3pIQWdwVUFBPT0K",
+                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.9.4/VORP_0.9.4_x64-setup.exe"
                                          }
                   }
 }
