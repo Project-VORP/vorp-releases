@@ -1,11 +1,11 @@
 {
-    "version":  "0.9.4",
-    "notes":  "- Friendlier sign-in error when you\u0027re offline — says \"You\u0027re offline\" instead of a confusing URL error",
-    "pub_date":  "2026-06-08T16:55:32Z",
+    "version":  "0.9.5",
+    "notes":  "- Failed receives no longer leave empty files behind in your VORP folder\n- Sending progress text stops flickering between \"Sending to friend\" and the percentage",
+    "pub_date":  "2026-06-08T17:03:29Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTBCelNnS1Q5YXlEWmRWajMyV1NRRUFoT0RnbVhETHYzSnNRN1FJUExpc2NMRjN5VW5wQXNZMktZdmxoYmtYeU80QXBxOW5OMFQ0MkpFOWVlVTYrc3dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwOTE3OTE4CWZpbGU6Vk9SUF8wLjkuNF94NjQtc2V0dXAuZXhlClhtcy9Ncy9VTlBMYXo3bVY0MmNrcUhWY3YyZ1cwR0tIbVorczFhQTRmNmNlem1nRTJlMlk4RCtHeXBlaExqSnZwUStyN29hV0V4L1RKU3pIQWdwVUFBPT0K",
-                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.9.4/VORP_0.9.4_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dXlrWTdGRjh3WEZQUjZ6RTVzbTNjU1VyaUc1K2JNalVlWnRKcXYrcVRmRjBmdUU4cnVscU9lSTBpVmxSUFJ1L0RDT0d2QmRWTEJTZTF6blV0c2VxTFFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwOTE4MzgxCWZpbGU6Vk9SUF8wLjkuNV94NjQtc2V0dXAuZXhlClZFUmJkbHlFdUU5M1VJbFF1dVZyTDVNUEJaYzBQbVlyVXRTeERQdTF2T3czTFk2cWtvUlg5RU5QWmNxYzlvY3RWa0ZsZTQ2V2VBRlpGN3d0N3o3SkRBPT0K",
+                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.9.5/VORP_0.9.5_x64-setup.exe"
                                          }
                   }
 }
