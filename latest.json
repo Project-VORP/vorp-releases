@@ -1,11 +1,11 @@
 {
-    "version":  "0.9.5",
-    "notes":  "- Failed receives no longer leave empty files behind in your VORP folder\n- Sending progress text stops flickering between \"Sending to friend\" and the percentage",
-    "pub_date":  "2026-06-08T17:03:29Z",
+    "version":  "0.9.6",
+    "notes":  "What\u0027s new in VORP:\n\n• Send a whole folder in one go — even big ones with thousands of files. It\u0027s dramatically faster now.\n• Drag a file or a folder right onto a friend to send it instantly.\n• When you say no to an incoming file, it now actually stops.\n• Smoother progress while things send.",
+    "pub_date":  "2026-06-17T22:31:31Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dXlrWTdGRjh3WEZQUjZ6RTVzbTNjU1VyaUc1K2JNalVlWnRKcXYrcVRmRjBmdUU4cnVscU9lSTBpVmxSUFJ1L0RDT0d2QmRWTEJTZTF6blV0c2VxTFFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwOTE4MzgxCWZpbGU6Vk9SUF8wLjkuNV94NjQtc2V0dXAuZXhlClZFUmJkbHlFdUU5M1VJbFF1dVZyTDVNUEJaYzBQbVlyVXRTeERQdTF2T3czTFk2cWtvUlg5RU5QWmNxYzlvY3RWa0ZsZTQ2V2VBRlpGN3d0N3o3SkRBPT0K",
-                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.9.5/VORP_0.9.5_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dXdva2ovbUUwai9Sd3k5OWFpOTE4U0ZtQ1ZEZElhRUtpSUZOVmtNRWtOWGYvS2ZhQmM3M2JBeW0vR2VsNTZwaThCckdaeWp4cHJCZ3MzWEtsbDJKOVFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxNzE1MzIxCWZpbGU6Vk9SUF8wLjkuNl94NjQtc2V0dXAuZXhlCllRTHNzd25jbURDQzJkYzN1ZkdmaklMbE9aQnJlMWFUdVc3UjZ4dUpzMzlodVVwbE9yU0ZUU1VqcmtGZ1NReGdJUE4rN3pEU2RMaWpzcDNwbjNjdURBPT0K",
+                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.9.6/VORP_0.9.6_x64-setup.exe"
                                          }
                   }
 }
