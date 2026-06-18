@@ -1,11 +1,11 @@
 {
-    "version":  "0.9.6",
-    "notes":  "What\u0027s new in VORP:\n\n• Send a whole folder in one go — even big ones with thousands of files. It\u0027s dramatically faster now.\n• Drag a file or a folder right onto a friend to send it instantly.\n• When you say no to an incoming file, it now actually stops.\n• Smoother progress while things send.",
-    "pub_date":  "2026-06-17T22:31:31Z",
+    "version":  "0.9.7",
+    "notes":  "What\u0027s new in VORP:\n\n• Fixed sends that could get stuck at 100%. If a transfer can\u0027t finish over the direct connection, it now quietly retries through the cloud instead of hanging.\n• Interrupted transfers no longer linger after you restart the app.\n• Folder sending and drag-to-a-friend keep getting smoother.",
+    "pub_date":  "2026-06-18T15:19:05Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dXdva2ovbUUwai9Sd3k5OWFpOTE4U0ZtQ1ZEZElhRUtpSUZOVmtNRWtOWGYvS2ZhQmM3M2JBeW0vR2VsNTZwaThCckdaeWp4cHJCZ3MzWEtsbDJKOVFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxNzE1MzIxCWZpbGU6Vk9SUF8wLjkuNl94NjQtc2V0dXAuZXhlCllRTHNzd25jbURDQzJkYzN1ZkdmaklMbE9aQnJlMWFUdVc3UjZ4dUpzMzlodVVwbE9yU0ZUU1VqcmtGZ1NReGdJUE4rN3pEU2RMaWpzcDNwbjNjdURBPT0K",
-                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.9.6/VORP_0.9.6_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTltaWZINDB1NDdYL1RSYVZMZzlyeTR6MjhTdWJSRW1FcFRPbDJKbE41Y3BxTG8zSmVNRTk0cGc0SUhTYzBYMldOZyt0QTBvcUFITkdORm9NMzVOY2dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxNzc2MDc0CWZpbGU6Vk9SUF8wLjkuN194NjQtc2V0dXAuZXhlCnl3OUdCeHVQVlh2RVhRUCtubUtHa3VIMmFlWW5GWWFrU083cXBXeWZBSUNicUptOGIrQlZDcjVUcXdZdmRwTFdGL1haSldYWTVyMzRQQUZyWkx2S0JBPT0K",
+                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.9.7/VORP_0.9.7_x64-setup.exe"
                                          }
                   }
 }
