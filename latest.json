@@ -1,11 +1,11 @@
 {
-    "version":  "0.9.7",
-    "notes":  "What\u0027s new in VORP:\n\n• Fixed sends that could get stuck at 100%. If a transfer can\u0027t finish over the direct connection, it now quietly retries through the cloud instead of hanging.\n• Interrupted transfers no longer linger after you restart the app.\n• Folder sending and drag-to-a-friend keep getting smoother.",
-    "pub_date":  "2026-06-18T15:19:05Z",
+    "version":  "0.9.8",
+    "notes":  "Bug fixes and improvements",
+    "pub_date":  "2026-06-25T09:13:59Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTltaWZINDB1NDdYL1RSYVZMZzlyeTR6MjhTdWJSRW1FcFRPbDJKbE41Y3BxTG8zSmVNRTk0cGc0SUhTYzBYMldOZyt0QTBvcUFITkdORm9NMzVOY2dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxNzc2MDc0CWZpbGU6Vk9SUF8wLjkuN194NjQtc2V0dXAuZXhlCnl3OUdCeHVQVlh2RVhRUCtubUtHa3VIMmFlWW5GWWFrU083cXBXeWZBSUNicUptOGIrQlZDcjVUcXdZdmRwTFdGL1haSldYWTVyMzRQQUZyWkx2S0JBPT0K",
-                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.9.7/VORP_0.9.7_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTIxREx2eG5TYjBDTmR0ay9LaFBIYmdPOWI4OHNqaFFQOGZjcGZLSHpQN3h6OVBERnRjUTZUdVRML0htdS9LeUhhVlE5U25Ecnl1MmtoWXhXSGN5VkE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMTkzNzYyCWZpbGU6Vk9SUF8wLjkuOF94NjQtc2V0dXAuZXhlCnhCcFEvalIzdjZVeWE0STNYV1BuNUI5aUdCK3BPV2MyS2ZNeEVhb1REVHh0WWw0VUh4V1hFRFlTa1VYWFdqOU5IdzV6OXozL1ZWUnB6MW5HcEFUakRRPT0K",
+                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.9.8/VORP_0.9.8_x64-setup.exe"
                                          }
                   }
 }
