@@ -1,7 +1,7 @@
 {
     "version":  "0.9.8",
-    "notes":  "Bug fixes and improvements",
-    "pub_date":  "2026-06-25T09:13:59Z",
+    "notes":  "What\u0027s new in VORP:\n\n• Fixed the freeze. The app no longer locks up on startup when files were waiting to send.\n• A cleaner, calmer sign-in screen.\n• The icons up top now respond on the first click.",
+    "pub_date":  "2026-06-25T09:21:14Z",
     "platforms":  {
                       "windows-x86_64":  {
                                              "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTIxREx2eG5TYjBDTmR0ay9LaFBIYmdPOWI4OHNqaFFQOGZjcGZLSHpQN3h6OVBERnRjUTZUdVRML0htdS9LeUhhVlE5U25Ecnl1MmtoWXhXSGN5VkE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMTkzNzYyCWZpbGU6Vk9SUF8wLjkuOF94NjQtc2V0dXAuZXhlCnhCcFEvalIzdjZVeWE0STNYV1BuNUI5aUdCK3BPV2MyS2ZNeEVhb1REVHh0WWw0VUh4V1hFRFlTa1VYWFdqOU5IdzV6OXozL1ZWUnB6MW5HcEFUakRRPT0K",
