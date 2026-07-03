@@ -1,11 +1,11 @@
 {
-    "version":  "0.9.9",
-    "notes":  "- Change one file in a folder and send it again, and VORP now sends only what changed instead of the whole folder.\n- Folders you send to a friend who is offline now arrive as soon as they come back online.\n- Fixed a freeze that could happen after sending very large folders.",
-    "pub_date":  "2026-07-02T16:15:24Z",
+    "version":  "0.9.10",
+    "notes":  "- Small files now send the fast, direct way too, instead of taking a slow detour.\n- The buttons at the top (folder, activity, connections, settings) are easy to click now.\n- Settings looks cleaner and simpler.",
+    "pub_date":  "2026-07-03T11:02:52Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTM3SUlSTDdIZEV0Rkc4S0JGTFM1ck91cmVyU3hxR2lsUmg4M2VJbHRFc2J3WHU0b01VSW1NSVI1ME53YWFNWHpHOW9JVG5RQStIaFQvNEJ1Q3AyeXc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyOTg5MTE3CWZpbGU6Vk9SUF8wLjkuOV94NjQtc2V0dXAuZXhlCjRZeTRyeklsSHJET1NwQTRLNk9mRzJJdDBqdUZkbXBrZXpSWU41aUgxd01BNTd1YTRKaVlZREc5SkFqbjk1aFpudndwTlpSQjhIYk9JQ1JtN0xvL0JRPT0K",
-                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.9.9/VORP_0.9.9_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dSsxLzFVam5vOFFjMTNzM0E3bElvY1FxV1RaVGVSL2hJNDVOelZGMXlLNDdIVTBKSGd1aEdSRG1yMG4zVlh1amRiTVhDQ1Q2ajRBMGt6VS9XTHdhaVFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMDU2NzY1CWZpbGU6Vk9SUF8wLjkuMTBfeDY0LXNldHVwLmV4ZQplNlpNa0pSSGVrMzlqT3E0ckF3K2RuY2NuRTFxYVlVakFJQUVjSkV1N3pQWjNWSlY5WVR1Z24vTUx3SC9zWkZrTUYwMWovRlRibytuOG9oc3VPYVVDdz09Cg==",
+                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.9.10/VORP_0.9.10_x64-setup.exe"
                                          }
                   }
 }
