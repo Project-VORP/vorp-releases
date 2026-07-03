@@ -1,11 +1,11 @@
 {
-    "version":  "0.9.10",
-    "notes":  "- Small files now send the fast, direct way too, instead of taking a slow detour.\n- The buttons at the top (folder, activity, connections, settings) are easy to click now.\n- Settings looks cleaner and simpler.",
-    "pub_date":  "2026-07-03T11:02:52Z",
+    "version":  "0.9.11",
+    "notes":  "- Updates now install in a single restart instead of needing two.\n- If a screen ever runs into trouble, VORP shows a Reload button instead of freezing on you.",
+    "pub_date":  "2026-07-03T12:15:40Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dSsxLzFVam5vOFFjMTNzM0E3bElvY1FxV1RaVGVSL2hJNDVOelZGMXlLNDdIVTBKSGd1aEdSRG1yMG4zVlh1amRiTVhDQ1Q2ajRBMGt6VS9XTHdhaVFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMDU2NzY1CWZpbGU6Vk9SUF8wLjkuMTBfeDY0LXNldHVwLmV4ZQplNlpNa0pSSGVrMzlqT3E0ckF3K2RuY2NuRTFxYVlVakFJQUVjSkV1N3pQWjNWSlY5WVR1Z24vTUx3SC9zWkZrTUYwMWovRlRibytuOG9oc3VPYVVDdz09Cg==",
-                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.9.10/VORP_0.9.10_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTRwTy9wTml4d2VhRThhZlNyWWkxODRGM05zNnpUTm14TDA2dlp3Rkd6OUI0VnlWN1EvZnpYei80cnVJQ2c0cWh6c1E4QktOSGtIOGNraC9jaTV2TEFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMDYxMTMxCWZpbGU6Vk9SUF8wLjkuMTFfeDY0LXNldHVwLmV4ZQpCb1NyUXRvbGd4cXNiYnp1Q2pjdHhQRVVDeGJVUUNHclFzbXE5Nk90MFRqSnR3R29iNTJ3SVFQaDFhbzd5RzZFRll5MXpIVlVtNHFQR1E5YWFEbGFEUT09Cg==",
+                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.9.11/VORP_0.9.11_x64-setup.exe"
                                          }
                   }
 }
