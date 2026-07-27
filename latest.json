@@ -1,11 +1,11 @@
 {
-    "version":  "0.9.12",
-    "notes":  "- No connections yet? You can now invite a friend in one tap and start sending right away.\n- The check for updates button no longer gets stuck, and VORP keeps itself up to date quietly in the background when you are not busy, so it never interrupts a transfer.",
-    "pub_date":  "2026-07-27T13:07:25Z",
+    "version":  "0.9.13",
+    "notes":  "- New: live agent sessions. Start an AI working on your machine, invite friends to watch it live, type a correction and it changes course, and it can send the files it makes to everyone in the room.\n- Every session saves a log so you can see who did what.\n- Small polish across the app.",
+    "pub_date":  "2026-07-27T15:54:05Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTBGQTByZlBqZTQ3M2lWZEI4clYzdHJSd254Qm9ocEx0MkwzSkZEeGUwS203aG9qT0RvaUxoRHgxd043UTk1YVJIMk5WUVpvMkVmM2V5VGg5TjFzTWd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MTM3ODM4CWZpbGU6Vk9SUF8wLjkuMTJfeDY0LXNldHVwLmV4ZQpmWU85d1RncjNvVGxpSXM2OUxPamhTZk5ZWEh5T25nOW5Uemc0Y0o1aC9TOEk5VGlXUENPQ0dBbXhmSGNsQlFrK3Jmc011UU9Xd0lMVXhXcUFzcy9EUT09Cg==",
-                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.9.12/VORP_0.9.12_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dS94WTQvODNvS2YvL3JMdmp5cWpZYTljZVhUVTU4RE1Hb2FoY1cwNUovYlJwWGRYWmYzZXB1MEYzaU9qcWRsZXVFNVB1b05JUlRUemZlYWRBMmRRSEFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MTQ3ODM4CWZpbGU6Vk9SUF8wLjkuMTNfeDY0LXNldHVwLmV4ZQplZGpscVNnNjA3MzRKaWJhdDN2Y1dGRTBoWk0wZ1RoNUxvK1QrVWhlWllMckI3bFM4RWtsTUtFdEwwMGl2d3JYOEFJMnhweFdsdmdrV0lrTVlnSGpCdz09Cg==",
+                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.9.13/VORP_0.9.13_x64-setup.exe"
                                          }
                   }
 }
