@@ -1,11 +1,11 @@
 {
-    "version":  "0.9.13",
-    "notes":  "- New: live agent sessions. Start an AI working on your machine, invite friends to watch it live, type a correction and it changes course, and it can send the files it makes to everyone in the room.\n- Every session saves a log so you can see who did what.\n- Small polish across the app.",
-    "pub_date":  "2026-07-27T15:54:05Z",
+    "version":  "0.9.14",
+    "notes":  "- The sign in screen got a whole new look: open, bright, no more gray box.\n- Sessions with several viewers connect more smoothly, and the agent now responds to corrections by name.\n- Small polish across the app.",
+    "pub_date":  "2026-07-27T17:34:03Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dS94WTQvODNvS2YvL3JMdmp5cWpZYTljZVhUVTU4RE1Hb2FoY1cwNUovYlJwWGRYWmYzZXB1MEYzaU9qcWRsZXVFNVB1b05JUlRUemZlYWRBMmRRSEFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MTQ3ODM4CWZpbGU6Vk9SUF8wLjkuMTNfeDY0LXNldHVwLmV4ZQplZGpscVNnNjA3MzRKaWJhdDN2Y1dGRTBoWk0wZ1RoNUxvK1QrVWhlWllMckI3bFM4RWtsTUtFdEwwMGl2d3JYOEFJMnhweFdsdmdrV0lrTVlnSGpCdz09Cg==",
-                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.9.13/VORP_0.9.13_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTA3K091RVJLYk9MZFlld1VqN2pJZHhRNUZUNytVcjE1ZDY3bGtPMDAvOFJQRlpWLzlNQ3kyUTdBL1dZMUJYSWVZK0VMcTFMM3NqZDVlL05CRm9nZFFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MTUzODM2CWZpbGU6Vk9SUF8wLjkuMTRfeDY0LXNldHVwLmV4ZQpPTlc2QmJEdTFid2p1WVBsd3h3ZytNVXNQNjhkUW0zVUJQV1NsdFNneEdMT1JhN3lZMkYwTWxPWHNqamxZWGJYOVY4QzJ2cFBVbzNWU0g3eEIvSWZCQT09Cg==",
+                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.9.14/VORP_0.9.14_x64-setup.exe"
                                          }
                   }
 }
