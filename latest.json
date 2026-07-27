@@ -1,11 +1,11 @@
 {
-    "version":  "0.9.14",
-    "notes":  "- The sign in screen got a whole new look: open, bright, no more gray box.\n- Sessions with several viewers connect more smoothly, and the agent now responds to corrections by name.\n- Small polish across the app.",
-    "pub_date":  "2026-07-27T17:34:03Z",
+    "version":  "0.9.15",
+    "notes":  "- Ask for standing jobs now, like: when a new file lands in my Downloads, send it to the room. VORP watches the folder and the agent acts the moment something arrives.\n- The agent can now actually read your Downloads, Documents and Desktop, so finding files works.\n- It answers people by name, and the session screen got simpler: just type and hit Send.",
+    "pub_date":  "2026-07-27T17:56:46Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTA3K091RVJLYk9MZFlld1VqN2pJZHhRNUZUNytVcjE1ZDY3bGtPMDAvOFJQRlpWLzlNQ3kyUTdBL1dZMUJYSWVZK0VMcTFMM3NqZDVlL05CRm9nZFFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MTUzODM2CWZpbGU6Vk9SUF8wLjkuMTRfeDY0LXNldHVwLmV4ZQpPTlc2QmJEdTFid2p1WVBsd3h3ZytNVXNQNjhkUW0zVUJQV1NsdFNneEdMT1JhN3lZMkYwTWxPWHNqamxZWGJYOVY4QzJ2cFBVbzNWU0g3eEIvSWZCQT09Cg==",
-                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.9.14/VORP_0.9.14_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dS9ZZUxLZDN0MUlyUkU2T1VZQ0N3UmtVKzRwSDVBMW9iTldDTnhGMkdMZG10VittQW45cG5NcTJVZVdmdVZjL2FJN2FtL1ppUENEeHZqSWxsY1ZvM3c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MTU1MTk5CWZpbGU6Vk9SUF8wLjkuMTVfeDY0LXNldHVwLmV4ZQplYlFvbmVHVGRSVHNoQW44eXNKOC9TaDU0eHFyWUtJWWsyRHJmSXNTZGk4UUdXM0xGYUFkYU1odUc1UmMyaTYzVTRFYlBXSUxOOWZ6b3pzeWhEWnJCUT09Cg==",
+                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.9.15/VORP_0.9.15_x64-setup.exe"
                                          }
                   }
 }
