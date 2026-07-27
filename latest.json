@@ -1,11 +1,11 @@
 {
-    "version":  "0.9.15",
-    "notes":  "- Ask for standing jobs now, like: when a new file lands in my Downloads, send it to the room. VORP watches the folder and the agent acts the moment something arrives.\n- The agent can now actually read your Downloads, Documents and Desktop, so finding files works.\n- It answers people by name, and the session screen got simpler: just type and hit Send.",
-    "pub_date":  "2026-07-27T17:56:46Z",
+    "version":  "0.9.16",
+    "notes":  "- Your Claude can now use VORP. Open Settings, hit Install skill under Connect your Claude, and then just tell Claude things like: send the report to ahzam. It lands in their VORP, real P2P.\n- Any local AI tool can do the same through the new bridge.\n- The session agent runs its jobs one at a time now, so nothing trips over itself.",
+    "pub_date":  "2026-07-27T18:14:21Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dS9ZZUxLZDN0MUlyUkU2T1VZQ0N3UmtVKzRwSDVBMW9iTldDTnhGMkdMZG10VittQW45cG5NcTJVZVdmdVZjL2FJN2FtL1ppUENEeHZqSWxsY1ZvM3c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MTU1MTk5CWZpbGU6Vk9SUF8wLjkuMTVfeDY0LXNldHVwLmV4ZQplYlFvbmVHVGRSVHNoQW44eXNKOC9TaDU0eHFyWUtJWWsyRHJmSXNTZGk4UUdXM0xGYUFkYU1odUc1UmMyaTYzVTRFYlBXSUxOOWZ6b3pzeWhEWnJCUT09Cg==",
-                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.9.15/VORP_0.9.15_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dS9mSE0yZmVUSGZjQkFwT21JUFQzbkViNnFpRHVWa3Z5MHJaTWFNalFMcWtTSTdrYWw2T1dDZ1VvRlFveEhmRit0djJYVVRaOFdRL1Z4VFBSVk4zcmdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MTU2MjU0CWZpbGU6Vk9SUF8wLjkuMTZfeDY0LXNldHVwLmV4ZQptVjZ1d216eis4T3ByL3Jsa2pidUhZVXJyYmNxZWd0Sm11VDlOejI1VTdFbFU5ZnVqWXI2S3U0ekE2RkZ6TlFXUS9oT0g5YlBzMEp6dmZXSytkQ2pCQT09Cg==",
+                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.9.16/VORP_0.9.16_x64-setup.exe"
                                          }
                   }
 }
