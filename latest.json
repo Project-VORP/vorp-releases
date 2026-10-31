@@ -1,11 +1,11 @@
 {
-    "version":  "0.9.17",
-    "notes":  "- Your Claude can now connect to VORP with one click in Settings, and send files to your friends for you.\n- Share your AI session with a friend. They can watch it live from their own VORP, and any files it makes can land straight in their VORP too.\n- New inbox: things friends share with you wait in one place until you open them.\n- Fixed the right-click Send to Friend menu sometimes coming up empty.\n- A fresh first screen, a smoother sign-in, and little fixes all around.",
-    "pub_date":  "2026-07-28T03:29:51Z",
+    "version":  "0.9.18",
+    "notes":  "- You can now upgrade your plan. Open your profile and tap Upgrade next to your plan.\n- Your plan updates in the app as soon as you finish paying.\n- Small fixes and polish.",
+    "pub_date":  "2026-10-31T08:24:17Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTdtcVkrSHMrbTRYY29YdWpWRmZVNUo4Rkg1VzkyMnA3cTdSbm5RMmExNkFEOGtRZjVkS0NOZUhucFBGWEtkZHJCd0c0VnU0blNqckZlL1d6WnhiYVFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MTg5NTg1CWZpbGU6Vk9SUF8wLjkuMTdfeDY0LXNldHVwLmV4ZQoxSzdrWjAzRjhHWlNtdFladmZ3bmhwbTRRdm90a2xHVEJEdXZ6WDR3d1kvTEQ5SnU4bjRmUUdNRFNrdG5zbXdtZm5VWkVmZTJYaVUzL0Mwa0JkNkxBUT09Cg==",
-                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.9.17/VORP_0.9.17_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dThjK0Zma1kyZU15Tnd4YUNDbHVMVDNIVytQbUc1aVBRTWpSSEppWElWd1QyNEpwNWRzaXZaT0VsR3BOOU5NM1U3MjdFL3JHUUpCcmtGNXJhVUxMdmdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDE1MjQ5CWZpbGU6Vk9SUF8wLjkuMThfeDY0LXNldHVwLmV4ZQpwTFd2Rktvc0lZR2tKeTk5VVgyUFI2UzRJZ0Z4VFVoTlNEenp6NXFTVENQcFhCQndHT2JFbVpRL1Q5eHVZVFRmdyt4M21NRURXMUphd2FyOUk4UmdEZz09Cg==",
+                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.9.18/VORP_0.9.18_x64-setup.exe"
                                          }
                   }
 }
