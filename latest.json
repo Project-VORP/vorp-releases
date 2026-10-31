@@ -1,11 +1,11 @@
 {
-    "version":  "0.9.20",
-    "notes":  "- Send files of any size straight to a friend. Big files no longer go through the cloud, so there\u0027s no size limit.\n- If there isn\u0027t enough space on your friend\u0027s computer, VORP tells you right away instead of failing partway.\n- Your computer stays awake while a transfer is running.\n- Shared Claude sessions are easier to follow: you can see who\u0027s hosting, whether Claude is working, and who\u0027s in the room.\n- Everyone in a shared session can message Claude, and you can invite more friends while it\u0027s running.\n- A small Open button keeps your session one click away when you minimize it.",
-    "pub_date":  "2026-10-31T11:20:25Z",
+    "version":  "0.9.21",
+    "notes":  "- New: shared workspaces. Make one with a few friends, add files, and ask VORP AI about them together. Everyone sees the same answers.\n- New: share your terminal. Run Claude Code on your computer and friends watch it live in their own terminal window. You choose who can type.\n- Big safety update: only friends can send you files, files from others can\u0027t be faked, and downloaded programs are never opened automatically.\n- Faster, more reliable sends, especially on slow connections and while VORP is minimized. Big downloads now resume after a hiccup.\n- Updates now download quietly in the background and install when you\u0027re not using VORP.\n- Early-access members can redeem 3 months of Pro free from Settings, Upgrade.",
+    "pub_date":  "2026-10-31T16:48:11Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dXdnZ1FCbVNTZW54K3ZERUw1NWJaVWVEQWNZckRUMHlEYVFDVjlHUDd1Sko1SnpLRjc1ZE5rQ1RoVVlRcENjN2FaMXh2RlBlQ2h1WVNERXU2ZVo0S0E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDI1NTQ5CWZpbGU6Vk9SUF8wLjkuMjBfeDY0LXNldHVwLmV4ZQo2TG1LZzRPcElZNDB5UkM3eHNTNVRPQ29yT0tiRXgrRDRMN3R0YnA2Wm9OdUhTTXBOYVpEWWNZcjNYRWF1L0ZwQ1JjMStmZUZXUjF3K1krdVJ2YlpBdz09Cg==",
-                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.9.20/VORP_0.9.20_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dS9CYUMvcGtWQzFyQVZtZk96aTRDWmRnRFZmZWhqdzlza2llU05xQWxDZXhqdWFGZnFBeWN1VHNaVFNVZWs4ZW1vL3JLbFAvNTBGaHpONzFQeTIxZkFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDQ1NDc3CWZpbGU6Vk9SUF8wLjkuMjFfeDY0LXNldHVwLmV4ZQpYaU5GSTZKS0l4cWZ4WXd2NHhhZElaYmJaSjF1dTJCSG5LWURSTFlTWmVqNlpaRjIxbU9WRXZXb2N2YlJtUU9pWUV3ZDBTZmIvRjh2Y2xmaFZsUm5DQT09Cg==",
+                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.9.21/VORP_0.9.21_x64-setup.exe"
                                          }
                   }
 }
