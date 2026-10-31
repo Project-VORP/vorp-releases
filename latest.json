@@ -1,11 +1,11 @@
 {
-    "version":  "0.9.18",
-    "notes":  "- You can now upgrade your plan. Open your profile and tap Upgrade next to your plan.\n- Your plan updates in the app as soon as you finish paying.\n- Small fixes and polish.",
-    "pub_date":  "2026-10-31T08:24:17Z",
+    "version":  "0.9.19",
+    "notes":  "- You can now upgrade your plan. Click the Account icon at the top and tap Upgrade next to your plan.\n- Your plan updates in the app as soon as you finish paying.",
+    "pub_date":  "2026-10-31T08:33:17Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dThjK0Zma1kyZU15Tnd4YUNDbHVMVDNIVytQbUc1aVBRTWpSSEppWElWd1QyNEpwNWRzaXZaT0VsR3BOOU5NM1U3MjdFL3JHUUpCcmtGNXJhVUxMdmdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDE1MjQ5CWZpbGU6Vk9SUF8wLjkuMThfeDY0LXNldHVwLmV4ZQpwTFd2Rktvc0lZR2tKeTk5VVgyUFI2UzRJZ0Z4VFVoTlNEenp6NXFTVENQcFhCQndHT2JFbVpRL1Q5eHVZVFRmdyt4M21NRURXMUphd2FyOUk4UmdEZz09Cg==",
-                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.9.18/VORP_0.9.18_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTRhakNsSVdSRERRRWkrNHBreFBVRWM0a0JSMXRrOVA2b0czbjlNc0EwMUZySHZtYytOOXNnNGR2TFdjRklMY3ZSR2tOYnAveWJCU0sxWG1ySnVCSHdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDE1NzkwCWZpbGU6Vk9SUF8wLjkuMTlfeDY0LXNldHVwLmV4ZQpXZkNEUWVEaER4K05KUDR3OHR2VFlXVkg2b01NSlFYNys2ZWsxR3I4RWVNTW5jaDJSMEkzRmd1ejdpN25Ed2xlbnJMS0lFY1N0bHpmZU9VUkVSM0FDQT09Cg==",
+                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.9.19/VORP_0.9.19_x64-setup.exe"
                                          }
                   }
 }
