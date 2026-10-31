@@ -1,11 +1,11 @@
 {
-    "version":  "0.9.19",
-    "notes":  "- You can now upgrade your plan. Click the Account icon at the top and tap Upgrade next to your plan.\n- Your plan updates in the app as soon as you finish paying.",
-    "pub_date":  "2026-10-31T08:33:17Z",
+    "version":  "0.9.20",
+    "notes":  "- Send files of any size straight to a friend. Big files no longer go through the cloud, so there\u0027s no size limit.\n- If there isn\u0027t enough space on your friend\u0027s computer, VORP tells you right away instead of failing partway.\n- Your computer stays awake while a transfer is running.\n- Shared Claude sessions are easier to follow: you can see who\u0027s hosting, whether Claude is working, and who\u0027s in the room.\n- Everyone in a shared session can message Claude, and you can invite more friends while it\u0027s running.\n- A small Open button keeps your session one click away when you minimize it.",
+    "pub_date":  "2026-10-31T11:20:25Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTRhakNsSVdSRERRRWkrNHBreFBVRWM0a0JSMXRrOVA2b0czbjlNc0EwMUZySHZtYytOOXNnNGR2TFdjRklMY3ZSR2tOYnAveWJCU0sxWG1ySnVCSHdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDE1NzkwCWZpbGU6Vk9SUF8wLjkuMTlfeDY0LXNldHVwLmV4ZQpXZkNEUWVEaER4K05KUDR3OHR2VFlXVkg2b01NSlFYNys2ZWsxR3I4RWVNTW5jaDJSMEkzRmd1ejdpN25Ed2xlbnJMS0lFY1N0bHpmZU9VUkVSM0FDQT09Cg==",
-                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.9.19/VORP_0.9.19_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dXdnZ1FCbVNTZW54K3ZERUw1NWJaVWVEQWNZckRUMHlEYVFDVjlHUDd1Sko1SnpLRjc1ZE5rQ1RoVVlRcENjN2FaMXh2RlBlQ2h1WVNERXU2ZVo0S0E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDI1NTQ5CWZpbGU6Vk9SUF8wLjkuMjBfeDY0LXNldHVwLmV4ZQo2TG1LZzRPcElZNDB5UkM3eHNTNVRPQ29yT0tiRXgrRDRMN3R0YnA2Wm9OdUhTTXBOYVpEWWNZcjNYRWF1L0ZwQ1JjMStmZUZXUjF3K1krdVJ2YlpBdz09Cg==",
+                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.9.20/VORP_0.9.20_x64-setup.exe"
                                          }
                   }
 }
