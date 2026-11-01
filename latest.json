@@ -1,11 +1,11 @@
 {
-    "version":  "0.9.21",
-    "notes":  "- New: shared workspaces. Make one with a few friends, add files, and ask VORP AI about them together. Everyone sees the same answers.\n- New: share your terminal. Run Claude Code on your computer and friends watch it live in their own terminal window. You choose who can type.\n- Big safety update: only friends can send you files, files from others can\u0027t be faked, and downloaded programs are never opened automatically.\n- Faster, more reliable sends, especially on slow connections and while VORP is minimized. Big downloads now resume after a hiccup.\n- Updates now download quietly in the background and install when you\u0027re not using VORP.\n- Early-access members can redeem 3 months of Pro free from Settings, Upgrade.",
-    "pub_date":  "2026-10-31T16:48:11Z",
+    "version":  "0.9.22",
+    "notes":  "- Fixed: sending a file from the right-click menu could open a blank white window that wouldn\u0027t close\n- The incoming-file window and the send popup are steadier too",
+    "pub_date":  "2026-11-01T19:57:56Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dS9CYUMvcGtWQzFyQVZtZk96aTRDWmRnRFZmZWhqdzlza2llU05xQWxDZXhqdWFGZnFBeWN1VHNaVFNVZWs4ZW1vL3JLbFAvNTBGaHpONzFQeTIxZkFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDQ1NDc3CWZpbGU6Vk9SUF8wLjkuMjFfeDY0LXNldHVwLmV4ZQpYaU5GSTZKS0l4cWZ4WXd2NHhhZElaYmJaSjF1dTJCSG5LWURSTFlTWmVqNlpaRjIxbU9WRXZXb2N2YlJtUU9pWUV3ZDBTZmIvRjh2Y2xmaFZsUm5DQT09Cg==",
-                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.9.21/VORP_0.9.21_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWDFEeFhIVTI2dTRBeWluTm1KL251S1R2QUx6LzdCaysyWHhIY21oNmY3MUNGazhab0lJSFlrMUhxRWRjek5qL1NhYk90RzQxYnNuNmlJc0hML0ZIN0xUZHJLNlBRS0FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNTQzMjY4CWZpbGU6Vk9SUF8wLjkuMjJfeDY0LXNldHVwLmV4ZQptdzlmT2JQNlQyQnp6bERTU0lZbTNMRGdRRTBOZWwrVXNjdXRSa0FKeVZMOE5Hc0RJa1BnUHR4UkdYdkh0V0FKRkExT1dyVjF3ZnJjeU43UEpWdFBDQT09Cg==",
+                                             "url":  "https://github.com/Project-VORP/vorp-releases/releases/download/v0.9.22/VORP_0.9.22_x64-setup.exe"
                                          }
                   }
 }
